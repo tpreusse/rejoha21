@@ -922,7 +922,7 @@
       ],
       "readingMinutes": 2,
       "internalLinkCountOut": 1,
-      "internalLinkCountIn": 1,
+      "internalLinkCountIn": 2,
       "externalLinkCount": 1
     },
     {
@@ -1437,7 +1437,7 @@
       ],
       "readingMinutes": 4,
       "internalLinkCountOut": 1,
-      "internalLinkCountIn": 0,
+      "internalLinkCountIn": 1,
       "externalLinkCount": 8
     },
     {
@@ -3779,7 +3779,7 @@
       ],
       "readingMinutes": 5,
       "internalLinkCountOut": 1,
-      "internalLinkCountIn": 2,
+      "internalLinkCountIn": 1,
       "externalLinkCount": 5
     },
     {
@@ -3806,7 +3806,7 @@
       ],
       "readingMinutes": 4,
       "internalLinkCountOut": 1,
-      "internalLinkCountIn": 4,
+      "internalLinkCountIn": 3,
       "externalLinkCount": 1
     },
     {
@@ -3976,7 +3976,7 @@
       "authorIds": [],
       "readingMinutes": 4,
       "internalLinkCountOut": 2,
-      "internalLinkCountIn": 3,
+      "internalLinkCountIn": 2,
       "externalLinkCount": 6
     },
     {
@@ -4057,7 +4057,7 @@
       ],
       "readingMinutes": 13,
       "internalLinkCountOut": 1,
-      "internalLinkCountIn": 2,
+      "internalLinkCountIn": 1,
       "externalLinkCount": 16
     },
     {
@@ -4303,7 +4303,7 @@
       ],
       "readingMinutes": 6,
       "internalLinkCountOut": 2,
-      "internalLinkCountIn": 5,
+      "internalLinkCountIn": 3,
       "externalLinkCount": 0
     },
     {
@@ -4369,7 +4369,7 @@
       "authorIds": [],
       "readingMinutes": 17,
       "internalLinkCountOut": 1,
-      "internalLinkCountIn": 2,
+      "internalLinkCountIn": 1,
       "externalLinkCount": 5
     },
     {
@@ -4564,7 +4564,7 @@
       ],
       "readingMinutes": 5,
       "internalLinkCountOut": 2,
-      "internalLinkCountIn": 4,
+      "internalLinkCountIn": 2,
       "externalLinkCount": 4
     },
     {
@@ -4604,7 +4604,7 @@
       "authorIds": [],
       "readingMinutes": 7,
       "internalLinkCountOut": 1,
-      "internalLinkCountIn": 2,
+      "internalLinkCountIn": 1,
       "externalLinkCount": 2
     },
     {
@@ -4798,7 +4798,7 @@
       ],
       "readingMinutes": 10,
       "internalLinkCountOut": 2,
-      "internalLinkCountIn": 3,
+      "internalLinkCountIn": 2,
       "externalLinkCount": 18
     },
     {
@@ -4907,442 +4907,18 @@
       "externalLinkCount": 1
     },
     {
-      "id": "republik/article-testartikel-cr",
-      "url": "https://www.republik.ch/2019/07/31/diplomatie-im-dienst-des-weltkonzerns",
-      "title": "Diplomatie im Dienst des Weltkonzerns",
-      "description": "Wie sich das EDA vom weltgrössten Tabakmulti Philip Morris nicht nur sponsern, sondern auch politisch einspannen lässt.",
-      "publishDate": "2019-07-31T02:50:00.000Z",
+      "id": "republik/article-update-aus-den-it-bueros",
+      "url": "https://www.republik.ch/2019/11/29/was-wir-als-naechstes-bauen-und-umbauen",
+      "title": "Was wir als Nächstes bauen – und umbauen",
+      "description": "Im Oktober haben Sie uns beim Priorisieren geholfen. Danke dafür! Wir arbeiten an einer verbesserten Suche, neuen Rubrikseiten und der Erneuerungskampagne.",
+      "publishDate": "2019-11-29T03:44:00.000Z",
       "authorIds": [
-        "93d6839d-fe3e-491a-bbca-477585e776e4",
-        "ae2dd456-9077-4f7c-9aa8-af910adf6a02"
-      ],
-      "readingMinutes": 16,
-      "internalLinkCountOut": 1,
-      "internalLinkCountIn": 0,
-      "externalLinkCount": 34
-    },
-    {
-      "id": "republik/article-homestory-8-brokeback-olten-somewhere-over-the-rainbow",
-      "url": "https://www.republik.ch/2019/07/31/homestory-9-brokeback-olten",
-      "title": "Brokeback Olten",
-      "description": "Die St. Galler EDU-Präsidentin Lisa Leisi sieht in der Politik Gott und den Teufel am Werk. Der Badener SP-Grossrat Florian Vock dagegen konzentriert sich lieber auf weltliche Macht­strukturen. Serie «Homestory», Folge 9.",
-      "publishDate": "2019-07-31T02:48:00.000Z",
-      "authorIds": [
-        "ce59bb9f-a491-4928-9e0c-3ca97a8f4f8d",
-        "e84af7cc-9b7b-48bb-a4d8-f057173de9ac"
-      ],
-      "readingMinutes": 10,
-      "internalLinkCountOut": 0,
-      "internalLinkCountIn": 0,
-      "externalLinkCount": 0
-    },
-    {
-      "id": "republik/article-33-fragen-antworten-8-14",
-      "url": "https://www.republik.ch/2019/07/30/was-waere-ein-liberaler-umgang-mit-fluechtlingen-in-seenot-ist-kapitaenin-rackete-eine-heldin",
-      "title": "Was wäre ein liberaler Umgang mit Flüchtlingen in Seenot – ist Kapitänin Rackete eine Heldin?",
-      "description": "Antworten von Migrationsrechtsforscher Stefan Schlegel (9 bis 17).",
-      "publishDate": "2019-07-30T02:48:00.000Z",
-      "authorIds": [
-        "e8b718fb-e3fe-4960-85e9-f6a0e594ca33",
-        "7b0d6a74-f57b-4498-8eb7-455936672736"
-      ],
-      "readingMinutes": 5,
-      "internalLinkCountOut": 1,
-      "internalLinkCountIn": 0,
-      "externalLinkCount": 5
-    },
-    {
-      "id": "republik/article-bronfen-western",
-      "url": "https://www.republik.ch/2019/07/30/high-noon-aber-nicht-ohne-frauen",
-      "title": "High Noon – aber nicht ohne Frauen",
-      "description": "Western sind Männersache. Stimmt das? Nicht in der Serie «Godless». Hier verändert eine feministische Verteidigungs­aktion die Vorzeichen des klassischen Hollywood-Genres.",
-      "publishDate": "2019-07-30T02:46:00.000Z",
-      "authorIds": [],
-      "readingMinutes": 6,
-      "internalLinkCountOut": 1,
-      "internalLinkCountIn": 0,
-      "externalLinkCount": 1
-    },
-    {
-      "id": "republik/article-30-fragen-wie-funktioniert-liberale-migrationspolitik",
-      "url": "https://www.republik.ch/2019/07/29/die-angst-vor-fluechtlingen-entschaedigen-das-ist-liberale-migrationspolitik",
-      "title": "Die Angst vor Flüchtlingen entschädigen – ist das liberale Migrationspolitik?",
-      "description": "Antworten von Migrationsrechts­forscher Stefan Schlegel (1 bis 8).",
-      "publishDate": "2019-07-29T02:48:00.000Z",
-      "authorIds": [
-        "e8b718fb-e3fe-4960-85e9-f6a0e594ca33",
-        "7b0d6a74-f57b-4498-8eb7-455936672736"
+        "57ff6996-e3ef-4186-a2e6-95376f2b086b"
       ],
       "readingMinutes": 4,
-      "internalLinkCountOut": 1,
-      "internalLinkCountIn": 0,
+      "internalLinkCountOut": 2,
+      "internalLinkCountIn": 1,
       "externalLinkCount": 1
-    },
-    {
-      "id": "republik/article-italianita-war-damals-noch-ein-fremdwort",
-      "url": "https://www.republik.ch/2019/07/26/jagt-sie-fort",
-      "title": "Jagt sie fort!",
-      "description": "In Italien herrscht offener Rassismus gegen Menschen, die Hilfe im Land suchen. Einst waren es die Italiener selbst, die aus purer Not ihr Land verliessen und auch in die Schweiz kamen. Ein neues Buch ermöglicht tiefe Einblicke in diese Geschichte.",
-      "publishDate": "2019-07-26T02:46:00.000Z",
-      "authorIds": [
-        "5f45d6a3-ff52-4e67-9925-92447f43d2e1"
-      ],
-      "readingMinutes": 10,
-      "internalLinkCountOut": 1,
-      "internalLinkCountIn": 0,
-      "externalLinkCount": 11
-    },
-    {
-      "id": "republik/article-ic",
-      "url": "https://www.republik.ch/2019/07/25/jetzt-bloss-nicht-zurueckkrebsen",
-      "title": "Jetzt bloss nicht zurückkrebsen",
-      "description": "Aussenminister Ignazio Cassis befreit die Schweiz vom Käse-und Schokolade­image. Und leistet einen Beitrag zur Lösung des Migrations­problems. ",
-      "publishDate": "2019-07-25T02:46:00.000Z",
-      "authorIds": [],
-      "readingMinutes": 4,
-      "internalLinkCountOut": 2,
-      "internalLinkCountIn": 0,
-      "externalLinkCount": 6
-    },
-    {
-      "id": "republik/article-das-letzte-pfand",
-      "url": "https://www.republik.ch/2019/07/24/das-tiefere-rentenalter-ist-paternalistisch-durch-die-hintertuer-reingekommen",
-      "title": "Soll das Frauenrentenalter steigen?",
-      "description": "Und falls ja, zu welchem Preis? Ein Streitgespräch über Gleichbehandlung und politischen Kampf zwischen den Ökonominnen Mascha Madörin und Monika Bütler.",
-      "publishDate": "2019-07-24T02:50:00.000Z",
-      "authorIds": [
-        "93d6839d-fe3e-491a-bbca-477585e776e4",
-        "cdbfa09d-2b1e-402e-8943-30b4b1791139"
-      ],
-      "readingMinutes": 11,
-      "internalLinkCountOut": 2,
-      "internalLinkCountIn": 0,
-      "externalLinkCount": 6
-    },
-    {
-      "id": "republik/article-lehrstueck-ueber-strukturellen-rassismus",
-      "url": "https://www.republik.ch/2019/07/24/wenn-angst-den-rechtsstaat-formt",
-      "title": "Wenn Angst den Rechtsstaat formt",
-      "description": "Im New Yorker Central Park wird in den späten 1980er-Jahren eine Joggerin vergewaltigt. Die Aufklärung des Vorfalls führt zu einem Justizskandal, zum Lehrstück über strukturellen Rassismus – und zu einem Netflix-Vierteiler. ",
-      "publishDate": "2019-07-24T02:48:00.000Z",
-      "authorIds": [
-        "c641d9bf-9996-4b38-807b-8c1c1148943c"
-      ],
-      "readingMinutes": 9,
-      "internalLinkCountOut": 1,
-      "internalLinkCountIn": 0,
-      "externalLinkCount": 16
-    },
-    {
-      "id": "republik/article-kraft-deiner-imagination",
-      "url": "https://www.republik.ch/2019/07/24/ein-grelles-licht-auf-den-wahnsinn-unserer-tage",
-      "title": "Ein grelles Licht auf den Wahnsinn unserer Tage",
-      "description": "Der Basler Künstler Christoph Büchel stellt auf der 58. Biennale von Venedig das Wrack eines gesunkenen Flüchtlingsschiffs aus. Ist das geschmacklos? Oder politische Kunst?",
-      "publishDate": "2019-07-24T02:46:00.000Z",
-      "authorIds": [],
-      "readingMinutes": 11,
-      "internalLinkCountOut": 2,
-      "internalLinkCountIn": 0,
-      "externalLinkCount": 2
-    },
-    {
-      "id": "republik/article-bilderklau-oder-appropriation",
-      "url": "https://www.republik.ch/2019/07/23/bilderklau-oder-copy-kunst",
-      "title": "Bilderklau oder Copy-Kunst?",
-      "description": "In den Medien werden Urheberrechts­verletzungen scharf geahndet. In der Kunst nicht. Fragt sich, ob das richtig ist.",
-      "publishDate": "2019-07-23T02:48:00.000Z",
-      "authorIds": [],
-      "readingMinutes": 6,
-      "internalLinkCountOut": 1,
-      "internalLinkCountIn": 0,
-      "externalLinkCount": 10
-    },
-    {
-      "id": "republik/article-l-espion-dans-la-salle-de-classe",
-      "url": "https://www.republik.ch/2019/07/23/l-espion-dans-la-salle-de-classe",
-      "title": "L’espion dans la salle de classe",
-      "description": "Google équipe la salle de classe numérique – et collecte ainsi les données de mineurs. La Suisse peut-elle encore stopper cette surveillance totale?",
-      "publishDate": "2019-07-23T02:46:00.000Z",
-      "authorIds": [
-        "6ae2733e-1562-47b3-881c-88e9d3d28da9"
-      ],
-      "readingMinutes": 13,
-      "internalLinkCountOut": 1,
-      "internalLinkCountIn": 0,
-      "externalLinkCount": 16
-    },
-    {
-      "id": "republik/article-wo-die-reichen-kerle-wohnen",
-      "url": "https://www.republik.ch/2019/07/22/wo-die-reichen-kerle-wohnen",
-      "title": "Wo die reichen Kerle wohnen",
-      "description": "Wenigverdiener auf dem Land, Wohlhabende in der Stadt? Ganz so einfach ist es nicht: drei Karten zur sozialen Schichtung der Schweiz.",
-      "publishDate": "2019-07-22T02:50:00.000Z",
-      "authorIds": [],
-      "readingMinutes": 7,
-      "internalLinkCountOut": 1,
-      "internalLinkCountIn": 0,
-      "externalLinkCount": 2
-    },
-    {
-      "id": "republik/article-wdwww-19-07",
-      "url": "https://www.republik.ch/2019/07/19/historische-wahl-alte-schweizer-munition-eine-rakete-in-italien-und-eine-anklage-auf-malta",
-      "title": "Historische Wahl, alte Schweizer Munition, eine Rakete in Italien – und eine Anklage auf Malta",
-      "description": "Woche 29/2019 – das Kurzbriefing aus der Republik-Redaktion.",
-      "publishDate": "2019-07-19T02:48:00.000Z",
-      "authorIds": [
-        "249b6225-43b4-4903-835c-0e826b8f377d",
-        "dd782b8d-4eae-4a05-80d8-494760d2d58a"
-      ],
-      "readingMinutes": 9,
-      "internalLinkCountOut": 1,
-      "internalLinkCountIn": 0,
-      "externalLinkCount": 27
-    },
-    {
-      "id": "republik/article-homestory-7-bern-nik-gugger-et-al-a-prayer-before-dawn",
-      "url": "https://www.republik.ch/2019/07/17/like-a-prayer",
-      "title": "Like a Prayer",
-      "description": "EVP-Nationalrat Nik Gugger erzählt den beiden Reportern einen Witz. Zum Glück können sie danach mit Grünen-Nationalrätin Aline Trede Bier trinken. Serie «Homestory», Folge 7.",
-      "publishDate": "2019-07-17T02:50:00.000Z",
-      "authorIds": [
-        "ce59bb9f-a491-4928-9e0c-3ca97a8f4f8d",
-        "e84af7cc-9b7b-48bb-a4d8-f057173de9ac"
-      ],
-      "readingMinutes": 6,
-      "internalLinkCountOut": 1,
-      "internalLinkCountIn": 0,
-      "externalLinkCount": 0
-    },
-    {
-      "id": "republik/article-am-klavier-fuer-alina",
-      "url": "https://www.republik.ch/2019/07/17/am-klavier-wunschkonzert",
-      "title": "Wunschkonzert",
-      "description": "Arvo Pärt: «Für Alina»",
-      "publishDate": "2019-07-17T02:46:00.000Z",
-      "authorIds": [
-        "abb4b5c7-cbf4-4659-81cc-e49baa821a4b"
-      ],
-      "readingMinutes": null,
-      "internalLinkCountOut": 1,
-      "internalLinkCountIn": 0,
-      "externalLinkCount": 2
-    },
-    {
-      "id": "republik/article-europa-ist-der-sonderfall",
-      "url": "https://www.republik.ch/2019/07/16/sonderfall-europa",
-      "title": "Die EU hat Probleme – die Schweiz kennt die Lösungen",
-      "description": "Kulturelle Gräben, soziale Spannungen, wirtschaftliche Ungleichheit: Was die Europäische Union aus der Entstehungs­geschichte der Schweiz lernen kann.",
-      "publishDate": "2019-07-16T02:50:00.000Z",
-      "authorIds": [],
-      "readingMinutes": 10,
-      "internalLinkCountOut": 1,
-      "internalLinkCountIn": 0,
-      "externalLinkCount": 1
-    },
-    {
-      "id": "republik/article-ich-bin-der-ich-nicht-bin",
-      "url": "https://www.republik.ch/2019/07/16/ich-bin-der-ich-nicht-bin",
-      "title": "Ich bin, der ich nicht bin!",
-      "description": "Was ist Identität? Eine private Fiktion, sagt David Hume. Und diesen Begriff von Identität sollten wir bejahen. Teil 2/2.",
-      "publishDate": "2019-07-16T02:46:00.000Z",
-      "authorIds": [
-        "008d591a-810e-4603-8260-7a9a530b9096"
-      ],
-      "readingMinutes": 6,
-      "internalLinkCountOut": 2,
-      "internalLinkCountIn": 0,
-      "externalLinkCount": 0
-    },
-    {
-      "id": "republik/article-parlamentarierkarrieren",
-      "url": "https://www.republik.ch/2019/07/15/mehr-stress-im-ringen-um-politische-macht",
-      "title": "Mehr Stress im Ringen um politische Macht",
-      "description": "Wer wird wiedergewählt? Wer abgewählt? Im Herbst sind Wahlen. Wir analysieren, warum Schweizer Politiker aus dem Parlament ausscheiden – mit Daten der letzten 100 Jahre.",
-      "publishDate": "2019-07-15T02:50:00.000Z",
-      "authorIds": [
-        "80229083-2b7c-4de8-a5c7-8ad79b1e80fc"
-      ],
-      "readingMinutes": 11,
-      "internalLinkCountOut": 1,
-      "internalLinkCountIn": 0,
-      "externalLinkCount": 5
-    },
-    {
-      "id": "republik/article-westfernsehen",
-      "url": "https://www.republik.ch/2019/07/13/die-neuen-freunde-der-nzz",
-      "title": "Die neuen Freunde der NZZ",
-      "description": "Der «Neuen Zürcher Zeitung» wird die AfD-Nähe zum Vorwurf gemacht. Was hat es auf sich mit der «Deutschland­strategie» des Schweizer Traditionsblattes?",
-      "publishDate": "2019-07-13T02:50:00.000Z",
-      "authorIds": [
-        "00051db6-0b8d-4808-9830-efbee0e4d2af"
-      ],
-      "readingMinutes": 6,
-      "internalLinkCountOut": 0,
-      "internalLinkCountIn": 0,
-      "externalLinkCount": 18
-    },
-    {
-      "id": "republik/article-schluss-mit-dreckigem-geld",
-      "url": "https://www.republik.ch/2019/07/13/kann-die-kunst-sich-das-leisten",
-      "title": "Kann die Kunst sich das leisten?",
-      "description": "Fragwürdige Sponsoren, schmutziges Geld – die Kunstwelt wird vom Big Business vereinnahmt. Jetzt entdecken Künstlerinnen den Widerstand neu. Und beissen die Hand, die sie füttert.",
-      "publishDate": "2019-07-13T02:48:00.000Z",
-      "authorIds": [],
-      "readingMinutes": 17,
-      "internalLinkCountOut": 1,
-      "internalLinkCountIn": 0,
-      "externalLinkCount": 5
-    },
-    {
-      "id": "republik/article-sexualstrafrecht",
-      "url": "https://www.republik.ch/2019/07/12/wollen-die-anwaelte-dass-vergewaltiger-ohne-strafe-bleiben",
-      "title": "Wollen die Anwälte, dass Vergewaltiger ohne Strafe bleiben?",
-      "description": "Die geplante Verschärfung des Sexual­strafrechts sorgt für Kontroversen. Fünf Standpunkte – und ein Gespräch mit der Zürcher Verteidigerin Tanja Knodel.",
-      "publishDate": "2019-07-12T02:50:00.000Z",
-      "authorIds": [
-        "02852b61-aa45-4dab-8d23-a0c71d3e05f7"
-      ],
-      "readingMinutes": 13,
-      "internalLinkCountOut": 2,
-      "internalLinkCountIn": 0,
-      "externalLinkCount": 4
-    },
-    {
-      "id": "republik/article-barnes",
-      "url": "https://www.republik.ch/2019/07/12/wenn-die-erste-liebe-auch-die-letzte-ist",
-      "title": "Wenn die erste Liebe auch die letzte ist",
-      "description": "Mit «Die einzige Geschichte» hat der englische Schriftsteller Julian Barnes einen Anti-Liebesroman geschrieben. Virtuos erzählt – und schwer auszuhalten.",
-      "publishDate": "2019-07-12T02:46:00.000Z",
-      "authorIds": [
-        "7e56f78b-b883-40e6-9dc3-e118a3d7ca2e"
-      ],
-      "readingMinutes": 7,
-      "internalLinkCountOut": 1,
-      "internalLinkCountIn": 0,
-      "externalLinkCount": 5
-    },
-    {
-      "id": "republik/article-cilmate-cities",
-      "url": "https://www.republik.ch/2019/07/11/bern-ist-im-sommer-bald-so-heiss-wie-mailand",
-      "title": "Bern ist im Sommer bald so heiss wie Mailand",
-      "description": "Wie verändert sich das Klima von Städten über die nächsten Jahrzehnte? Forscher der ETH Zürich haben uns die Zahlen gegeben – wir haben sie visualisiert: als klimatische Städtetrips.",
-      "publishDate": "2019-07-11T02:50:00.000Z",
-      "authorIds": [
-        "eca9ee2c-4678-4f63-8564-651293df2b97",
-        "65b64225-3843-4e41-a7a6-716ae81a5d57"
-      ],
-      "readingMinutes": 7,
-      "internalLinkCountOut": 1,
-      "internalLinkCountIn": 0,
-      "externalLinkCount": 11
-    },
-    {
-      "id": "republik/article-das-gefuehl-der-identitaet",
-      "url": "https://www.republik.ch/2019/07/09/ich-bin-der-ich-bin",
-      "title": "Ich bin, der ich bin!",
-      "description": "Was ist Identität? Warum neoliberale Ideologie, Späthippietum und Rechtsidentitäre die falsche Antwort haben. Teil 1/2.",
-      "publishDate": "2019-07-09T02:48:00.000Z",
-      "authorIds": [
-        "008d591a-810e-4603-8260-7a9a530b9096"
-      ],
-      "readingMinutes": 5,
-      "internalLinkCountOut": 2,
-      "internalLinkCountIn": 0,
-      "externalLinkCount": 4
-    },
-    {
-      "id": "republik/article-theorie-des-nonsens",
-      "url": "https://www.republik.ch/2019/07/08/oekonomie-des-nonsens",
-      "title": "Ökonomie des Nonsens",
-      "description": "Die Wirtschaftswissenschaften beschreiben die Wirklichkeit nicht nur, sondern prägen sie auch: ein Grafik­exkurs zu einem sonderbaren BIP-Konstrukt – in der Schweiz und in Italien.",
-      "publishDate": "2019-07-08T02:50:00.000Z",
-      "authorIds": [
-        "eca9ee2c-4678-4f63-8564-651293df2b97"
-      ],
-      "readingMinutes": 11,
-      "internalLinkCountOut": 0,
-      "internalLinkCountIn": 0,
-      "externalLinkCount": 24
-    },
-    {
-      "id": "republik/article-der-zauberer",
-      "url": "https://www.republik.ch/2019/07/08/der-zauberer",
-      "title": "Der Zauberer",
-      "description": "Das Kunstmuseum Basel zeigt eine Werkschau des südafrikanischen Zeichners, Filmemachers, Regisseurs und Schauspielers William Kentridge – ein faszinierender Kosmos sinnlich-politischer Kunst.",
-      "publishDate": "2019-07-08T02:46:00.000Z",
-      "authorIds": [],
-      "readingMinutes": 7,
-      "internalLinkCountOut": 1,
-      "internalLinkCountIn": 0,
-      "externalLinkCount": 2
-    },
-    {
-      "id": "republik/article-parteispenden",
-      "url": "https://www.republik.ch/2019/07/05/wahlkampf-millionen-auf-bestellung",
-      "title": "Wahlkampf-Millionen auf Bestellung",
-      "description": "Dokumente aus dem Innersten der SVP geben einen umfassenden Einblick in die Wahl­kampf­finanzierung der Partei. Wir haben sie analysiert – und veröffentlichen sie.",
-      "publishDate": "2019-07-05T02:50:00.000Z",
-      "authorIds": [
-        "5b6da6a6-c9fa-4ebb-a020-8dc85258310e"
-      ],
-      "readingMinutes": 23,
-      "internalLinkCountOut": 1,
-      "internalLinkCountIn": 0,
-      "externalLinkCount": 34
-    },
-    {
-      "id": "republik/article-das-raetsel-dag-solstad",
-      "url": "https://www.republik.ch/2019/07/05/das-raetsel-dag-solstad",
-      "title": "Das Rätsel Dag Solstad",
-      "description": "Der Norweger gehört zu den schrulligsten Autoren der Gegenwart. Und gilt in seiner Heimat mit als der wichtigste. Warum ist Dag Solstad hierzulande noch immer ein Geheimtipp?",
-      "publishDate": "2019-07-05T02:46:00.000Z",
-      "authorIds": [],
-      "readingMinutes": 8,
-      "internalLinkCountOut": 1,
-      "internalLinkCountIn": 0,
-      "externalLinkCount": 8
-    },
-    {
-      "id": "republik/article-google-greift",
-      "url": "https://www.republik.ch/2019/07/02/der-spion-im-schulzimmer",
-      "title": "Der Spion im Schulzimmer",
-      "description": "Google rüstet den digitalen Klassenraum aus – und sammelt so die Daten von Minderjährigen. Kann die Schweiz die Total­überwachung noch stoppen?",
-      "publishDate": "2019-07-02T02:50:00.000Z",
-      "authorIds": [
-        "6ae2733e-1562-47b3-881c-88e9d3d28da9"
-      ],
-      "readingMinutes": 10,
-      "internalLinkCountOut": 2,
-      "internalLinkCountIn": 0,
-      "externalLinkCount": 18
-    },
-    {
-      "id": "republik/article-alles-so-schoen-bunt-hier",
-      "url": "https://www.republik.ch/2019/07/01/alles-so-schoen-bunt-hier",
-      "title": "Alles so schön bunt hier",
-      "description": "Die Operation Libero startet ihr Projekt fürs Wahljahr.",
-      "publishDate": "2019-07-01T10:30:26.670Z",
-      "authorIds": [
-        "7b0d6a74-f57b-4498-8eb7-455936672736"
-      ],
-      "readingMinutes": 2,
-      "internalLinkCountOut": 1,
-      "internalLinkCountIn": 0,
-      "externalLinkCount": 2
-    },
-    {
-      "id": "republik/article-eine-kleine-energiegeschichte",
-      "url": "https://www.republik.ch/2019/07/01/eine-kleine-energiegeschichte",
-      "title": "Eine kleine Energiegeschichte",
-      "description": "Wie die Schweiz in nur 100 Jahren zum Vielverbraucher fossiler Treibstoffe wurde – und wie sich der Energiehaushalt des Landes in den nächsten Jahrzehnten verändern muss.",
-      "publishDate": "2019-07-01T02:50:00.000Z",
-      "authorIds": [
-        "eca9ee2c-4678-4f63-8564-651293df2b97"
-      ],
-      "readingMinutes": 7,
-      "internalLinkCountOut": 0,
-      "internalLinkCountIn": 0,
-      "externalLinkCount": 20
     },
     {
       "id": "republik/article-kosmos",
@@ -5384,7 +4960,7 @@
       ],
       "readingMinutes": 8,
       "internalLinkCountOut": 2,
-      "internalLinkCountIn": 2,
+      "internalLinkCountIn": 1,
       "externalLinkCount": 13
     },
     {
@@ -5412,7 +4988,7 @@
       ],
       "readingMinutes": 13,
       "internalLinkCountOut": 2,
-      "internalLinkCountIn": 2,
+      "internalLinkCountIn": 1,
       "externalLinkCount": 4
     },
     {
@@ -5438,7 +5014,7 @@
       ],
       "readingMinutes": null,
       "internalLinkCountOut": 1,
-      "internalLinkCountIn": 2,
+      "internalLinkCountIn": 1,
       "externalLinkCount": 3
     },
     {
@@ -5452,7 +5028,7 @@
       ],
       "readingMinutes": 5,
       "internalLinkCountOut": 1,
-      "internalLinkCountIn": 2,
+      "internalLinkCountIn": 1,
       "externalLinkCount": 5
     },
     {
@@ -5478,7 +5054,7 @@
       "authorIds": [],
       "readingMinutes": 6,
       "internalLinkCountOut": 1,
-      "internalLinkCountIn": 2,
+      "internalLinkCountIn": 1,
       "externalLinkCount": 9
     },
     {
@@ -5593,7 +5169,7 @@
       "authorIds": [],
       "readingMinutes": 9,
       "internalLinkCountOut": 2,
-      "internalLinkCountIn": 4,
+      "internalLinkCountIn": 3,
       "externalLinkCount": 12
     },
     {
@@ -5607,7 +5183,7 @@
       ],
       "readingMinutes": 2,
       "internalLinkCountOut": 0,
-      "internalLinkCountIn": 13,
+      "internalLinkCountIn": 12,
       "externalLinkCount": 0
     },
     {
@@ -5705,7 +5281,7 @@
       ],
       "readingMinutes": 6,
       "internalLinkCountOut": 0,
-      "internalLinkCountIn": 2,
+      "internalLinkCountIn": 1,
       "externalLinkCount": 1
     },
     {
@@ -5792,7 +5368,7 @@
       ],
       "readingMinutes": 11,
       "internalLinkCountOut": 0,
-      "internalLinkCountIn": 2,
+      "internalLinkCountIn": 1,
       "externalLinkCount": 3
     },
     {
@@ -5858,7 +5434,7 @@
       ],
       "readingMinutes": 14,
       "internalLinkCountOut": 1,
-      "internalLinkCountIn": 3,
+      "internalLinkCountIn": 2,
       "externalLinkCount": 2
     },
     {
@@ -5896,7 +5472,7 @@
       "authorIds": [],
       "readingMinutes": 9,
       "internalLinkCountOut": 1,
-      "internalLinkCountIn": 2,
+      "internalLinkCountIn": 1,
       "externalLinkCount": 15
     },
     {
@@ -5924,7 +5500,7 @@
       ],
       "readingMinutes": 13,
       "internalLinkCountOut": 2,
-      "internalLinkCountIn": 7,
+      "internalLinkCountIn": 6,
       "externalLinkCount": 47
     },
     {
@@ -6030,7 +5606,7 @@
       ],
       "readingMinutes": 10,
       "internalLinkCountOut": 2,
-      "internalLinkCountIn": 3,
+      "internalLinkCountIn": 2,
       "externalLinkCount": 13
     },
     {
@@ -6056,7 +5632,7 @@
       ],
       "readingMinutes": 13,
       "internalLinkCountOut": 1,
-      "internalLinkCountIn": 5,
+      "internalLinkCountIn": 3,
       "externalLinkCount": 15
     },
     {
@@ -6164,7 +5740,7 @@
       "authorIds": [],
       "readingMinutes": 9,
       "internalLinkCountOut": 0,
-      "internalLinkCountIn": 4,
+      "internalLinkCountIn": 3,
       "externalLinkCount": 1
     },
     {
@@ -6545,7 +6121,7 @@
       ],
       "readingMinutes": null,
       "internalLinkCountOut": 0,
-      "internalLinkCountIn": 2,
+      "internalLinkCountIn": 1,
       "externalLinkCount": 3
     },
     {
@@ -6572,7 +6148,7 @@
       "authorIds": [],
       "readingMinutes": 6,
       "internalLinkCountOut": 0,
-      "internalLinkCountIn": 2,
+      "internalLinkCountIn": 1,
       "externalLinkCount": 3
     },
     {
@@ -6787,7 +6363,7 @@
       ],
       "readingMinutes": 11,
       "internalLinkCountOut": 1,
-      "internalLinkCountIn": 2,
+      "internalLinkCountIn": 1,
       "externalLinkCount": 9
     },
     {
@@ -6801,7 +6377,7 @@
       ],
       "readingMinutes": 4,
       "internalLinkCountOut": 1,
-      "internalLinkCountIn": 2,
+      "internalLinkCountIn": 1,
       "externalLinkCount": 2
     },
     {
@@ -6899,7 +6475,7 @@
       ],
       "readingMinutes": 9,
       "internalLinkCountOut": 0,
-      "internalLinkCountIn": 2,
+      "internalLinkCountIn": 1,
       "externalLinkCount": 13
     },
     {
@@ -6913,7 +6489,7 @@
       ],
       "readingMinutes": 7,
       "internalLinkCountOut": 1,
-      "internalLinkCountIn": 3,
+      "internalLinkCountIn": 2,
       "externalLinkCount": 3
     },
     {
@@ -7014,7 +6590,7 @@
       ],
       "readingMinutes": 30,
       "internalLinkCountOut": 0,
-      "internalLinkCountIn": 3,
+      "internalLinkCountIn": 2,
       "externalLinkCount": 38
     },
     {
@@ -7072,7 +6648,7 @@
       ],
       "readingMinutes": 23,
       "internalLinkCountOut": 0,
-      "internalLinkCountIn": 2,
+      "internalLinkCountIn": 1,
       "externalLinkCount": 55
     },
     {
@@ -9009,190 +8585,15 @@
       "type": "related"
     },
     {
-      "source": "republik/article-testartikel-cr",
-      "target": "republik/article-ic",
+      "source": "republik/article-update-aus-den-it-bueros",
+      "target": "republik/article-das-beste-wahltindaer-das-wir-je-gebaut-haben",
       "type": "related"
     },
     {
-      "source": "republik/article-33-fragen-antworten-8-14",
-      "target": "republik/article-30-fragen-wie-funktioniert-liberale-migrationspolitik",
-      "type": "related"
-    },
-    {
-      "source": "republik/article-bronfen-western",
-      "target": "republik/article-die-zerstueckelung-amerikas",
-      "type": "related"
-    },
-    {
-      "source": "republik/article-30-fragen-wie-funktioniert-liberale-migrationspolitik",
-      "target": "republik/article-33-fragen-antworten-8-14",
-      "type": "related"
-    },
-    {
-      "source": "republik/article-italianita-war-damals-noch-ein-fremdwort",
-      "target": "republik/article-eine-kleine-geschichte-der-zuwanderung",
-      "type": "related"
-    },
-    {
-      "source": "republik/article-ic",
-      "target": "republik/article-an-der-bar-mit-ignazio-cassis",
-      "type": "related"
-    },
-    {
-      "source": "republik/article-ic",
-      "target": "republik/article-waffenexporte",
+      "source": "republik/article-update-aus-den-it-bueros",
+      "target": "republik/article-was-sollen-wir-als-naechstes-programmieren",
       "type": "text",
-      "text": "zum Kippen brachten"
-    },
-    {
-      "source": "republik/article-das-letzte-pfand",
-      "target": "republik/article-ungleichheit-episode-1",
-      "type": "related"
-    },
-    {
-      "source": "republik/article-das-letzte-pfand",
-      "target": "republik/article-ahv-fur-dummies",
-      "type": "text",
-      "text": "Dafür hat die AHV zu viel Geschichte"
-    },
-    {
-      "source": "republik/article-lehrstueck-ueber-strukturellen-rassismus",
-      "target": "republik/article-wut-ist-durchaus-ein-motor",
-      "type": "related"
-    },
-    {
-      "source": "republik/article-kraft-deiner-imagination",
-      "target": "republik/article-schluss-mit-dreckigem-geld",
-      "type": "related"
-    },
-    {
-      "source": "republik/article-kraft-deiner-imagination",
-      "target": "republik/article-der-zauberer",
-      "type": "text",
-      "text": "über William Kentridge"
-    },
-    {
-      "source": "republik/article-bilderklau-oder-appropriation",
-      "target": "republik/article-die-sache-mit-photo-51",
-      "type": "related"
-    },
-    {
-      "source": "republik/article-l-espion-dans-la-salle-de-classe",
-      "target": "republik/article-google-greift",
-      "type": "text",
-      "text": "Der Spion im Schulzimmer"
-    },
-    {
-      "source": "republik/article-wo-die-reichen-kerle-wohnen",
-      "target": "republik/article-ungleichheit-episode-1",
-      "type": "related"
-    },
-    {
-      "source": "republik/article-wdwww-19-07",
-      "target": "republik/article-mordsache-malta",
-      "type": "text",
-      "text": "Auch die Reporterinnen der Republik"
-    },
-    {
-      "source": "republik/article-homestory-7-bern-nik-gugger-et-al-a-prayer-before-dawn",
-      "target": "republik/article-wahnsinn-wahlkampf",
-      "type": "text",
-      "text": "Zwei Republik-Reporter touren durch die Schweiz"
-    },
-    {
-      "source": "republik/article-am-klavier-fuer-alina",
-      "target": "republik/article-am-klavier-erinnerung",
-      "type": "related"
-    },
-    {
-      "source": "republik/article-europa-ist-der-sonderfall",
-      "target": "republik/article-klima-schlaegt-europa",
-      "type": "related"
-    },
-    {
-      "source": "republik/article-ich-bin-der-ich-nicht-bin",
-      "target": "republik/article-das-gefuehl-der-identitaet",
-      "type": "related"
-    },
-    {
-      "source": "republik/article-ich-bin-der-ich-nicht-bin",
-      "target": "republik/article-das-gefuehl-der-identitaet",
-      "type": "text",
-      "text": "Den ersten Teil finden Sie hier"
-    },
-    {
-      "source": "republik/article-parlamentarierkarrieren",
-      "target": "republik/article-staenderatswahlen",
-      "type": "text",
-      "text": "Keine bis maximal zwei Nicht-Wiederwahlen sind zu erwarten"
-    },
-    {
-      "source": "republik/article-schluss-mit-dreckigem-geld",
-      "target": "republik/article-unbedingt-absolut-frei",
-      "type": "related"
-    },
-    {
-      "source": "republik/article-sexualstrafrecht",
-      "target": "republik/article-nein-nein-nein",
-      "type": "related"
-    },
-    {
-      "source": "republik/article-sexualstrafrecht",
-      "target": "republik/article-ueber-luege-und-beischlaf",
-      "type": "text",
-      "text": "Teil 1"
-    },
-    {
-      "source": "republik/article-barnes",
-      "target": "republik/article-man-wird-immer-schuldig-wenn-man-sich-erinnert",
-      "type": "related"
-    },
-    {
-      "source": "republik/article-cilmate-cities",
-      "target": "republik/article-greta-interview",
-      "type": "related"
-    },
-    {
-      "source": "republik/article-das-gefuehl-der-identitaet",
-      "target": "republik/article-ich-bin-der-ich-nicht-bin",
-      "type": "related"
-    },
-    {
-      "source": "republik/article-das-gefuehl-der-identitaet",
-      "target": "republik/article-ich-bin-der-ich-nicht-bin",
-      "type": "text",
-      "text": "Hier gehts zum zweiten Teil"
-    },
-    {
-      "source": "republik/article-der-zauberer",
-      "target": "republik/article-gender-heroes",
-      "type": "related"
-    },
-    {
-      "source": "republik/article-parteispenden",
-      "target": "republik/article-maginot-linie-der-mauschelei",
-      "type": "related"
-    },
-    {
-      "source": "republik/article-das-raetsel-dag-solstad",
-      "target": "republik/article-die-vier-gangarten-von-lechts-nach-rinck",
-      "type": "related"
-    },
-    {
-      "source": "republik/article-google-greift",
-      "target": "republik/article-warum-die-tech-branche-nach-mehr-europa-schreit",
-      "type": "related"
-    },
-    {
-      "source": "republik/article-google-greift",
-      "target": "republik/article-l-espion-dans-la-salle-de-classe",
-      "type": "text",
-      "text": "Vous pouvez la trouver ici"
-    },
-    {
-      "source": "republik/article-alles-so-schoen-bunt-hier",
-      "target": "republik/article-kleiner",
-      "type": "related"
+      "text": "Umfragetool für Weiter­entwicklungen"
     },
     {
       "source": "republik/article-der-hitzesommer-waehlt-mit",
@@ -29926,1804 +29327,10 @@
       "text": "Wir haben zu jeder Folge eine Playlist, hier finden Sie das Best-of zur Serie"
     },
     {
-      "source": "republik/article-testartikel-cr",
-      "target": "https://www.aargauerzeitung.ch/schweiz/tabakkonzern-philip-morris-sponsert-schweizer-pavillon-an-weltausstellung-praeventionsexperten-sind-empoert-135260672",
+      "source": "republik/article-update-aus-den-it-bueros",
+      "target": "https://github.com/orbiting/app/issues/6",
       "type": "text",
-      "text": "wird bekannt"
-    },
-    {
-      "source": "republik/article-testartikel-cr",
-      "target": "https://www.tagesanzeiger.ch/schweiz/standard/ein-putinfreund-sponsert-die-schweiz/story/13801955",
-      "type": "text",
-      "text": "wird publik"
-    },
-    {
-      "source": "republik/article-testartikel-cr",
-      "target": "https://www.admin.ch/gov/de/start/dokumentation/medienmitteilungen.msg-id-75944.html",
-      "type": "text",
-      "text": "Er entscheidet, die Verhandlungen mit Philip Morris über das Expo-Sponsoring abzubrechen"
-    },
-    {
-      "source": "republik/article-testartikel-cr",
-      "target": "http://www.euro.who.int/en/countries/republic-of-moldova/news/news/2016/06/historic-moment-for-republic-of-moldova-ban-on-smoking-in-enclosed-public-places-enters-into-force",
-      "type": "text",
-      "text": "Moldau führt verhältnismässig strenge Anti-Tabak-Gesetze ein."
-    },
-    {
-      "source": "republik/article-testartikel-cr",
-      "target": "http://www.euro.who.int/__data/assets/pdf_file/0011/354692/Tobacco-taxation-policy-in-the-Republic-of-Moldova.pdf?ua=1",
-      "type": "text",
-      "text": "Der WHO zufolge greift immer noch fast die Hälfte der Männer im Land regelmässig zu Zigaretten."
-    },
-    {
-      "source": "republik/article-testartikel-cr",
-      "target": "https://apps.who.int/iris/bitstream/handle/10665/42811/9241591013.pdf;jsessionid=6A33E1CC57CA21F4874BC04CA816DCB8?sequence=1",
-      "type": "text",
-      "text": "Rahmenübereinkommen der WHO zur Eindämmung des Tabakgebrauchs"
-    },
-    {
-      "source": "republik/article-testartikel-cr",
-      "target": "https://www.presseportal.de/pm/37922/4115223",
-      "type": "text",
-      "text": "bereits gut 13 Prozent des globalen Konzernumsatzes"
-    },
-    {
-      "source": "republik/article-testartikel-cr",
-      "target": "https://www.wissenschaft-aktuell.de/artikel/Tabakerhitzer_auch_nicht_gesuender_als_Zigarette1771015590670.html",
-      "type": "text",
-      "text": "weisen darauf hin"
-    },
-    {
-      "source": "republik/article-testartikel-cr",
-      "target": "https://unimedia.info/ro/news/e5aa746a9f416adb/dezbateri-aprinse-la-parlament-pe-tema-modificarilor-la-legea-tutnului-cum-trebuie-reglementate-si-accizate-produsele-de-tutun-care-nu-ardr.html",
-      "type": "text",
-      "text": "sind bereits 20’000 Raucher auf das neuartige Produkt umgestiegen"
-    },
-    {
-      "source": "republik/article-testartikel-cr",
-      "target": "https://agora.md/stiri/58895/lobby-sau-ba-In-pragul-votarii-unei-legi-care-ar-scumpi-si-ar-restrictiona-produsele-iqos-apar-articole-si-petitii-care-o-condamna--explicatiile-companiei",
-      "type": "text",
-      "text": "sagte jüngst in einem Interview"
-    },
-    {
-      "source": "republik/article-testartikel-cr",
-      "target": "http://sanatateinfo.md/News/Item/8200",
-      "type": "text",
-      "text": "Gedrängt auf die Gesetzesänderung hatte Vlad Plahotniuc"
-    },
-    {
-      "source": "republik/article-testartikel-cr",
-      "target": "https://www.thedailybeast.com/inside-the-uprising-against-moldovas-donald-trump",
-      "type": "text",
-      "text": "Donald Trump der Moldau"
-    },
-    {
-      "source": "republik/article-testartikel-cr",
-      "target": "https://www.rise.md/articol/video-paradisul-oligarhului/",
-      "type": "text",
-      "text": "eines 26-Millionen-Anwesens am Genfersee"
-    },
-    {
-      "source": "republik/article-testartikel-cr",
-      "target": "https://www.moldova.org/en/luxurious-lifestyle-moldovas-ex-pms-son-three-bank-accounts-vlad-luca-filat-frozen/",
-      "type": "text",
-      "text": "der mehr als eine Million Franken wert sein soll"
-    },
-    {
-      "source": "republik/article-testartikel-cr",
-      "target": "https://www.spiegel.de/politik/ausland/moldau-oligarchen-und-politiker-nehmen-den-staat-aus-a-1059138.html",
-      "type": "text",
-      "text": "das als «Raub des Jahrhunderts» in die moldauischen Geschichtsbücher eingegangen ist"
-    },
-    {
-      "source": "republik/article-testartikel-cr",
-      "target": "http://statistica.gov.md/newsview.php?l=ro&idc=168&id=6416",
-      "type": "text",
-      "text": "noch 2,68 Millionen beträgt"
-    },
-    {
-      "source": "republik/article-testartikel-cr",
-      "target": "https://www.thedailybeast.com/inside-the-uprising-against-moldovas-donald-trump",
-      "type": "text",
-      "text": "dank einer ebenso cleveren wie skrupellosen Idee"
-    },
-    {
-      "source": "republik/article-testartikel-cr",
-      "target": "https://www.nytimes.com/2016/06/04/world/europe/moldova-vlad-plahotniuc.html?_r=0",
-      "type": "text",
-      "text": "Daher sein Spitzname «Plaha»"
-    },
-    {
-      "source": "republik/article-testartikel-cr",
-      "target": "https://www.aljazeera.com/programmes/peopleandpower/2019/03/moldova-puppet-master-190313132917187.html",
-      "type": "text",
-      "text": "bleibt Vlad «Plaha» Plahotniuc seinen Mitteln treu"
-    },
-    {
-      "source": "republik/article-testartikel-cr",
-      "target": "https://www.osw.waw.pl/en/publikacje/analyses/2019-02-25/moldova-elections-without-hope",
-      "type": "text",
-      "text": "immerhin den zweiten Rang"
-    },
-    {
-      "source": "republik/article-testartikel-cr",
-      "target": "https://www.dw.com/de/kommentar-republik-moldau-venezolanische-zust%C3%A4nde-am-rande-europas/a-49148399",
-      "type": "text",
-      "text": "monatelangen politischen Krise mit vorübergehend zwei amtierenden Regierungen"
-    },
-    {
-      "source": "republik/article-testartikel-cr",
-      "target": "https://www.osw.waw.pl/en/publikacje/analyses/2019-06-17/end-dual-government-moldova",
-      "type": "text",
-      "text": "den Schritt in die Opposition"
-    },
-    {
-      "source": "republik/article-testartikel-cr",
-      "target": "https://www.dw.com/de/moldauische-premierministerin-sandu-wir-befreien-den-gekaperten-staat/a-49429510",
-      "type": "text",
-      "text": "hat grosses «Ausmisten» angekündigt"
-    },
-    {
-      "source": "republik/article-testartikel-cr",
-      "target": "https://acum.md/deputatii-blocului-acum-vin-cu-o-initiativa-legislativa-anti-tutun-care-sa-protejeze-sanatatea-tinerilor/?fbclid=IwAR0tfslb9eD1RhiJhSxz18Cjrnf3Ta2kHdDwEp7ERziEbYZwmOS5JeJoKlY",
-      "type": "text",
-      "text": "Ende Mai fordern neun Acum-Abgeordnete in einem Vorstoss, sämtliche Tabakprodukte seien gleich zu behandeln"
-    },
-    {
-      "source": "republik/article-testartikel-cr",
-      "target": "https://agora.md/stiri/58895/lobby-sau-ba-in-pragul-votarii-unei-legi-care-ar-scumpi-si-ar-restrictiona-produsele-iqos-apar-articole-si-petitii-care-o-condamna--explicatiile-companiei",
-      "type": "text",
-      "text": "Gegenüber dem moldauischen Nachrichtenportal Agora ergänzt Marian"
-    },
-    {
-      "source": "republik/article-testartikel-cr",
-      "target": "https://agora.md/stiri/58959/initiativa-accizarii-iqos-amcham-si-eba-moldova--ingrijorate-de-modul-in-care-deputatii-au-promovat-proiectul",
-      "type": "text",
-      "text": "besorgt, dass weder Branchenvertreter noch externe Experten an den Gesprächen für das neue Gesetz beteiligt gewesen sind»"
-    },
-    {
-      "source": "republik/article-testartikel-cr",
-      "target": "https://www.kp.md/daily/27003/4065283/",
-      "type": "text",
-      "text": "im Falle einer Gesetzesverschärfung müssten die Preise erhöht werden, womit sich ärmere Schichten keine IQOS mehr leisten könnten"
-    },
-    {
-      "source": "republik/article-testartikel-cr",
-      "target": "https://www.pmi.com/markets/switzerland/de/about-us/overview",
-      "type": "text",
-      "text": "im weltweit agierenden Operationszentrum in Lausanne"
-    },
-    {
-      "source": "republik/article-testartikel-cr",
-      "target": "https://ssphplus.ch/",
-      "type": "text",
-      "text": "«Swiss School of Public Health»"
-    },
-    {
-      "source": "republik/article-testartikel-cr",
-      "target": "https://www.eda.admin.ch/deza/de/home/laender/moldau.html",
-      "type": "text",
-      "text": "Auf der Website schreibt das Deza"
-    },
-    {
-      "source": "republik/article-testartikel-cr",
-      "target": "https://www.eda.admin.ch/dam/deza/en/documents/laender/2018-2021-cooperation-strategy-moldova_EN.pdf",
-      "type": "text",
-      "text": "ausführlichen Beschreibung der Kooperationsstrategie 2018 bis 2021"
-    },
-    {
-      "source": "republik/article-testartikel-cr",
-      "target": "https://www.facebook.com/protectiesocialamoldova/posts/2272299696157282?sfnsw=cl",
-      "type": "text",
-      "text": "postete das Deza-Büro auf Facebook"
-    },
-    {
-      "source": "republik/article-testartikel-cr",
-      "target": "http://parlament.md/Actualitate/Noutati/tabid/89/NewsId/2186/language/ro-RO/Default.aspx",
-      "type": "text",
-      "text": "hatte die Gesundheitskommission des moldauischen Parlaments zu einer öffentlichen Anhörung eingeladen"
-    },
-    {
-      "source": "republik/article-testartikel-cr",
-      "target": "https://www.zeit.de/gesellschaft/zeitgeschehen/2016-07/philip-morris-uruguay-rechtsstreit-rauchverbot-freihandelsabkommen",
-      "type": "text",
-      "text": "So hat Philip Morris etwa den Staat Uruguay unter Druck gesetzt"
-    },
-    {
-      "source": "republik/article-33-fragen-antworten-8-14",
-      "target": "https://deathbyrescue.org/report/narrative/",
-      "type": "text",
-      "text": "Studien der Universitäten London"
-    },
-    {
-      "source": "republik/article-33-fragen-antworten-8-14",
-      "target": "https://www.law.ox.ac.uk/research-subject-groups/centre-criminology/centreborder-criminologies/blog/2017/03/border-deaths",
-      "type": "text",
-      "text": "Oxford von 2017"
-    },
-    {
-      "source": "republik/article-33-fragen-antworten-8-14",
-      "target": "https://www.parlament.ch/de/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20163982",
-      "type": "text",
-      "text": "die Motion von CVP-Nationalrat Fabio Regazzi"
-    },
-    {
-      "source": "republik/article-33-fragen-antworten-8-14",
-      "target": "https://www.humanrights.ch/de/internationale-menschenrechte/europarats-organe/egmr/urteile/schutz-fluechtlinge-mittelmeer",
-      "type": "text",
-      "text": "Europäische Gerichtshof für Menschenrechte im Fall Hirsi"
-    },
-    {
-      "source": "republik/article-33-fragen-antworten-8-14",
-      "target": "",
-      "type": "text",
-      "text": "Urs Bruderer"
-    },
-    {
-      "source": "republik/article-bronfen-western",
-      "target": "https://www.youtube.com/watch?v=CrlZCRncCwA",
-      "type": "text",
-      "text": "Godless"
-    },
-    {
-      "source": "republik/article-30-fragen-wie-funktioniert-liberale-migrationspolitik",
-      "target": "",
-      "type": "text",
-      "text": "Urs Bruderer"
-    },
-    {
-      "source": "republik/article-italianita-war-damals-noch-ein-fremdwort",
-      "target": "https://www.lafeltrinelli.it/libri/concetto-vecchio/cacciateli/9788807111525",
-      "type": "text",
-      "text": "Cacciateli! Quando i migranti eravamo noi"
-    },
-    {
-      "source": "republik/article-italianita-war-damals-noch-ein-fremdwort",
-      "target": "https://corriereitalianita.ch/i-lunedi-del-corriere-concetto-vecchio-a-zurigo/",
-      "type": "text",
-      "text": "auf Einladung des «Corriere degli Italiani"
-    },
-    {
-      "source": "republik/article-italianita-war-damals-noch-ein-fremdwort",
-      "target": "http://www.pfarreiwohlen.ch/Seelsorge/AnderssprachigeSeelsorge/MissioneCattolicaItaliana/tabid/125/Default.aspx",
-      "type": "text",
-      "text": "Missione Cattolica in Lenzburg"
-    },
-    {
-      "source": "republik/article-italianita-war-damals-noch-ein-fremdwort",
-      "target": "https://www.swissinfo.ch/ger/alexander-j--seiler_der-regisseur--der-saisonniers-eine-stimme-gab/38211230",
-      "type": "text",
-      "text": "Alexander J. Seilers Dokumentarfilm"
-    },
-    {
-      "source": "republik/article-italianita-war-damals-noch-ein-fremdwort",
-      "target": "https://www.swissfilms.ch/de/film_search/filmdetails/-/id_film/2146533717",
-      "type": "text",
-      "text": "Siamo italiani"
-    },
-    {
-      "source": "republik/article-italianita-war-damals-noch-ein-fremdwort",
-      "target": "https://amicisciascia.it/leonardo-sciascia/le-opere/narrativa/il-mare-color-del-vino-1973.html",
-      "type": "text",
-      "text": "Leonardo Sciascias"
-    },
-    {
-      "source": "republik/article-italianita-war-damals-noch-ein-fremdwort",
-      "target": "",
-      "type": "text",
-      "text": "des Buchs zum Film von Alexander J. Seiler"
-    },
-    {
-      "source": "republik/article-italianita-war-damals-noch-ein-fremdwort",
-      "target": "https://rotpunktverlag.ch/buecher/das-eidechsenkind",
-      "type": "text",
-      "text": "Das Eidechsenkind"
-    },
-    {
-      "source": "republik/article-italianita-war-damals-noch-ein-fremdwort",
-      "target": "https://www.ekm.admin.ch/ekm/de/home/zuwanderung---aufenthalt/zuwanderung/geschichtliches/volksinitiativen.html",
-      "type": "text",
-      "text": "Überfremdungsinitiative"
-    },
-    {
-      "source": "republik/article-italianita-war-damals-noch-ein-fremdwort",
-      "target": "https://www.ekm.admin.ch/ekm/de/home/zuwanderung---aufenthalt/zuwanderung/geschichtliches/volksinitiativen.html",
-      "type": "text",
-      "text": "bei den folgenden zwei Versuchen"
-    },
-    {
-      "source": "republik/article-italianita-war-damals-noch-ein-fremdwort",
-      "target": "https://www.bk.admin.ch/ch/d/pore/va/20140209/det580.html",
-      "type": "text",
-      "text": "die 2014 angenommen wurde"
-    },
-    {
-      "source": "republik/article-ic",
-      "target": "https://archive.org/details/Freud_1885_Coca/page/n17",
-      "type": "text",
-      "text": "von Ihrem Berufskollegen Sigmund Freud"
-    },
-    {
-      "source": "republik/article-ic",
-      "target": "https://www.aargauerzeitung.ch/schweiz/ruth-dreifuss-und-ignazio-cassis-wollen-kokain-legalisieren-reaktionen-sind-kontrovers-131679613",
-      "type": "text",
-      "text": "die Legalisierung von Kokain empfahlen"
-    },
-    {
-      "source": "republik/article-ic",
-      "target": "https://www.tagesanzeiger.ch/schweiz/standard/das-schweizer-tabakparadies/story/14560437",
-      "type": "text",
-      "text": "Fast gleich viel wie mit Käse"
-    },
-    {
-      "source": "republik/article-ic",
-      "target": "https://www.aargauerzeitung.ch/schweiz/internationale-kritik-an-schweizer-tabak-sponsoring-seltsam-und-besorgniserregend-135297162",
-      "type": "text",
-      "text": "jammerte man im In- und natürlich auch im Ausland"
-    },
-    {
-      "source": "republik/article-ic",
-      "target": "https://www.publiceye.ch/fileadmin/doc/Magazin/2019_01_PublicEye_Magazin_Nr15_Investigation_Award_36s.pdf",
-      "type": "text",
-      "text": "glatt verboten wären und in der EU nicht einmal produziert werden dürfen"
-    },
-    {
-      "source": "republik/article-ic",
-      "target": "https://www.srf.ch/news/schweiz/umstrittene-mine-in-sambia-glencore-korrigiert-aussage-von-cassis-sprecher",
-      "type": "text",
-      "text": "und auf Twitter lobten"
-    },
-    {
-      "source": "republik/article-das-letzte-pfand",
-      "target": "https://www.admin.ch/gov/de/start/dokumentation/medienmitteilungen.msg-id-75705.html",
-      "type": "text",
-      "text": "so der aktuelle Vorschlag des Bundesrats"
-    },
-    {
-      "source": "republik/article-das-letzte-pfand",
-      "target": "",
-      "type": "text",
-      "text": "in einem Bericht die Argumente für eine Reform gut ausgeführt"
-    },
-    {
-      "source": "republik/article-das-letzte-pfand",
-      "target": "https://hls-dhs-dss.ch/de/articles/006661/2011-08-17/",
-      "type": "text",
-      "text": "des Demokraten"
-    },
-    {
-      "source": "republik/article-das-letzte-pfand",
-      "target": "https://www.bsv.admin.ch/bsv/de/home/sozialversicherungen/ahv/statistik.html",
-      "type": "text",
-      "text": "gibt es darum hier eine Umverteilung von Männern zu Frauen"
-    },
-    {
-      "source": "republik/article-das-letzte-pfand",
-      "target": "https://www.bfs.admin.ch/bfs/de/home/statistiken/kataloge-datenbanken/medienmitteilungen.assetdetail.8186676.html",
-      "type": "text",
-      "text": "So erhielten im Jahr 2017"
-    },
-    {
-      "source": "republik/article-das-letzte-pfand",
-      "target": "https://www.srf.ch/news/schweiz/analyse-zur-rentenreform-das-killerargument-70-franken-mehr-ahv-fuer-alle-neurentner",
-      "type": "text",
-      "text": "So war das beispielsweise bei der letzten AHV-Revision mit den 70 Franken, die man den Übergangsjahrgängen schenken wollte"
-    },
-    {
-      "source": "republik/article-lehrstueck-ueber-strukturellen-rassismus",
-      "target": "https://www.scribd.com/document/413043391/Manhattan-DA-Motion-in-Jogger-Case",
-      "type": "text",
-      "text": "4762/1989"
-    },
-    {
-      "source": "republik/article-lehrstueck-ueber-strukturellen-rassismus",
-      "target": "https://www.nytimes.com/1990/03/31/nyregion/killings-in-89-set-a-record-in-new-york.html",
-      "type": "text",
-      "text": "mit 1905 Morden"
-    },
-    {
-      "source": "republik/article-lehrstueck-ueber-strukturellen-rassismus",
-      "target": "https://www.nytimes.com/2019/05/30/arts/television/when-they-see-us-real-story.html?auth=login-email&login=email",
-      "type": "text",
-      "text": "sprach über die Tat"
-    },
-    {
-      "source": "republik/article-lehrstueck-ueber-strukturellen-rassismus",
-      "target": "https://www.youtube.com/watch?v=Y4LAb777Dtg",
-      "type": "text",
-      "text": "Boogie Down Productions"
-    },
-    {
-      "source": "republik/article-lehrstueck-ueber-strukturellen-rassismus",
-      "target": "https://www.abc.net.au/news/2019-06-13/a-full-page-advertisement-taken-out-by-donald-trump-during-the/11202304",
-      "type": "text",
-      "text": "Bring Back the Death Penalty"
-    },
-    {
-      "source": "republik/article-lehrstueck-ueber-strukturellen-rassismus",
-      "target": "https://edition.cnn.com/videos/politics/2019/06/06/trump-on-the-central-park-five-orig-js.cnn",
-      "type": "text",
-      "text": "In einem Interview sagte er"
-    },
-    {
-      "source": "republik/article-lehrstueck-ueber-strukturellen-rassismus",
-      "target": "https://www.democracynow.org/2019/6/7/ava_duvernay_when_they_see_us",
-      "type": "text",
-      "text": "im Gespräch mit Amy Goodman"
-    },
-    {
-      "source": "republik/article-lehrstueck-ueber-strukturellen-rassismus",
-      "target": "https://www.youtube.com/watch?v=K6IXQbXPO3I",
-      "type": "text",
-      "text": "13th"
-    },
-    {
-      "source": "republik/article-lehrstueck-ueber-strukturellen-rassismus",
-      "target": "https://www.youtube.com/watch?v=u3F9n_smGWY",
-      "type": "text",
-      "text": "When They See Us"
-    },
-    {
-      "source": "republik/article-lehrstueck-ueber-strukturellen-rassismus",
-      "target": "https://www.nytimes.com/2019/05/30/arts/television/when-they-see-us.html?rref=collection%2Ftimestopic%2FSantana%2C%20Raymond&action=click&contentCollection=timestopics®ion=stream&module=stream_unit&version=latest&contentPlacement=2&pgtype=collection",
-      "type": "text",
-      "text": "sagte er gegenüber der «New York Times»"
-    },
-    {
-      "source": "republik/article-lehrstueck-ueber-strukturellen-rassismus",
-      "target": "https://www.youtube.com/watch?v=I8aEFbLLixY",
-      "type": "text",
-      "text": "wird sie als Oper aufgeführt"
-    },
-    {
-      "source": "republik/article-lehrstueck-ueber-strukturellen-rassismus",
-      "target": "https://www.sueddeutsche.de/medien/usa-struktureller-rassismus-when-they-see-us-1.4486394",
-      "type": "text",
-      "text": "im Interview mit der «Süddeutschen Zeitung»"
-    },
-    {
-      "source": "republik/article-lehrstueck-ueber-strukturellen-rassismus",
-      "target": "https://www.nytimes.com/2019/06/12/arts/elizabeth-lederer-central-park-five.html",
-      "type": "text",
-      "text": "ihre Tätigkeit als Dozentin an der Columbia Law School nieder"
-    },
-    {
-      "source": "republik/article-lehrstueck-ueber-strukturellen-rassismus",
-      "target": "https://www.theguardian.com/books/2019/jun/07/linda-fairstein-central-park-five-prosecutor-publisher-dutton-drops",
-      "type": "text",
-      "text": "Den Preis erhielt sie nicht. Ihr Verlag liess sie fallen."
-    },
-    {
-      "source": "republik/article-lehrstueck-ueber-strukturellen-rassismus",
-      "target": "https://www.wsj.com/articles/netflixs-false-story-of-the-central-park-five-11560207823",
-      "type": "text",
-      "text": "The Wall Street Journal"
-    },
-    {
-      "source": "republik/article-lehrstueck-ueber-strukturellen-rassismus",
-      "target": "https://www.youtube.com/watch?v=7T5vtJ11LV0",
-      "type": "text",
-      "text": "Befragt von Oprah Winfrey"
-    },
-    {
-      "source": "republik/article-kraft-deiner-imagination",
-      "target": "https://www.monopol-magazin.de/tod-venedig",
-      "type": "text",
-      "text": "Monopol"
-    },
-    {
-      "source": "republik/article-kraft-deiner-imagination",
-      "target": "https://www.kunstmuseumsg.ch/",
-      "type": "text",
-      "text": "Kunstmuseums St. Gallen"
-    },
-    {
-      "source": "republik/article-bilderklau-oder-appropriation",
-      "target": "https://www.bigissue.com/",
-      "type": "text",
-      "text": "The Big Issue"
-    },
-    {
-      "source": "republik/article-bilderklau-oder-appropriation",
-      "target": "https://teneues-buecher.de/stern-fotografie-portfolio-no-69",
-      "type": "text",
-      "text": "Stern-Portfolio No. 69"
-    },
-    {
-      "source": "republik/article-bilderklau-oder-appropriation",
-      "target": "https://petapixel.com/2019/07/10/magazine-says-its-stolen-cover-photo-was-a-stock-photo-of-the-photo/",
-      "type": "text",
-      "text": "Offenbar hat ein Fotograf sein Bild in einer Ausstellung abfotografiert"
-    },
-    {
-      "source": "republik/article-bilderklau-oder-appropriation",
-      "target": "https://www.instagram.com/p/BzicPZ3HdAZ/",
-      "type": "text",
-      "text": "Die Aufregung auf Instagram war gross"
-    },
-    {
-      "source": "republik/article-bilderklau-oder-appropriation",
-      "target": "https://steidl.de/Buecher/The-Meeting-1729325157.html",
-      "type": "text",
-      "text": "Der übrigens diesen Herbst bei Steidl ein umfangreiches Buch herausbringt."
-    },
-    {
-      "source": "republik/article-bilderklau-oder-appropriation",
-      "target": "https://www.diyphotography.net/uk-magazine-uses-photo-on-cover-without-permission-blames-it-on-a-stock-photo-website/",
-      "type": "text",
-      "text": "Den smartesten Ratschlag bekam Nadav Kander jedoch von Erik Madigan Heck"
-    },
-    {
-      "source": "republik/article-bilderklau-oder-appropriation",
-      "target": "https://journals.openedition.org/marges/381",
-      "type": "text",
-      "text": "nennt der Künstler und Essayist Michalis Pichler"
-    },
-    {
-      "source": "republik/article-bilderklau-oder-appropriation",
-      "target": "http://www.aftersherrielevine.com/anxiety.html",
-      "type": "text",
-      "text": "und entsprechend hält sie fest"
-    },
-    {
-      "source": "republik/article-bilderklau-oder-appropriation",
-      "target": "http://www.richardprince.com/exhibitions/new-portraits/",
-      "type": "text",
-      "text": "New Portraits"
-    },
-    {
-      "source": "republik/article-bilderklau-oder-appropriation",
-      "target": "https://www.instagram.com/p/B0GlxWPnzhB/",
-      "type": "text",
-      "text": "Nadav Kander findet heraus"
-    },
-    {
-      "source": "republik/article-l-espion-dans-la-salle-de-classe",
-      "target": "https://www.engadget.com/2019/06/19/google-chromebook-app-hub-classroom-updates/",
-      "type": "text",
-      "text": "Plus de 40 millions d’élèves et d’étudiants"
-    },
-    {
-      "source": "republik/article-l-espion-dans-la-salle-de-classe",
-      "target": "https://www.educa.ch/de/fachtagung2018/keynotes#BacherJaeggi ",
-      "type": "text",
-      "text": "du congrès spécialisé Educa.ch"
-    },
-    {
-      "source": "republik/article-l-espion-dans-la-salle-de-classe",
-      "target": "https://gsuite.google.com/intl/de/terms/premier_terms_prepay.html",
-      "type": "text",
-      "text": "des clauses de responsabilité"
-    },
-    {
-      "source": "republik/article-l-espion-dans-la-salle-de-classe",
-      "target": "https://www.phbern.ch/fileadmin/user_upload/Weboffice/Dokumente/PHBern_in_den_Medien/2015/Juli_-_September/20150902-BernerZeitung_GoogleSchulzimmer.pdf",
-      "type": "text",
-      "text": "critiqué cela dans un rapport de 2015"
-    },
-    {
-      "source": "republik/article-l-espion-dans-la-salle-de-classe",
-      "target": "https://gsuite.google.com/intl/en/terms/education_privacy.html",
-      "type": "text",
-      "text": "des documents contractuels"
-    },
-    {
-      "source": "republik/article-l-espion-dans-la-salle-de-classe",
-      "target": "https://bzgrafik.atavist.com/ict",
-      "type": "text",
-      "text": "Bernhard Bacher à la «Berner Zeitung»"
-    },
-    {
-      "source": "republik/article-l-espion-dans-la-salle-de-classe",
-      "target": "https://www.youtube.com/watch?v=Tq6tXmonx3U",
-      "type": "text",
-      "text": "vidéos publicitaires"
-    },
-    {
-      "source": "republik/article-l-espion-dans-la-salle-de-classe",
-      "target": "https://gsuite.google.com/intl/de/terms/user_features.html ",
-      "type": "text",
-      "text": "offres principales"
-    },
-    {
-      "source": "republik/article-l-espion-dans-la-salle-de-classe",
-      "target": "https://gsuite.google.com/terms/education_privacy.html ",
-      "type": "text",
-      "text": "«améliore» globalement"
-    },
-    {
-      "source": "republik/article-l-espion-dans-la-salle-de-classe",
-      "target": "https://gsuite.google.com/intl/de/terms/education_privacy.html",
-      "type": "text",
-      "text": "l’Avis de confidentialité de G Suite for Education"
-    },
-    {
-      "source": "republik/article-l-espion-dans-la-salle-de-classe",
-      "target": "https://www.schulekonolfingen.ch/information/ict-konzept/",
-      "type": "text",
-      "text": "comme à Konolfingen"
-    },
-    {
-      "source": "republik/article-l-espion-dans-la-salle-de-classe",
-      "target": "https://gsuite.google.com/intl/de/terms/education_terms.html",
-      "type": "text",
-      "text": "sur le FERPA"
-    },
-    {
-      "source": "republik/article-l-espion-dans-la-salle-de-classe",
-      "target": "https://gsuite.google.com/intl/de/terms/premier_terms_prepay.html",
-      "type": "text",
-      "text": "Google se lave les mains de nombreuses questions de responsabilité"
-    },
-    {
-      "source": "republik/article-l-espion-dans-la-salle-de-classe",
-      "target": "https://www.switch.ch/de/stories/g-suite/",
-      "type": "text",
-      "text": "avec les Hautes écoles helvétiques"
-    },
-    {
-      "source": "republik/article-l-espion-dans-la-salle-de-classe",
-      "target": "https://www.zdnet.de/88347263/niederlande-sammlung-von-microsoft-office-telemetriedaten-verstoesst-gegen-dsgvo/",
-      "type": "text",
-      "text": "Microsoft a également accumulé ces méta-connaissances"
-    },
-    {
-      "source": "republik/article-l-espion-dans-la-salle-de-classe",
-      "target": "https://www.educa.ch/de/rahmenvertraege",
-      "type": "text",
-      "text": "Avec le contrat-cadre Microsoft"
-    },
-    {
-      "source": "republik/article-wo-die-reichen-kerle-wohnen",
-      "target": "https://www.bfs.admin.ch/bfs/de/home/statistiken/wirtschaftliche-soziale-situation-bevoelkerung/soziale-situation-wohlbefinden-und-armut/einkommensmitte.html",
-      "type": "text",
-      "text": "die zwischen 70 und 150 Prozent des mittleren Einkommens erzielen"
-    },
-    {
-      "source": "republik/article-wo-die-reichen-kerle-wohnen",
-      "target": "http://inequalities.ch/",
-      "type": "text",
-      "text": "auf der Basis von Steuerdaten"
-    },
-    {
-      "source": "republik/article-wdwww-19-07",
-      "target": "https://www.spiegel.de/politik/ausland/ursula-von-der-leyen-ist-neue-eu-kommissionspraesidentin-a-1277602.html",
-      "type": "text",
-      "text": "Am Dienstagabend wurde sie vom EU-Parlament zur Kommissionspräsidentin gewählt"
-    },
-    {
-      "source": "republik/article-wdwww-19-07",
-      "target": "https://www.faz.net/aktuell/politik/ausland/von-der-leyen-chance-auf-stimmen-der-sozialdemokraten-gestiegen-16287535.html",
-      "type": "text",
-      "text": "für offensiveren Klimaschutz, für eine europäische Arbeitslosenversicherung, für Mindestlöhne"
-    },
-    {
-      "source": "republik/article-wdwww-19-07",
-      "target": "https://www.spiegel.de/politik/deutschland/ursula-von-der-leyen-grosse-koalition-streitet-ueber-spd-nein-a-1277673.html",
-      "type": "text",
-      "text": "was den Parteivertretern grossflächig Kritik einbrachte"
-    },
-    {
-      "source": "republik/article-wdwww-19-07",
-      "target": "https://www.welt.de/politik/article196973463/Hofreiter-ueber-Kramp-Karrenbauer-Eine-ihrer-letzten-Chancen.html",
-      "type": "text",
-      "text": "sorgt die Nachfolge von der Leyens im deutschen Kabinett"
-    },
-    {
-      "source": "republik/article-wdwww-19-07",
-      "target": "https://www.tagesanzeiger.ch/ausland/europa/angela-merkel-naechste-ueberraschung/story/23383434",
-      "type": "text",
-      "text": "dem der Ruf des Schleudersitzes anhaftet"
-    },
-    {
-      "source": "republik/article-wdwww-19-07",
-      "target": "https://www.tagesspiegel.de/politik/von-der-leyen-wird-berateraffaere-nicht-los-opposition-will-kommissionschefin-vor-untersuchungs-ausschuss-laden/24597566.html",
-      "type": "text",
-      "text": "die ihre Vorgängerin von der Leyen bis heute belasten"
-    },
-    {
-      "source": "republik/article-wdwww-19-07",
-      "target": "https://www.aargauerzeitung.ch/schweiz/die-armee-muss-die-haelfte-ihrer-munition-entsorgen-der-wert-rund-17-milliarden-134747581",
-      "type": "text",
-      "text": "Publik machte dies die «Schweiz am Wochenende"
-    },
-    {
-      "source": "republik/article-wdwww-19-07",
-      "target": "https://www.srf.ch/news/schweiz/neue-militaerstrategie-viola-amherd-startet-mit-ehrgeizigen-plaenen-ins-amt",
-      "type": "text",
-      "text": "ihr 15 Milliarden Franken schweres Rüstungsprogramm"
-    },
-    {
-      "source": "republik/article-wdwww-19-07",
-      "target": "https://www.tagesanzeiger.ch/schweiz/standard/armee-fuellt-ihre-munitionslager-fuer-einen-moeglichen-krieg/story/22286838",
-      "type": "text",
-      "text": "2017 hatte man die Ausgaben für Munitionskäufe vervielfacht"
-    },
-    {
-      "source": "republik/article-wdwww-19-07",
-      "target": "https://www.nzz.ch/meinung/aufruestung-mehr-geld-fuer-material-doch-das-personal-fehlt-ld.1461334",
-      "type": "text",
-      "text": "die Rüstungsausgaben auf 4 Prozent des Bruttoinlandprodukts steigen zu lassen"
-    },
-    {
-      "source": "republik/article-wdwww-19-07",
-      "target": "https://www.radiopilatus.ch/artikel/156091/armee-verschrottet-die-haelfte-ihrer-munition",
-      "type": "text",
-      "text": "die Verschrottung in der Kommission zu besprechen"
-    },
-    {
-      "source": "republik/article-wdwww-19-07",
-      "target": "https://www.poliziadistato.it/articolo/225d2c47fb2c9ef299497390",
-      "type": "text",
-      "text": "Dabei entdeckten die Behörden eine grössere Menge illegaler Kriegswaffen"
-    },
-    {
-      "source": "republik/article-wdwww-19-07",
-      "target": "https://www.theguardian.com/world/2019/jul/15/ex-candidate-for-italian-neo-fascists-arrested-over-weapons-cache",
-      "type": "text",
-      "text": "Mitglied der rechtsextremistischen Partei Forza Nuova sein und als Mittelsmann gedient haben"
-    },
-    {
-      "source": "republik/article-wdwww-19-07",
-      "target": "https://www.sueddeutsche.de/politik/italien-rakete-rechtsextreme-salvini-1.4528495",
-      "type": "text",
-      "text": "dass er den Hinweis zur Rakete gegeben habe"
-    },
-    {
-      "source": "republik/article-wdwww-19-07",
-      "target": "https://www.maltatoday.com.mt/news/national/96317/three_men_accused_with_murdering_daphne_caruana_galizia_are_formally_charged#.XTAUFY9CTb3",
-      "type": "text",
-      "text": "sind drei Männer wegen Mordes angeklagt worden"
-    },
-    {
-      "source": "republik/article-wdwww-19-07",
-      "target": "https://www.politico.eu/list/politico-28-class-of-2017-ranking/daphne-caruana-galizia/",
-      "type": "text",
-      "text": "von «Politico» als «One-Woman-Wikileaks» bezeichnet"
-    },
-    {
-      "source": "republik/article-wdwww-19-07",
-      "target": "https://daphnecaruanagalizia.com/",
-      "type": "text",
-      "text": "in ihrem Blog «Running Commentary"
-    },
-    {
-      "source": "republik/article-wdwww-19-07",
-      "target": "http://assembly.coe.int/nw/xml/XRef/Xref-XML2HTML-en.asp?fileid=27724&lang=en",
-      "type": "text",
-      "text": "Darin heisst es, dass «ernsthafte Bedenken» bestehen"
-    },
-    {
-      "source": "republik/article-wdwww-19-07",
-      "target": "https://www.vox.com/2019/7/15/20694616/donald-trump-racist-tweets-omar-aoc-tlaib-pressley",
-      "type": "text",
-      "text": "hier entlang"
-    },
-    {
-      "source": "republik/article-wdwww-19-07",
-      "target": "https://www.c-span.org/video/?c4807645/house-speaker-nancy-pelosi-calls-president-trumps-comments-lawmakers-racist",
-      "type": "text",
-      "text": "diese Aussagen rassistisch waren"
-    },
-    {
-      "source": "republik/article-wdwww-19-07",
-      "target": "https://www.bbc.com/news/world-us-canada-49011843",
-      "type": "text",
-      "text": "Die Resolution wurde dann, nach einigem Hin und Her, doch verabschiedet"
-    },
-    {
-      "source": "republik/article-wdwww-19-07",
-      "target": "https://slate.com/news-and-politics/2019/07/pelosi-trump-tweets-racist-against-house-rules-jefferson-manual.html",
-      "type": "text",
-      "text": "stammt übrigens aus der Gründungszeit der Vereinigten Staaten"
-    },
-    {
-      "source": "republik/article-wdwww-19-07",
-      "target": "https://www.nytimes.com/interactive/2019/07/16/world/europe/notre-dame.html?exclusive=0&action=click&module=Top%20Stories&pgtype=Homepage",
-      "type": "text",
-      "text": "lesen und sehen Sie in dieser aufwendigen Multimedia-Geschichte"
-    },
-    {
-      "source": "republik/article-wdwww-19-07",
-      "target": "https://theintercept.com/2019/07/11/china-surveillance-google-ibm-semptian/",
-      "type": "text",
-      "text": "das Investigativ­portal «The Intercept»"
-    },
-    {
-      "source": "republik/article-wdwww-19-07",
-      "target": "https://www.theatlantic.com/magazine/archive/2019/08/an-epidemic-of-disbelief/592807/",
-      "type": "text",
-      "text": "eine Recherche von «The Atlantic"
-    },
-    {
-      "source": "republik/article-wdwww-19-07",
-      "target": "https://www.vice.com/de/article/paj5xn/die-martin-sonneborn-story-portrait-des-partei-abgeordneten-im-europawahlkampf",
-      "type": "text",
-      "text": "den ehemaligen Chefredaktor des Satire­magazins «Titanic» und Gründer der Partei Die PARTEI in den Wochen vor der Europa­wahl begleitet"
-    },
-    {
-      "source": "republik/article-wdwww-19-07",
-      "target": "https://www.zsz.ch/ueberregional/jungschwan-entpuppt-sich-als-auspuffrohr/story/11421988",
-      "type": "text",
-      "text": "um einen verrosteten Auspuff"
-    },
-    {
-      "source": "republik/article-am-klavier-fuer-alina",
-      "target": "https://vimeo.com/348394382",
-      "type": "text",
-      "text": "https://vimeo.com/348394382"
-    },
-    {
-      "source": "republik/article-am-klavier-fuer-alina",
-      "target": "https://cdn.republik.space/s3/republik-assets/assets/Republik_Baechli_Paert.mp3",
-      "type": "text",
-      "text": "Download Audiodatei"
-    },
-    {
-      "source": "republik/article-europa-ist-der-sonderfall",
-      "target": "https://www.chronos-verlag.ch/node/21028#kurztext",
-      "type": "text",
-      "text": "Chronos-Verlag"
-    },
-    {
-      "source": "republik/article-parlamentarierkarrieren",
-      "target": "https://www.crcpress.com/Political-Change-in-Switzerland-From-Stability-to-Uncertainty/Church/p/book/9781138386440",
-      "type": "text",
-      "text": "From Stability to Uncertainty"
-    },
-    {
-      "source": "republik/article-parlamentarierkarrieren",
-      "target": "https://www.nzz-libro.ch/9783038103110/handbuch-der-schweizer-politik-manuel-de-la-politique-suisse?gclid=CjwKCAjw36DpBRAYEiwAmVVDMAiqtqDKx0PV2g7kFWm3dJm6KIMTZ0MoinsEhwrTfvOj1xRk9C_pXBoCL-QQAvD_BwE",
-      "type": "text",
-      "text": "Ruth Lüthy"
-    },
-    {
-      "source": "republik/article-parlamentarierkarrieren",
-      "target": "https://www.parlament.ch/centers/documents/de/ed-pa-prof-parl-int.pdf",
-      "type": "text",
-      "text": "Heidi Z’graggen"
-    },
-    {
-      "source": "republik/article-parlamentarierkarrieren",
-      "target": "https://www.schulthess.com/buchshop/detail/ISBN-9783848708178/Buetikofer-Sarah/Das-Schweizer-Parlament",
-      "type": "text",
-      "text": "Sarah Bütikofer"
-    },
-    {
-      "source": "republik/article-parlamentarierkarrieren",
-      "target": "https://www.tagesanzeiger.ch/schweiz/standard/die-entzauberte-schweizer-demokratie/story/13754735",
-      "type": "text",
-      "text": "Politologin Silja Häusermann macht deutlich"
-    },
-    {
-      "source": "republik/article-westfernsehen",
-      "target": "https://twitter.com/search?src=typd&q=%23Westfernsehen",
-      "type": "text",
-      "text": " #Westfernsehen"
-    },
-    {
-      "source": "republik/article-westfernsehen",
-      "target": "https://twitter.com/HGMaassen/status/1148654208398319622",
-      "type": "text",
-      "text": "euphorischen Beifall"
-    },
-    {
-      "source": "republik/article-westfernsehen",
-      "target": "https://twitter.com/NZZ/status/1148588406156476417",
-      "type": "text",
-      "text": "Duckt sich weg"
-    },
-    {
-      "source": "republik/article-westfernsehen",
-      "target": "https://www.zeit.de/politik/deutschland/2018-07/afd-alternative-maskerade-rechtspopulismus-analyse",
-      "type": "text",
-      "text": "die Schweizer Zeitungen seien das neue Westfernsehen."
-    },
-    {
-      "source": "republik/article-westfernsehen",
-      "target": "https://twitter.com/Beatrix_vStorch/status/1017140335351357441",
-      "type": "text",
-      "text": "Auf! Bewerben! Ein bisschen Grundkenntnisse können nicht schaden!"
-    },
-    {
-      "source": "republik/article-westfernsehen",
-      "target": "https://www.foeg.uzh.ch/dam/jcr:e4152c8d-a470-4df0-804d-61e6f13aced5/Twitter-Analyse_3.pdf",
-      "type": "text",
-      "text": "wurde wissenschaftlich belegt"
-    },
-    {
-      "source": "republik/article-westfernsehen",
-      "target": "https://twitter.com/search?l=&q=westfernsehen%20from%3AMarcFelixSerrao&src=typd",
-      "type": "text",
-      "text": "auf dem Account eines Redaktors"
-    },
-    {
-      "source": "republik/article-westfernsehen",
-      "target": "https://www.nzz.ch/meinung/es-gruent-in-den-redaktionen-der-deutschen-mainstream-medien-ld.1488781?reduced=true",
-      "type": "text",
-      "text": "Es grünt so grün auf deutschen Redaktionen"
-    },
-    {
-      "source": "republik/article-westfernsehen",
-      "target": "https://twitter.com/nicolediekmann/status/1080205605497909252",
-      "type": "text",
-      "text": "ironischen Nazi-Tweet"
-    },
-    {
-      "source": "republik/article-westfernsehen",
-      "target": "https://www.nzz.ch/international/der-andere-blick-die-deutschen-waeren-gerne-moralweltmeister-ld.1493987?reduced=true",
-      "type": "text",
-      "text": "den von letzter Woche"
-    },
-    {
-      "source": "republik/article-westfernsehen",
-      "target": "https://www.nzz.ch/international/die-unbeirrbaren-geister-der-afd-ld.1318671?reduced=true",
-      "type": "text",
-      "text": "bitte nicht zu «schrill» zu sein"
-    },
-    {
-      "source": "republik/article-westfernsehen",
-      "target": "https://www.nzz.ch/international/gegen-bjoern-hoecke-und-seinen-personenkult-formiert-sich-widerstand-in-der-afd-ld.1495147?reduced=true",
-      "type": "text",
-      "text": "zunehmend scharf"
-    },
-    {
-      "source": "republik/article-westfernsehen",
-      "target": "https://www.nzz.ch/international/die-partei-der-verharmlosung-des-nationalsozialismus-ld.1391216",
-      "type": "text",
-      "text": "die Partei der Verharmlosung des Nationalsozialismus"
-    },
-    {
-      "source": "republik/article-westfernsehen",
-      "target": "https://www.nzz.ch/meinung/die-afd-ist-inlaenderfeindlich-ld.1357643",
-      "type": "text",
-      "text": "direkte Empfehlungen"
-    },
-    {
-      "source": "republik/article-westfernsehen",
-      "target": "https://www.nzz.ch/meinung/merkel-muss-ihre-nachfolge-regeln-ld.1323100?reduced=true",
-      "type": "text",
-      "text": "Untote"
-    },
-    {
-      "source": "republik/article-westfernsehen",
-      "target": "https://www.nzz.ch/meinung/der-andere-blick-gibt-es-eine-moral-fuer-journalisten-und-eine-fuer-normalsterbliche-ld.1448972?reduced=true",
-      "type": "text",
-      "text": "berechtigte Medienkritik"
-    },
-    {
-      "source": "republik/article-westfernsehen",
-      "target": "https://www.nzz.ch/meinung/die-aera-der-werte-ist-vorbei-die-welt-erlebt-die-rueckkehr-der-realpolitik-ld.1440411?reduced=true",
-      "type": "text",
-      "text": "Ein Ärgernis», ein Symptom von «Irrtümern und Überspanntheiten"
-    },
-    {
-      "source": "republik/article-westfernsehen",
-      "target": "https://www.nzz.ch/meinung/die-schweiz-braucht-keine-staatsmedien-ld.1339261?reduced=true",
-      "type": "text",
-      "text": "No-Billag-Kommentar"
-    },
-    {
-      "source": "republik/article-schluss-mit-dreckigem-geld",
-      "target": "https://www.theguardian.com/law/2019/jun/14/yana-peel-uk-rights-advocate-serpentine-nso-spyware-pegasus",
-      "type": "text",
-      "text": "eine ausführliche Recherche"
-    },
-    {
-      "source": "republik/article-schluss-mit-dreckigem-geld",
-      "target": "https://mitpress.mit.edu/books/2016",
-      "type": "text",
-      "text": "2016 in Museums, Money, and Politics"
-    },
-    {
-      "source": "republik/article-schluss-mit-dreckigem-geld",
-      "target": "https://twitter.com/hashtag/achtungweisswurst?src=hash",
-      "type": "text",
-      "text": "#Achtungweisswurst"
-    },
-    {
-      "source": "republik/article-schluss-mit-dreckigem-geld",
-      "target": "https://www.handelsblatt.com/arts_und_style/kunstmarkt/kuenstlerpaar-rosa-loy-und-neo-rauch-das-ist-die-talibanisierung-unserer-lebenswirklichkeit/21189370.html?ticket=ST-1036084-5aycZKrgK5XgG9XgN0kM-ap5",
-      "type": "text",
-      "text": "Bagage der Blockwarte, der Gesinnungsschnüffler und Politkommissare"
-    },
-    {
-      "source": "republik/article-schluss-mit-dreckigem-geld",
-      "target": "https://frieze.com/",
-      "type": "text",
-      "text": "Frieze"
-    },
-    {
-      "source": "republik/article-sexualstrafrecht",
-      "target": "https://www.admin.ch/opc/de/federal-gazette/2018/2827.pdf",
-      "type": "text",
-      "text": "hat der Bundesrat seine Vorschläge für Änderungen des Sexualstrafrechts"
-    },
-    {
-      "source": "republik/article-sexualstrafrecht",
-      "target": "https://stopp-sexuelle-gewalt.amnesty.ch/de/?gclid=EAIaIQobChMI8_CRm8al4wIVl5IYCh0AOA7EEAAYASABEgIR6fD_BwE",
-      "type": "text",
-      "text": "lancierte eine Petition"
-    },
-    {
-      "source": "republik/article-sexualstrafrecht",
-      "target": "https://www.admin.ch/opc/de/classified-compilation/20162518/index.html",
-      "type": "text",
-      "text": "Istanbul-Konvention"
-    },
-    {
-      "source": "republik/article-sexualstrafrecht",
-      "target": "https://www.tagesanzeiger.ch/schweiz/standard/uebergriffe-angemessen-bestrafen/story/15727953",
-      "type": "text",
-      "text": "Sie rufen Justiz­ministerin Karin Keller-Sutter dazu auf"
-    },
-    {
-      "source": "republik/article-barnes",
-      "target": "https://www.kiwi-verlag.de/buch/die-einzige-geschichte/978-3-462-05154-4/",
-      "type": "text",
-      "text": "Die einzige Geschichte"
-    },
-    {
-      "source": "republik/article-barnes",
-      "target": "http://www.bic-media.com/mobile/mobileWidget-jqm1.4.html?isbn=978-3-462-05154-4&flipBook=yes",
-      "type": "text",
-      "text": "Der Verlag stellt eine Leseprobe zur Verfügung"
-    },
-    {
-      "source": "republik/article-barnes",
-      "target": "https://www.literaturopenair.ch/programm-2019/julian-barnes-uk/",
-      "type": "text",
-      "text": "stellt Julian Barnes seinen neuen Roman"
-    },
-    {
-      "source": "republik/article-barnes",
-      "target": "https://tell-review.de/",
-      "type": "text",
-      "text": "tell"
-    },
-    {
-      "source": "republik/article-barnes",
-      "target": "https://kampaverlag.ch/peter-bichsel-was-waere-wenn/",
-      "type": "text",
-      "text": "Was wäre, wenn?"
-    },
-    {
-      "source": "republik/article-cilmate-cities",
-      "target": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0217592",
-      "type": "text",
-      "text": "eine neue Studie"
-    },
-    {
-      "source": "republik/article-cilmate-cities",
-      "target": "https://en.wikipedia.org/wiki/Representative_Concentration_Pathway",
-      "type": "text",
-      "text": "nimmt bis 2050 um ungefähr 2 Grad zu"
-    },
-    {
-      "source": "republik/article-cilmate-cities",
-      "target": "https://ilmasto-opas.fi/en/ilmastonmuutos/suomen-muuttuva-ilmasto/-/artikkeli/74b167fc-384b-44ae-84aa-c585ec218b41/ennustettu-ilmastonmuutos-suomessa.html",
-      "type": "text",
-      "text": "Besonders gut passt die Entwicklung der nächtlichen Wintertemperatur"
-    },
-    {
-      "source": "republik/article-cilmate-cities",
-      "target": "https://www.eea.europa.eu/soer-2015/europe/climate-change-impacts-and-adaptation",
-      "type": "text",
-      "text": "Die kalte Jahreszeit wird im hohen Norden also künftig deutlich weniger kalt"
-    },
-    {
-      "source": "republik/article-cilmate-cities",
-      "target": "http://www.climate.be/textbook/chapter6_node8.xml",
-      "type": "text",
-      "text": "ist wissenschaftlich gut erklärbar"
-    },
-    {
-      "source": "republik/article-cilmate-cities",
-      "target": "https://www.spektrum.de/lexikon/geographie/albedo/241",
-      "type": "text",
-      "text": "Albedo-Effekt"
-    },
-    {
-      "source": "republik/article-cilmate-cities",
-      "target": "https://www.orlandoweekly.com/Blogs/archives/2018/11/26/new-climate-report-confirms-that-florida-is-very-screwed",
-      "type": "text",
-      "text": "eine Folge der globalen Erwärmung sind"
-    },
-    {
-      "source": "republik/article-cilmate-cities",
-      "target": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0217592",
-      "type": "text",
-      "text": "Studie"
-    },
-    {
-      "source": "republik/article-cilmate-cities",
-      "target": "https://www.crowtherlab.com/",
-      "type": "text",
-      "text": "Crowther Lab"
-    },
-    {
-      "source": "republik/article-cilmate-cities",
-      "target": "https://skepticalscience.com/docs/RCP_Guide.pdf",
-      "type": "text",
-      "text": "mittelschweres Erwärmungsszenario"
-    },
-    {
-      "source": "republik/article-cilmate-cities",
-      "target": "http://wiki.bildungsserver.de/klimawandel/index.php/RCP-Szenarien",
-      "type": "text",
-      "text": "um 2,6 Grad gegenüber der vorindustriellen Zeit zu"
-    },
-    {
-      "source": "republik/article-das-gefuehl-der-identitaet",
-      "target": "https://www.zeit.de/sport/2019-05/caster-semenya-mittelstreckenlauf-800-meter-hormone-intersexualitaet-hyperandrogynitaet",
-      "type": "text",
-      "text": "nur noch in einem 800-Meter-Lauf als Frau starten dürfe"
-    },
-    {
-      "source": "republik/article-das-gefuehl-der-identitaet",
-      "target": "https://www.spiegel.de/gesundheit/diagnose/jens-spahn-stoesst-verbot-von-therapien-gegen-homosexualitaet-an-a-1271784.html",
-      "type": "text",
-      "text": "der deutsche Gesundheits­minister Jens Spahn"
-    },
-    {
-      "source": "republik/article-das-gefuehl-der-identitaet",
-      "target": "https://www.suhrkamp.de/buecher/kontingenz_ironie_und_solidaritaet-richard_rorty_28581.html",
-      "type": "text",
-      "text": "Kontingenz, Ironie und Solidarität"
-    },
-    {
-      "source": "republik/article-das-gefuehl-der-identitaet",
-      "target": "https://www.bibleserver.com/text/ELB/2.Mose3%2C14",
-      "type": "text",
-      "text": "2. Mose 3,14"
-    },
-    {
-      "source": "republik/article-theorie-des-nonsens",
-      "target": "https://www.seco.admin.ch/seco/de/home/wirtschaftslage---wirtschaftspolitik/Wirtschaftslage/bip-quartalsschaetzungen-/daten.html",
-      "type": "text",
-      "text": "Seco"
-    },
-    {
-      "source": "republik/article-theorie-des-nonsens",
-      "target": "https://kof.ethz.ch/news-und-veranstaltungen/medien/medienmitteilungen/2019/06/kof-konjunkturprognose-schweizer-konjunktur-entwickelt-sich-stabil-.html",
-      "type": "text",
-      "text": "KOF"
-    },
-    {
-      "source": "republik/article-theorie-des-nonsens",
-      "target": "https://www.imf.org/external/pubs/ft/weo/2019/01/weodata/index.aspx",
-      "type": "text",
-      "text": "IWF"
-    },
-    {
-      "source": "republik/article-theorie-des-nonsens",
-      "target": "https://www.nzz.ch/wirtschaft/eu-kommission-lanciert-kein-verfahren-gegen-italien-ld.1493469",
-      "type": "text",
-      "text": "Die EU-Kommission wollte der italienischen Regierung bis letzte Woche ein Defizitverfahren anhängen"
-    },
-    {
-      "source": "republik/article-theorie-des-nonsens",
-      "target": "https://ec.europa.eu/info/sites/info/files/economy-finance/com2019_532_it_en.pdf",
-      "type": "text",
-      "text": "Unbereinigt hatte Italien gemäss den Frühjahrszahlen aber ein Budgetdefizit von 2,5 Prozent"
-    },
-    {
-      "source": "republik/article-theorie-des-nonsens",
-      "target": "https://wiiw.ac.at/output-gap-nonsense-understanding-budget-conflict-ec-italy-government-n-386.html",
-      "type": "text",
-      "text": "Je negativer die Produktionslücke in Italien geschätzt wird, desto stärker kann Italien sein Defizit rechnerisch bereinigen"
-    },
-    {
-      "source": "republik/article-theorie-des-nonsens",
-      "target": "https://www.nzz.ch/wirtschaft/eu-kommission-lanciert-kein-verfahren-gegen-italien-ld.1493469",
-      "type": "text",
-      "text": "nun doch nur bei 2 Prozent liegen soll"
-    },
-    {
-      "source": "republik/article-theorie-des-nonsens",
-      "target": "https://www.socialeurope.eu/output-gap-nonsense",
-      "type": "text",
-      "text": "Falsche Potenzialschätzungen können also einen regelrechten Teufelskreis nach sich ziehen"
-    },
-    {
-      "source": "republik/article-theorie-des-nonsens",
-      "target": "https://www.efv.admin.ch/efv/de/home/themen/publikationen/oeko_grundlagenarb.html#1764132672",
-      "type": "text",
-      "text": "bei der Schuldenbremse"
-    },
-    {
-      "source": "republik/article-theorie-des-nonsens",
-      "target": "http://bruegel.org/2019/06/the-campaign-against-nonsense-output-gaps/#.XRXFygu9GFA.twitter",
-      "type": "text",
-      "text": "den letzten Monaten eine Blogging-Kampagne losgetreten haben"
-    },
-    {
-      "source": "republik/article-theorie-des-nonsens",
-      "target": "https://www.iif.com/Portals/0/Files/3_IIF05302019_GMV.pdf",
-      "type": "text",
-      "text": "Dies, weil sie in Fällen wie Italien schlichtweg komplett an der Realität vorbeizielen würden"
-    },
-    {
-      "source": "republik/article-theorie-des-nonsens",
-      "target": "https://tradingeconomics.com/italy/inflation-cpi?embed",
-      "type": "text",
-      "text": "Die Teuerung ist in Italien derzeit unter Kontrolle"
-    },
-    {
-      "source": "republik/article-theorie-des-nonsens",
-      "target": "https://www.socialeurope.eu/output-gap-nonsense",
-      "type": "text",
-      "text": "dazu gehören Staatsausgaben ebenso wie strukturelle Reformen"
-    },
-    {
-      "source": "republik/article-theorie-des-nonsens",
-      "target": "https://de.wikipedia.org/wiki/Produktionspotenzial",
-      "type": "text",
-      "text": "potenzielle Wirtschaftsleistung eines Landes"
-    },
-    {
-      "source": "republik/article-theorie-des-nonsens",
-      "target": "https://de.wikipedia.org/wiki/Die_Inflation_nicht_beschleunigende_Arbeitslosenquote",
-      "type": "text",
-      "text": "eine bestimmte Arbeitslosenquote"
-    },
-    {
-      "source": "republik/article-theorie-des-nonsens",
-      "target": "http://ec.europa.eu/economy_finance/ameco/user/serie/SelectSerie.cfm",
-      "type": "text",
-      "text": "über die Ameco-Datenbank verfügbar"
-    },
-    {
-      "source": "republik/article-theorie-des-nonsens",
-      "target": "https://kof.ethz.ch/news-und-veranstaltungen/news/kof-bulletin/kof-bulletin/2019/04/kof-konjunkturprognose-schwierige-bedingungen-fuer-die-schweizer-wirtschaft.html",
-      "type": "text",
-      "text": " die KOF mehrere Ansätze, der hier gezeigte orientiert sich an der Methode der Europäischen Kommission"
-    },
-    {
-      "source": "republik/article-theorie-des-nonsens",
-      "target": "http://ec.europa.eu/economy_finance/publications/economic_paper/2014/pdf/ecp535_en.pdf",
-      "type": "text",
-      "text": "hat die Europäische Kommission publiziert"
-    },
-    {
-      "source": "republik/article-theorie-des-nonsens",
-      "target": "https://jakob-kapeller.org/images/pubs/2017-HeimKap-RIPE.pdf",
-      "type": "text",
-      "text": "Papier der Johannes Kepler Universität in Linz"
-    },
-    {
-      "source": "republik/article-theorie-des-nonsens",
-      "target": "https://stats.oecd.org/index.aspx?QueryId=51655#",
-      "type": "text",
-      "text": "die online verfügbar sind"
-    },
-    {
-      "source": "republik/article-theorie-des-nonsens",
-      "target": "https://oecdecoscope.blog/2018/10/16/if-potential-output-estimates-are-too-cyclical-then-oecd-estimates-have-an-edge/",
-      "type": "text",
-      "text": "weniger sensitiv auf die Konjunktur reagieren"
-    },
-    {
-      "source": "republik/article-theorie-des-nonsens",
-      "target": "https://www.imf.org/external/pubs/ft/weo/2019/01/weodata/weoselgr.aspx",
-      "type": "text",
-      "text": "auch der IWF zur Verfügung"
-    },
-    {
-      "source": "republik/article-theorie-des-nonsens",
-      "target": "https://www.efv.admin.ch/efv/de/home/themen/publikationen/oeko_grundlagenarb.html#1764132672",
-      "type": "text",
-      "text": "Eidgenössische Finanzverwaltung"
-    },
-    {
-      "source": "republik/article-theorie-des-nonsens",
-      "target": "https://www.ecb.europa.eu/pub/pdf/other/mb200502_focus05.en.pdf?cb1e42a54296e7dbc045d5dd64112655",
-      "type": "text",
-      "text": "sind zu viele Unsicherheiten rund um die Messung und Schätzung verbunden"
-    },
-    {
-      "source": "republik/article-der-zauberer",
-      "target": "https://hausderkunst.de/entdecken/videos/im-gespraech-william-kentridge-und-sir-sydney-kentridge",
-      "type": "text",
-      "text": "eines Gesprächs zwischen William Kentridge und seinem 91-jährigen Vater Sir Sydney"
-    },
-    {
-      "source": "republik/article-der-zauberer",
-      "target": "https://kunstmuseumbasel.ch/en/exhibitions/2019/william-kentridge",
-      "type": "text",
-      "text": "William Kentridge – A Poem That Is Not Our Own"
-    },
-    {
-      "source": "republik/article-parteispenden",
-      "target": "https://www.foeg.uzh.ch/dam/jcr:ffffffff-c0fa-f6b2-0000-00007a359869/Sotomostudie.pdf",
-      "type": "text",
-      "text": "am meisten Geld ausgibt – bei Wahlen und bei Abstimmungen"
-    },
-    {
-      "source": "republik/article-parteispenden",
-      "target": "https://www.nytimes.com/2007/10/08/world/europe/08swiss.html",
-      "type": "text",
-      "text": "von der Titelseite der «New York Times"
-    },
-    {
-      "source": "republik/article-parteispenden",
-      "target": "http://blocherprinzip.ch/buch",
-      "type": "text",
-      "text": "Führungsbuch"
-    },
-    {
-      "source": "republik/article-parteispenden",
-      "target": "https://cdn.republik.space/s3/republik-assets/assets/parteispenden/02-antraege.pdf",
-      "type": "text",
-      "text": "Anträge"
-    },
-    {
-      "source": "republik/article-parteispenden",
-      "target": "https://cdn.republik.space/s3/republik-assets/assets/parteispenden/03-abrechnungen.pdf",
-      "type": "text",
-      "text": "Abrechnungen"
-    },
-    {
-      "source": "republik/article-parteispenden",
-      "target": "https://cdn.republik.space/s3/republik-assets/assets/parteispenden/01-zahlungsaufforderungen.pdf",
-      "type": "text",
-      "text": "Zahlungsaufforderungen"
-    },
-    {
-      "source": "republik/article-parteispenden",
-      "target": "https://de.wikipedia.org/wiki/Schweizer_Parlamentswahlen_2007#Wahlkampf",
-      "type": "text",
-      "text": "rund 6 Millionen Franken"
-    },
-    {
-      "source": "republik/article-parteispenden",
-      "target": "https://www.derbund.ch/schweiz/standard/afd-spende-aus-der-schweiz-es-war-ein-svp-goenner/story/28350679",
-      "type": "text",
-      "text": "illegale Spenden aus der Schweiz erhalten"
-    },
-    {
-      "source": "republik/article-parteispenden",
-      "target": "https://projekte.sueddeutsche.de/artikel/politik/strache-video-die-falle-e844402/?reduced=true",
-      "type": "text",
-      "text": "brach kürzlich die Regierung zusammen"
-    },
-    {
-      "source": "republik/article-parteispenden",
-      "target": "https://www.schweizamwochenende.ch/politik/bargeld-affaere-der-svp-ogi-fordert-blochers-ruecktritt-als-vizepraesident-131048156",
-      "type": "text",
-      "text": "forderte Alt-Bundesrat Adolf Ogi zwar den Rücktritt"
-    },
-    {
-      "source": "republik/article-parteispenden",
-      "target": "https://www.blick.ch/news/politik/toni-brunner-zu-parteispenden-und-wahlen-kommt-bei-ihnen-der-koefferli-muni-mit-dem-bargeld-herr-brunner-id1804459.html",
-      "type": "text",
-      "text": "keine Koffer voller Geld."
-    },
-    {
-      "source": "republik/article-parteispenden",
-      "target": "https://www.tagesanzeiger.ch/schweiz/standard/Blochers-Anwalt-verteidigt-mysterioese--Spenden/story/16307881",
-      "type": "text",
-      "text": "nichts Dubioses."
-    },
-    {
-      "source": "republik/article-parteispenden",
-      "target": "https://www.nzz.ch/die_partei_die_am_liebsten_bar_zahlt-1.15636010",
-      "type": "text",
-      "text": "müssen Sie jemanden dazwischenschalten."
-    },
-    {
-      "source": "republik/article-parteispenden",
-      "target": "https://transparenz-ja.ch/wp-content/uploads/sites/65/2016/04/Transparency-Schweiz.pdf",
-      "type": "text",
-      "text": "Umfragen"
-    },
-    {
-      "source": "republik/article-parteispenden",
-      "target": "https://www.nzz.ch/parteispenden_im_zwielicht-1.1611238",
-      "type": "text",
-      "text": "kritisierten die intransparente Parteienfinanzierung in der Schweiz"
-    },
-    {
-      "source": "republik/article-parteispenden",
-      "target": "https://rm.coe.int/16806cab77",
-      "type": "text",
-      "text": "fehlende Unrechtsbewusstsein in der Schweiz"
-    },
-    {
-      "source": "republik/article-parteispenden",
-      "target": "https://www.bj.admin.ch/dam/data/bj/sicherheit/kriminalitaet/korruption/grecoberichte/ber-iii-2018-7-d.pdf",
-      "type": "text",
-      "text": "Bis heute wurde «keine der Empfehlungen umgesetzt"
-    },
-    {
-      "source": "republik/article-parteispenden",
-      "target": "https://www.admin.ch/opc/de/federal-gazette/2017/6893.pdf",
-      "type": "text",
-      "text": "109’826 gültige Unterschriften"
-    },
-    {
-      "source": "republik/article-parteispenden",
-      "target": "https://transparenz-ja.ch/wp-content/uploads/sites/65/2016/04/Transparency-Schweiz.pdf",
-      "type": "text",
-      "text": "repräsentativen Umfrage"
-    },
-    {
-      "source": "republik/article-parteispenden",
-      "target": "https://www.swissinfo.ch/ger/teuerster-wahlkampf-aller-zeiten/162218",
-      "type": "text",
-      "text": "den"
-    },
-    {
-      "source": "republik/article-parteispenden",
-      "target": "https://www.bazonline.ch/schweiz/standard/der-schweiz-steht-der-teuerste-wahlkampf-aller-zeiten-bevor/story/31837278",
-      "type": "text",
-      "text": "teuersten"
-    },
-    {
-      "source": "republik/article-parteispenden",
-      "target": "https://www.tagesanzeiger.ch/schweiz/standard/der-bislang-teuerste-wahlkampf/story/27454898",
-      "type": "text",
-      "text": "Wahlkampf"
-    },
-    {
-      "source": "republik/article-parteispenden",
-      "target": "https://www.tagesanzeiger.ch/schweiz/standard/der-wahlkampf-und-die-millionen/story/31310933",
-      "type": "text",
-      "text": "aller"
-    },
-    {
-      "source": "republik/article-parteispenden",
-      "target": "https://www.tagesanzeiger.ch/sonntagszeitung/wahlkampf-mit-viel-geld-und-wenig-offenheit/story/16931466",
-      "type": "text",
-      "text": "Zeiten"
-    },
-    {
-      "source": "republik/article-parteispenden",
-      "target": "https://www.admin.ch/opc/de/classified-compilation/19880055/index.html#a10",
-      "type": "text",
-      "text": "indirekte staatliche Parteienfinanzierung"
-    },
-    {
-      "source": "republik/article-parteispenden",
-      "target": "https://www.bilanz.ch/people/philip-mosimann-einer-mit-bodenhaftung#",
-      "type": "text",
-      "text": "jedes zahlt jährlich einen Beitrag von mindestens 2000 Franken"
-    },
-    {
-      "source": "republik/article-parteispenden",
-      "target": "https://www.tagesanzeiger.ch/schweiz/standard/neue-waechter-fuer-die-svpgeheimkasse/story/31070628",
-      "type": "text",
-      "text": "«SVP-Geheimkasse» der «Tages-Anzeiger»"
-    },
-    {
-      "source": "republik/article-parteispenden",
-      "target": "https://www.nzz.ch/article8MPKV-1.200839",
-      "type": "text",
-      "text": "kräftig die Werbetrommel"
-    },
-    {
-      "source": "republik/article-parteispenden",
-      "target": "https://zg.chregister.ch/cr-portal/auszug/auszug.xhtml;jsessionid=db9d8bb44d38e57d4647edbf0f89?uid=CHE-109.980.582",
-      "type": "text",
-      "text": "So steht es im Stiftungszweck"
-    },
-    {
-      "source": "republik/article-parteispenden",
-      "target": "https://www.parlament.ch/de/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20053820",
-      "type": "text",
-      "text": "einer umstrittenen Blocher-Rede als Zeitungsinserat"
-    },
-    {
-      "source": "republik/article-parteispenden",
-      "target": "https://www.tagesanzeiger.ch/schweiz/standard/svp-sitzt-auf-ueber-200-millionen-franken/story/10287856",
-      "type": "text",
-      "text": "titelte die «SonntagsZeitung"
-    },
-    {
-      "source": "republik/article-parteispenden",
-      "target": "https://www.tagesanzeiger.ch/schweiz/standard/svpstiftung-hat-prominenten-zugang/story/15813929",
-      "type": "text",
-      "text": "in den Stiftungsrat nachrückte"
-    },
-    {
-      "source": "republik/article-parteispenden",
-      "target": "https://www.bilanz.ch/people/wie-sich-rolf-dorig-eine-neue-heimat-bei-der-svp-sucht#",
-      "type": "text",
-      "text": "angehören"
-    },
-    {
-      "source": "republik/article-parteispenden",
-      "target": "https://www.srf.ch/sendungen/arena/gekaufte-politiker",
-      "type": "text",
-      "text": "am Rande einer Fernsehaufzeichnung"
-    },
-    {
-      "source": "republik/article-das-raetsel-dag-solstad",
-      "target": "https://lithub.com/dag-solstad-on-the-accidental-politics-of-novel-writing/",
-      "type": "text",
-      "text": "Lydia Davis hat Norwegisch gelernt"
-    },
-    {
-      "source": "republik/article-das-raetsel-dag-solstad",
-      "target": "https://www.suhrkamp.de/buecher/tage_und_werke-peter_handke_42492.html",
-      "type": "text",
-      "text": "Teile eines umfangreichen Essays"
-    },
-    {
-      "source": "republik/article-das-raetsel-dag-solstad",
-      "target": "https://www.theparisreview.org/interviews/6471/dag-solstad-the-art-of-fiction-no-230-dag-solstad",
-      "type": "text",
-      "text": "im Interview mit der «Paris Review» 2016"
-    },
-    {
-      "source": "republik/article-das-raetsel-dag-solstad",
-      "target": "https://www.poetryfoundation.org/poetrymagazine/poems/44212/the-love-song-of-j-alfred-prufrock",
-      "type": "text",
-      "text": "J. Alfred Prufrock"
-    },
-    {
-      "source": "republik/article-das-raetsel-dag-solstad",
-      "target": "https://www.fixpoetry.com/feuilleton/lesarten/t-s-eliot/die-hohlen-maenner",
-      "type": "text",
-      "text": "Die hohlen Männer"
-    },
-    {
-      "source": "republik/article-das-raetsel-dag-solstad",
-      "target": "https://doerlemann.com/?id=614&k=2",
-      "type": "text",
-      "text": "T. Singer"
-    },
-    {
-      "source": "republik/article-das-raetsel-dag-solstad",
-      "target": "https://www.book2look.com/book/9783038200659",
-      "type": "text",
-      "text": "Hier gehts zur Leseprobe"
-    },
-    {
-      "source": "republik/article-das-raetsel-dag-solstad",
-      "target": "https://www.schoeffling.de/buecher/jan-wilm/winterjahrbuch",
-      "type": "text",
-      "text": "Sein Roman «Winterjahrbuch»"
-    },
-    {
-      "source": "republik/article-google-greift",
-      "target": "https://www.engadget.com/2019/06/19/google-chromebook-app-hub-classroom-updates/",
-      "type": "text",
-      "text": "40 Millionen Schüler und Lehrerinnen"
-    },
-    {
-      "source": "republik/article-google-greift",
-      "target": "https://www.educa.ch/de/fachtagung2018/keynotes#BacherJaeggi ",
-      "type": "text",
-      "text": "Fachtagung von Educa.ch G Suite for Education"
-    },
-    {
-      "source": "republik/article-google-greift",
-      "target": "https://gsuite.google.com/intl/de/terms/premier_terms_prepay.html",
-      "type": "text",
-      "text": "hat sich «sichere» Haftungsklauseln auferlegt"
-    },
-    {
-      "source": "republik/article-google-greift",
-      "target": "https://www.phbern.ch/fileadmin/user_upload/Weboffice/Dokumente/PHBern_in_den_Medien/2015/Juli_-_September/20150902-BernerZeitung_GoogleSchulzimmer.pdf",
-      "type": "text",
-      "text": "Berner Erziehungsdirektion in einem Bericht 2015"
-    },
-    {
-      "source": "republik/article-google-greift",
-      "target": "https://gsuite.google.com/intl/en/terms/education_privacy.html",
-      "type": "text",
-      "text": "im Netz verstreuten Vertragsdokumente"
-    },
-    {
-      "source": "republik/article-google-greift",
-      "target": "https://bzgrafik.atavist.com/ict",
-      "type": "text",
-      "text": "Bernhard Bacher der «Berner Zeitung"
-    },
-    {
-      "source": "republik/article-google-greift",
-      "target": "https://www.youtube.com/watch?v=Tq6tXmonx3U",
-      "type": "text",
-      "text": "etlichen Werbevideos versichern Google-Managerinnen"
-    },
-    {
-      "source": "republik/article-google-greift",
-      "target": "https://gsuite.google.com/intl/de/terms/user_features.html ",
-      "type": "text",
-      "text": "Hauptangebote"
-    },
-    {
-      "source": "republik/article-google-greift",
-      "target": "https://gsuite.google.com/terms/education_privacy.html ",
-      "type": "text",
-      "text": "übergreifend «verbessern"
-    },
-    {
-      "source": "republik/article-google-greift",
-      "target": "https://gsuite.google.com/intl/de/terms/education_privacy.html",
-      "type": "text",
-      "text": "Datenschutzhinweisen für G Suite for Education"
-    },
-    {
-      "source": "republik/article-google-greift",
-      "target": "https://www.schulekonolfingen.ch/information/ict-konzept/",
-      "type": "text",
-      "text": "wie in Konolfingen"
-    },
-    {
-      "source": "republik/article-google-greift",
-      "target": "https://gsuite.google.com/intl/de/terms/education_terms.html",
-      "type": "text",
-      "text": "stützt sich dabei auf FERPA"
-    },
-    {
-      "source": "republik/article-google-greift",
-      "target": "https://gsuite.google.com/intl/de/terms/premier_terms_prepay.html",
-      "type": "text",
-      "text": "vielen Haftungsfragen"
-    },
-    {
-      "source": "republik/article-google-greift",
-      "target": "https://www.switch.ch/de/stories/g-suite/",
-      "type": "text",
-      "text": "Rahmenvertrag mit den Schweizer Hochschulen"
-    },
-    {
-      "source": "republik/article-google-greift",
-      "target": "https://www.zdnet.de/88347263/niederlande-sammlung-von-microsoft-office-telemetriedaten-verstoesst-gegen-dsgvo/",
-      "type": "text",
-      "text": "und wurde deswegen vom niederländischen Justizministerium gerügt"
-    },
-    {
-      "source": "republik/article-google-greift",
-      "target": "https://www.educa.ch/de/rahmenvertraege",
-      "type": "text",
-      "text": "Mit dem Microsoft-Rahmenvertrag"
-    },
-    {
-      "source": "republik/article-google-greift",
-      "target": "https://www.deutschlandfunkkultur.de/breitband-sendungsueberblick-die-googlisierung-der-schulen.1264.de.html?dram:article_id=454310",
-      "type": "text",
-      "text": "zum Interview beim «Deutschlandfunk»"
-    },
-    {
-      "source": "republik/article-google-greift",
-      "target": "https://vimeo.com/349305546",
-      "type": "text",
-      "text": "https://vimeo.com/349305546"
-    },
-    {
-      "source": "republik/article-alles-so-schoen-bunt-hier",
-      "target": "https://www.operation-libero.ch/de",
-      "type": "text",
-      "text": "ihr angekündigtes Projekt fürs Wahljahr"
-    },
-    {
-      "source": "republik/article-alles-so-schoen-bunt-hier",
-      "target": "https://www.wandelwahl.ch",
-      "type": "text",
-      "text": "im Manifest"
-    },
-    {
-      "source": "republik/article-eine-kleine-energiegeschichte",
-      "target": "https://www.bfe.admin.ch/bfe/de/home/versorgung/statistik-und-geodaten/energiestatistiken/gesamtenergiestatistik.html",
-      "type": "text",
-      "text": "Gesamtenergiestatistik des Bundes"
-    },
-    {
-      "source": "republik/article-eine-kleine-energiegeschichte",
-      "target": "https://www.bfe.admin.ch/bfe/de/home/versorgung/statistik-und-geodaten/energiestatistiken/gesamtenergiestatistik.html",
-      "type": "text",
-      "text": "BFE"
-    },
-    {
-      "source": "republik/article-eine-kleine-energiegeschichte",
-      "target": "https://hls-dhs-dss.ch/de/articles/026220/2006-10-23/",
-      "type": "text",
-      "text": "Blechnereien, Bierbrauereien, Baustoffherstellung, Metallverarbeitung"
-    },
-    {
-      "source": "republik/article-eine-kleine-energiegeschichte",
-      "target": "https://hls-dhs-dss.ch/de/articles/013794/2012-08-16/",
-      "type": "text",
-      "text": "Wasserwirtschaftsgesetz"
-    },
-    {
-      "source": "republik/article-eine-kleine-energiegeschichte",
-      "target": "https://www.luzernerzeitung.ch/zentralschweiz/luzern/region-so-kam-die-schweiz-zur-ersten-autobahn-ld.100924",
-      "type": "text",
-      "text": "erste Autobahnteilstück eröffnet"
-    },
-    {
-      "source": "republik/article-eine-kleine-energiegeschichte",
-      "target": "https://www.20min.ch/wissen/history/story/Grande-Dixence-wird-50-13029217",
-      "type": "text",
-      "text": "in Grande Dixence"
-    },
-    {
-      "source": "republik/article-eine-kleine-energiegeschichte",
-      "target": "https://www.srf.ch/news/schweiz/vor-40-jahren-sonntagsfahrverbot-in-der-schweiz",
-      "type": "text",
-      "text": "zur Ölkrise"
-    },
-    {
-      "source": "republik/article-eine-kleine-energiegeschichte",
-      "target": "https://wirtschaftslexikon.gabler.de/definition/opec-46029",
-      "type": "text",
-      "text": "Opec-Staaten"
-    },
-    {
-      "source": "republik/article-eine-kleine-energiegeschichte",
-      "target": "https://www.energiestiftung.ch/id-2017-4-die-erdoelkrise-als-wegbereiterin-einer-gesamtenergiekonzeption.html",
-      "type": "text",
-      "text": "Gesamtenergiekonzeption"
-    },
-    {
-      "source": "republik/article-eine-kleine-energiegeschichte",
-      "target": "https://www.nzz.ch/schweiz/49-jahre-akw-beznau-1-ld.1363173",
-      "type": "text",
-      "text": "war bereits 1969 ans Netz gegangen"
-    },
-    {
-      "source": "republik/article-eine-kleine-energiegeschichte",
-      "target": "https://www.n-tv.de/auto/Autos-schlucken-wie-vor-20-Jahren-article15764966.html",
-      "type": "text",
-      "text": "doch die Automotoren wurden kräftige"
-    },
-    {
-      "source": "republik/article-eine-kleine-energiegeschichte",
-      "target": "https://www.bfe.admin.ch/bfe/de/home/politik/energiestrategie-2050/dokumentation/energieperspektiven-2050.html",
-      "type": "text",
-      "text": "Energieperspektiven 2050 des Bundes"
-    },
-    {
-      "source": "republik/article-eine-kleine-energiegeschichte",
-      "target": "https://www.bfe.admin.ch/bfe/de/home/versorgung/statistik-und-geodaten/energiestatistiken.html",
-      "type": "text",
-      "text": "BFE"
-    },
-    {
-      "source": "republik/article-eine-kleine-energiegeschichte",
-      "target": "https://www.bfe.admin.ch/bfe/de/home/politik/energiestrategie-2050/dokumentation/energieperspektiven-2050.html",
-      "type": "text",
-      "text": "Prognos"
-    },
-    {
-      "source": "republik/article-eine-kleine-energiegeschichte",
-      "target": "https://de.wikipedia.org/wiki/Elektroauto#Verbrauch_und_Wirkungsgrad",
-      "type": "text",
-      "text": "bringt grosse Energieersparnisse"
-    },
-    {
-      "source": "republik/article-eine-kleine-energiegeschichte",
-      "target": "https://www.bfe.admin.ch/bfe/de/home/versorgung/statistik-und-geodaten/energiestatistiken.html",
-      "type": "text",
-      "text": "BFE"
-    },
-    {
-      "source": "republik/article-eine-kleine-energiegeschichte",
-      "target": "https://www.bfe.admin.ch/bfe/de/home/politik/energiestrategie-2050/dokumentation/energieperspektiven-2050.html",
-      "type": "text",
-      "text": "Prognos"
-    },
-    {
-      "source": "republik/article-eine-kleine-energiegeschichte",
-      "target": "https://www.bfe.admin.ch/bfe/de/home/versorgung/statistik-und-geodaten/energiestatistiken/gesamtenergiestatistik.html",
-      "type": "text",
-      "text": "Gesamtenergiestatistik des Bundes"
-    },
-    {
-      "source": "republik/article-eine-kleine-energiegeschichte",
-      "target": "https://www.bfe.admin.ch/bfe/de/home/politik/energiestrategie-2050/dokumentation/energieperspektiven-2050.html",
-      "type": "text",
-      "text": "Energieperspektiven 2050"
-    },
-    {
-      "source": "republik/article-eine-kleine-energiegeschichte",
-      "target": "https://hls-dhs-dss.ch/de/articles/026220/2006-10-23/",
-      "type": "text",
-      "text": "Historischen Lexikon der Schweiz"
+      "text": "Gerne Lösungsvorschläge und Kollaborationsideen auf GitHub platzieren"
     },
     {
       "source": "republik/article-kosmos",
