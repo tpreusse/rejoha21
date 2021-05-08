@@ -1,7 +1,7 @@
-import Head from 'next/head'
-import Link from 'next/link'
-import styles from '../styles/Home.module.css'
-
+import Head from "next/head";
+import Link from "next/link";
+import styles from "../styles/Home.module.css";
+import { ArticleIcon } from "./ArticleIcon/ArticleIcon";
 export default function Home() {
   return (
     <div className={styles.container}>
@@ -10,13 +10,9 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-        <h1 className={styles.title}>
-          Themenstränge
-        </h1>
+        <h1 className={styles.title}>Themenstränge</h1>
 
-        <p className={styles.description}>
-          Ein Experiment an Hand von Republik Daten aus dem Jahr 2019.
-        </p>
+        <p className={styles.description}>Ein Experiment an Hand von Republik Daten aus dem Jahr 2019.</p>
 
         <div className={styles.grid}>
           <Link href="/2019/09/24/erste-babyschritte-zur-klima-neutralitaet">
@@ -25,7 +21,7 @@ export default function Home() {
               <p>Wie klima­freundlich steht die Schweiz da? Der Klimapolitik-Report.</p>
             </a>
           </Link>
-
+          <ArticleIcon textlength={40} linksin={15} linksout={2} linktype={"triangles"} />
           <Link href="/2019/10/30/schmerz-sucht-und-profit">
             <a className={styles.card}>
               <h2>Drogen &rarr;</h2>
@@ -36,13 +32,11 @@ export default function Home() {
       </main>
 
       <footer className={styles.footer}>
-        Ein Projekt von {' '}
-        <code className={styles.code}>Salome Ernie</code>,{' '}
-        <code className={styles.code}>Corina Mühle</code>,{' '}
-        <code className={styles.code}>Sharon Funke</code>,{' '}
-        <code className={styles.code}>Sebastian Broschinski</code> und {' '}
+        Ein Projekt von <code className={styles.code}>Salome Ernie</code>,{" "}
+        <code className={styles.code}>Corina Mühle</code>, <code className={styles.code}>Sharon Funke</code>,{" "}
+        <code className={styles.code}>Sebastian Broschinski</code> und{" "}
         <code className={styles.code}>Thomas Preusse</code>
       </footer>
     </div>
-  )
+  );
 }
