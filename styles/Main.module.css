@@ -11,8 +11,8 @@
   flex-wrap: wrap;
   justify-content: center;
   align-items: flex-start;
-  padding-top: 3em;
-  padding-bottom: 3em;
+  padding-top: .5em;
+  padding-bottom: 1em;
   text-align: left;
   max-width: 800px;
   margin: 0 auto;
@@ -161,8 +161,8 @@
   display: flex;
   padding: 1em;
   max-width: 50%;
-  border-top: 1px solid #aaa;
-  border-right: 1px solid #aaa;
+  border-top: 1px solid #ddd;
+  border-right: 1px solid #ddd;
   padding-top: 1rem;
   padding-left: 0;
 }
