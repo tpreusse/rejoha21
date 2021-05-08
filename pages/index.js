@@ -37,7 +37,7 @@ export default function Home() {
 
       <footer className={styles.footer}>
         Ein Projekt von {' '}
-        <code className={styles.code}>Salome Ernie</code>,{' '}
+        <code className={styles.code}>Salome Erni</code>,{' '}
         <code className={styles.code}>Corina Mühle</code>,{' '}
         <code className={styles.code}>Sharon Funke</code>,{' '}
         <code className={styles.code}>Sebastian Broschinski</code> und {' '}
