@@ -2,6 +2,16 @@
   stroke: #aaa;
   stroke-width: 3;
 }
+
+.linksin {
+  fill: #000;
+}
 .linksout {
+  fill: #aaa;
+}
+.linksin.inverted {
+  fill: #fff;
+}
+.linksout.inverted {
   fill: #aaa;
 }
