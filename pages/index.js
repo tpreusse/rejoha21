@@ -9,7 +9,9 @@ export default function Home() {
           Themen&shy;stränge
         </h1>
 
-        <p className={styles.description}>Ein Experiment an Hand von Republik Daten aus dem Jahr 2019.</p>
+        <p className={styles.description}>
+          Ein Experiment an Hand von Republik Beiträgen welche zwischen dem 1.&nbsp;Juli&nbsp;2019 und dem 31.&nbsp;Oktober&nbsp;2019 publiziert wurden.
+        </p>
 
         <div className={styles.grid}>
           <Link href="/2019/09/24/erste-babyschritte-zur-klima-neutralitaet">
