@@ -9,7 +9,7 @@ const linkRowLength = 5;
 const linkSize = 15;
 const linkXSpace = 15;
 const linkYSpace = 15;
-const linesY =4 * linkYSpace;
+const linesY = 4 * linkYSpace;
 
 const chunkArray = (arr, chunkArraySize) => {
   if (chunkArraySize <= 0) throw "Invalid chunkArray size";
@@ -20,8 +20,13 @@ const chunkArray = (arr, chunkArraySize) => {
 
 export const ArticleIcon = ({ textlength, linksin, linksout, linktype, inverted }) => {
   const linecount = linescale(textlength);
+  const svgheight =
+  linesY+
+   ( Math.ceil(linksout / linkRowLength)+1) * linkYSpace +
+    linecount * linespace;
+
   return (
-    <svg viewBox="0 0 100 400" className="ArticleIcon">
+    <svg viewBox={`0 0 100 ${svgheight}`} className="ArticleIcon">
       {linksin && (
         <g transform={`translate(0,${5})`} className={styles.linksin + " " + (inverted && styles.inverted)}>
           <Links type={linktype} count={linksin} />
@@ -39,7 +44,9 @@ export const ArticleIcon = ({ textlength, linksin, linksout, linktype, inverted 
         ))}
       </g>
       {linksin && (
-        <g transform={`translate(0,${linesY + linecount * linespace + linkYSpace * 0.5})`} className={styles.linksout + " " + (inverted && styles.inverted)}>
+        <g
+          transform={`translate(0,${linesY + linecount * linespace + linkYSpace * 0.5})`}
+          className={styles.linksout + " " + (inverted && styles.inverted)}>
           <Links type={linktype} count={linksout} />
         </g>
       )}
