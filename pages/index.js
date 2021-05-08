@@ -1,17 +1,12 @@
-import Head from 'next/head'
 import Link from 'next/link'
 import styles from '../styles/Home.module.css'
+import Frame from '../components/Frame'
 
 export default function Home() {
   return (
-    <div className={styles.container}>
-      <Head>
-        <title>Rehoja21 Content Exploration</title>
-      </Head>
-
-      <main className={styles.main}>
-        <h1 className={styles.title}>
-          Themenstränge
+    <Frame pageTitle={'Rehoja21 Content Exploration'}>
+      <h1 className={styles.title}>
+          Themen&shy;stränge
         </h1>
 
         <p className={styles.description}>
@@ -33,16 +28,6 @@ export default function Home() {
             </a>
           </Link>
         </div>
-      </main>
-
-      <footer className={styles.footer}>
-        Ein Projekt von {' '}
-        <code className={styles.code}>Salome Erni</code>,{' '}
-        <code className={styles.code}>Corina Mühle</code>,{' '}
-        <code className={styles.code}>Sharon Funke</code>,{' '}
-        <code className={styles.code}>Sebastian Broschinski</code> und {' '}
-        <code className={styles.code}>Thomas Preusse</code>
-      </footer>
-    </div>
+    </Frame>
   )
 }

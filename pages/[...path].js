@@ -1,6 +1,7 @@
-import Head from 'next/head'
 import Link from 'next/link'
 import { useRouter } from 'next/router'
+
+import Frame from '../components/Frame'
 
 import styles from '../styles/Home.module.css'
 
@@ -10,42 +11,25 @@ export default function Detail({ doc }) {
   const router = useRouter()
 
   if (router.isFallback) {
-    return <div className={styles.container}>
-      <main className={styles.main}>
-        <p className={styles.description}>Loading...</p>
-      </main>
-    </div>
+    return <Frame pageTitle='Lädt…'>
+      <p className={styles.description}>Lädt…</p>
+    </Frame>
   }
 
   return (
-    <div className={styles.container}>
-      <Head>
-        <title>{doc.title} – Rehoja21 Content Exploration</title>
-      </Head>
-      
-      <main className={styles.main}>
-        <Link href="/">
-          <a>
-            <h2>&larr; Übersicht</h2>
-          </a>
-        </Link>
-        <h1 className={styles.title}>
-          {doc.title}
-        </h1>
-        <p className={styles.description}>
-          {doc.description}
-        </p>
-      </main>
-
-      <footer className={styles.footer}>
-        Ein Projekt von {' '}
-        <code className={styles.code}>Salome Ernie</code>,{' '}
-        <code className={styles.code}>Corina Mühle</code>,{' '}
-        <code className={styles.code}>Sharon Funke</code>,{' '}
-        <code className={styles.code}>Sebastian Broschinski</code> und {' '}
-        <code className={styles.code}>Thomas Preusse</code>
-      </footer>
-    </div>
+    <Frame pageTitle={`${doc.title} – Rehoja21 Content Exploration`}>
+      <Link href="/">
+        <a>
+          <h2>&larr; Übersicht</h2>
+        </a>
+      </Link>
+      <h1 className={styles.title}>
+        {doc.title}
+      </h1>
+      <p className={styles.description}>
+        {doc.description}
+      </p>
+    </Frame>
   )
 }
 
