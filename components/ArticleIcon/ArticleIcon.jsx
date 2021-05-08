@@ -1,5 +1,5 @@
 import React from "react";
-// import "./styles.css";
+import styles from '../../styles/ArticleIcon.module.css'
 import { scaleLinear } from "d3-scale";
 const linescale = scaleLinear().domain([0, 40]).range([3, 30]);
 
@@ -21,7 +21,7 @@ const chunkArray = (arr, chunkArraySize) => {
 export const ArticleIcon = ({ textlength, linksin, linksout, linktype }) => {
   const linecount = linescale(textlength);
   return (
-    <svg width="100px" height="400px" className="ArticleIcon">
+    <svg viewbox="0 0 100 800" className="ArticleIcon">
       {linksin && (
         <g transform={`translate(0,${linkSize})`}>
           <Links type={linktype} count={linksin} />
@@ -34,8 +34,7 @@ export const ArticleIcon = ({ textlength, linksin, linksout, linktype }) => {
             x2={linelengths[i % 2 === 0 ? 0 : i % 3 === 0 ? 1 : 2]}
             y1={i * linespace}
             y2={i * linespace}
-            className="ai_textlength"
-          />
+            className={styles.textlength}          />
         ))}
       </g>
       {linksin && (

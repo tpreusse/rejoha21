@@ -7,7 +7,7 @@ import styles from '../styles/Main.module.css'
 
 import getDoc from '../data/doc'
 
-import {ArticleIcon} from './ArticleIcon/ArticleIcon'
+import {ArticleIcon} from '../components/ArticleIcon/ArticleIcon'
 
 
 export default function Detail({ doc }) {

@@ -1,6 +1,5 @@
 import Link from 'next/link'
 import styles from '../styles/Main.module.css'
-import Frame from '../components/Frame'
 export default function Home() {
   return (
     <Frame pageTitle={'Rehoja21 Content Exploration'}>
