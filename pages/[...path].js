@@ -3,7 +3,7 @@ import { useRouter } from 'next/router'
 
 import Frame from '../components/Frame'
 
-import styles from '../styles/Home.module.css'
+import styles from '../styles/Main.module.css'
 
 import getDoc from '../data/doc'
 

@@ -1,6 +1,6 @@
 import React from 'react'
 import Head from 'next/head'
-import styles from '../styles/Home.module.css'
+import styles from '../styles/Main.module.css'
 
 export default function Frame({ pageTitle, children }) {
   return <div className={styles.container}>
