@@ -1,4 +1,5 @@
 import Head from 'next/head'
+import Link from 'next/link'
 import styles from '../styles/Home.module.css'
 
 export default function Home() {
@@ -18,15 +19,19 @@ export default function Home() {
         </p>
 
         <div className={styles.grid}>
-          <a href="/2019/09/24/erste-babyschritte-zur-klima-neutralitaet" className={styles.card}>
-            <h2>Klima &rarr;</h2>
-            <p>Wie klima­freundlich steht die Schweiz da? Der Klimapolitik-Report.</p>
-          </a>
+          <Link href="/2019/09/24/erste-babyschritte-zur-klima-neutralitaet">
+            <a className={styles.card}>
+              <h2>Klima &rarr;</h2>
+              <p>Wie klima­freundlich steht die Schweiz da? Der Klimapolitik-Report.</p>
+            </a>
+          </Link>
 
-          <a href="/2019/10/30/schmerz-sucht-und-profit" className={styles.card}>
-            <h2>Drogen &rarr;</h2>
-            <p>Die Opioidkrise in den USA. Wie gefährlich ist das Schmerz­mittel Oxycodon?</p>
-          </a>
+          <Link href="/2019/10/30/schmerz-sucht-und-profit">
+            <a className={styles.card}>
+              <h2>Drogen &rarr;</h2>
+              <p>Die Opioidkrise in den USA. Wie gefährlich ist das Schmerz­mittel Oxycodon?</p>
+            </a>
+          </Link>
         </div>
       </main>
 

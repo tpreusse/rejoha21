@@ -1,4 +1,5 @@
 import Head from 'next/head'
+import Link from 'next/link'
 import { useRouter } from 'next/router'
 
 import styles from '../styles/Home.module.css'
@@ -23,6 +24,11 @@ export default function Detail({ doc }) {
       </Head>
       
       <main className={styles.main}>
+        <Link href="/">
+          <a>
+            <h2>&larr; Übersicht</h2>
+          </a>
+        </Link>
         <h1 className={styles.title}>
           {doc.title}
         </h1>
