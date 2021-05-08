@@ -26,6 +26,18 @@ export default function Home() {
               <p>Die Opioidkrise in den USA. Wie gefährlich ist das Schmerz­mittel Oxycodon?</p>
             </a>
           </Link>
+          <Link href="/2019/09/24/britische-politiker-verhalten-sich-nicht-wie-erwachsene">
+            <a className={styles.card}>
+              <h2>Brexit &rarr;</h2>
+              <p>«Britische Politiker verhalten sich nicht wie Erwachsene»</p>
+            </a>
+          </Link>
+          <Link href="/2019/07/29/die-angst-vor-fluechtlingen-entschaedigen-das-ist-liberale-migrationspolitik">
+            <a className={styles.card}>
+              <h2>Migrationspolitik &rarr;</h2>
+              <p>Die Angst vor Flüchtlingen entschädigen – ist das liberal?</p>
+            </a>
+          </Link>
         </div>
     </Frame>
   )
