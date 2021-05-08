@@ -10,7 +10,9 @@
         "93d6839d-fe3e-491a-bbca-477585e776e4",
         "ae2dd456-9077-4f7c-9aa8-af910adf6a02"
       ],
-      "readingMinutes": 6
+      "readingMinutes": 6,
+      "internalLinkCount": 1,
+      "externalLinkCount": 9
     },
     {
       "id": "republik/article-muster-denker-des-digitalen",
@@ -19,7 +21,9 @@
       "description": "Die Digitalisierung ist eine Revolution, die im 19. Jahrhundert begann, schreibt Armin Nassehi in einem viel beachteten Buch. Wie kann man so etwas Abstraktes wie die Digitalisierung in eine anschauliche Theorie fassen? Und gelingt es Nassehi?",
       "publishDate": "2019-10-31T03:48:00.000Z",
       "authorIds": [],
-      "readingMinutes": 9
+      "readingMinutes": 9,
+      "internalLinkCount": 1,
+      "externalLinkCount": 5
     },
     {
       "id": "republik/article-buchclub-oktober",
@@ -30,7 +34,9 @@
       "authorIds": [
         "5f45d6a3-ff52-4e67-9925-92447f43d2e1"
       ],
-      "readingMinutes": 2
+      "readingMinutes": 2,
+      "internalLinkCount": 1,
+      "externalLinkCount": 3
     },
     {
       "id": "republik/article-oxycodon",
@@ -41,7 +47,9 @@
       "authorIds": [
         "a563fa2c-9651-4360-bcb9-98c3d5b5d123"
       ],
-      "readingMinutes": 30
+      "readingMinutes": 30,
+      "internalLinkCount": 2,
+      "externalLinkCount": 31
     },
     {
       "id": "republik/article-mike-der-prozess-beginnt",
@@ -53,7 +61,9 @@
         "93d6839d-fe3e-491a-bbca-477585e776e4",
         "02852b61-aa45-4dab-8d23-a0c71d3e05f7"
       ],
-      "readingMinutes": 8
+      "readingMinutes": 8,
+      "internalLinkCount": 1,
+      "externalLinkCount": 0
     },
     {
       "id": "republik/article-aus-der-redaktion-am-limit",
@@ -66,7 +76,9 @@
         "02852b61-aa45-4dab-8d23-a0c71d3e05f7",
         "ae2dd456-9077-4f7c-9aa8-af910adf6a02"
       ],
-      "readingMinutes": null
+      "readingMinutes": null,
+      "internalLinkCount": 1,
+      "externalLinkCount": 6
     },
     {
       "id": "republik/article-eins-zwei-ausgeschafft",
@@ -77,7 +89,9 @@
       "authorIds": [
         "c641d9bf-9996-4b38-807b-8c1c1148943c"
       ],
-      "readingMinutes": 7
+      "readingMinutes": 7,
+      "internalLinkCount": 1,
+      "externalLinkCount": 9
     },
     {
       "id": "republik/article-360-grad-ueberwachung-made-in-turkey",
@@ -88,7 +102,9 @@
       "authorIds": [
         "6ae2733e-1562-47b3-881c-88e9d3d28da9"
       ],
-      "readingMinutes": 15
+      "readingMinutes": 15,
+      "internalLinkCount": 2,
+      "externalLinkCount": 41
     },
     {
       "id": "republik/article-deutsche-ungleichzeitigkeiten",
@@ -97,7 +113,9 @@
       "description": "Erst Sachsen und Brandenburg, jetzt Thüringen. Seit Sonntag ist die AfD in drei ostdeutschen Bundesländern zweitstärkste Kraft. Eine Zäsur, nicht nur für die Politik im Osten. Was nun?",
       "publishDate": "2019-10-29T03:48:00.000Z",
       "authorIds": [],
-      "readingMinutes": 15
+      "readingMinutes": 15,
+      "internalLinkCount": 2,
+      "externalLinkCount": 9
     },
     {
       "id": "republik/article-shz-steinbeck",
@@ -106,7 +124,9 @@
       "description": "Wie man einen grossen Roman ganz gross auf die Bühne bringt: «Früchte des Zorns» am Schauspielhaus Zürich.",
       "publishDate": "2019-10-29T03:46:00.000Z",
       "authorIds": [],
-      "readingMinutes": 4
+      "readingMinutes": 4,
+      "internalLinkCount": 2,
+      "externalLinkCount": 3
     },
     {
       "id": "republik/article-fakes-in-europa",
@@ -117,7 +137,9 @@
       "authorIds": [
         "6e5d7522-8e67-4306-b416-79eb2f833b62"
       ],
-      "readingMinutes": 19
+      "readingMinutes": 19,
+      "internalLinkCount": 1,
+      "externalLinkCount": 15
     },
     {
       "id": "republik/article-lorenzkurve",
@@ -128,7 +150,9 @@
       "authorIds": [
         "f54a386e-c154-44e6-8d9d-9fbe4b711ae3"
       ],
-      "readingMinutes": 10
+      "readingMinutes": 10,
+      "internalLinkCount": 2,
+      "externalLinkCount": 6
     },
     {
       "id": "republik/article-aufbruch-oder-waehlerschwund",
@@ -139,7 +163,9 @@
       "authorIds": [
         "00051db6-0b8d-4808-9830-efbee0e4d2af"
       ],
-      "readingMinutes": 7
+      "readingMinutes": 7,
+      "internalLinkCount": 1,
+      "externalLinkCount": 4
     },
     {
       "id": "republik/article-ort-irak",
@@ -150,7 +176,9 @@
       "authorIds": [
         "95643b75-6374-4fa4-b031-3ca06e380f12"
       ],
-      "readingMinutes": null
+      "readingMinutes": null,
+      "internalLinkCount": 0,
+      "externalLinkCount": 1
     },
     {
       "id": "republik/article-am-klavier-abwesende-gefuehle",
@@ -161,7 +189,9 @@
       "authorIds": [
         "abb4b5c7-cbf4-4659-81cc-e49baa821a4b"
       ],
-      "readingMinutes": 1
+      "readingMinutes": 1,
+      "internalLinkCount": 1,
+      "externalLinkCount": 2
     },
     {
       "id": "republik/article-update-israel-food",
@@ -172,7 +202,9 @@
       "authorIds": [
         "6e5d7522-8e67-4306-b416-79eb2f833b62"
       ],
-      "readingMinutes": 3
+      "readingMinutes": 3,
+      "internalLinkCount": 1,
+      "externalLinkCount": 6
     },
     {
       "id": "republik/article-alle-zehn-jahre-gruesst-die-waehrungskrise",
@@ -183,7 +215,9 @@
       "authorIds": [
         "e44a3e6d-8f80-4605-aa9e-d23aeb897e7a"
       ],
-      "readingMinutes": 16
+      "readingMinutes": 16,
+      "internalLinkCount": 1,
+      "externalLinkCount": 11
     },
     {
       "id": "republik/article-wdwwwwwww",
@@ -197,7 +231,9 @@
         "7e37f53d-c093-48bc-971e-0ec61a3bdcf0",
         "6e5d7522-8e67-4306-b416-79eb2f833b62"
       ],
-      "readingMinutes": 11
+      "readingMinutes": 11,
+      "internalLinkCount": 0,
+      "externalLinkCount": 40
     },
     {
       "id": "republik/article-sex-nur-noch-mit-ausdruecklichem-einverstaendnis",
@@ -206,7 +242,9 @@
       "description": "",
       "publishDate": "2019-10-25T02:46:00.000Z",
       "authorIds": [],
-      "readingMinutes": null
+      "readingMinutes": null,
+      "internalLinkCount": 1,
+      "externalLinkCount": 1
     },
     {
       "id": "republik/article-briefing-aus-bern-74",
@@ -220,7 +258,9 @@
         "ae2dd456-9077-4f7c-9aa8-af910adf6a02",
         "a563fa2c-9651-4360-bcb9-98c3d5b5d123"
       ],
-      "readingMinutes": 9
+      "readingMinutes": 9,
+      "internalLinkCount": 2,
+      "externalLinkCount": 18
     },
     {
       "id": "republik/article-hummus-fuer-die-identitaet",
@@ -229,7 +269,9 @@
       "description": "Lachmajun, Schwarma, Chreime – wie Gerichte halfen, die Diskriminierung der orientalischen Juden in Israel zu überwinden.",
       "publishDate": "2019-10-24T02:48:00.000Z",
       "authorIds": [],
-      "readingMinutes": 11
+      "readingMinutes": 11,
+      "internalLinkCount": 2,
+      "externalLinkCount": 2
     },
     {
       "id": "republik/article-ende-des-schweigens",
@@ -238,7 +280,9 @@
       "description": "«Untouchable» dokumentiert den Fall Harvey Weinstein, der weltweit Entsetzen auslöste und die #MeToo-Bewegung hervorrief. Soeben ist der Film in Schweizer Kinos angelaufen.",
       "publishDate": "2019-10-24T02:46:00.000Z",
       "authorIds": [],
-      "readingMinutes": 4
+      "readingMinutes": 4,
+      "internalLinkCount": 1,
+      "externalLinkCount": 4
     },
     {
       "id": "republik/article-edz-fossile",
@@ -249,7 +293,9 @@
       "authorIds": [
         "eca9ee2c-4678-4f63-8564-651293df2b97"
       ],
-      "readingMinutes": 16
+      "readingMinutes": 16,
+      "internalLinkCount": 2,
+      "externalLinkCount": 77
     },
     {
       "id": "republik/article-wermuth",
@@ -260,7 +306,9 @@
       "authorIds": [
         "ae2dd456-9077-4f7c-9aa8-af910adf6a02"
       ],
-      "readingMinutes": 2
+      "readingMinutes": 2,
+      "internalLinkCount": 2,
+      "externalLinkCount": 3
     },
     {
       "id": "republik/article-die-weltliche-macht-muss-raus",
@@ -271,7 +319,9 @@
       "authorIds": [
         "461daa4e-c4db-415f-b5e1-ea2315b49b59"
       ],
-      "readingMinutes": 5
+      "readingMinutes": 5,
+      "internalLinkCount": 1,
+      "externalLinkCount": 2
     },
     {
       "id": "republik/article-happening-pascale-kramer",
@@ -282,7 +332,9 @@
       "authorIds": [
         "5f45d6a3-ff52-4e67-9925-92447f43d2e1"
       ],
-      "readingMinutes": 4
+      "readingMinutes": 4,
+      "internalLinkCount": 0,
+      "externalLinkCount": 7
     },
     {
       "id": "republik/article-unvorstellbar-dann-schaut-doch-auf-die-realitaet",
@@ -291,7 +343,9 @@
       "description": "Nach dem Attentat von Halle wird wieder über Antisemitismus debattiert. Doch die Rhetorik ist so wohlfeil wie wirklichkeits­blind.",
       "publishDate": "2019-10-22T02:50:00.000Z",
       "authorIds": [],
-      "readingMinutes": 6
+      "readingMinutes": 6,
+      "internalLinkCount": 2,
+      "externalLinkCount": 9
     },
     {
       "id": "republik/article-das-grammatische-ist-politisch",
@@ -302,7 +356,9 @@
       "authorIds": [
         "008d591a-810e-4603-8260-7a9a530b9096"
       ],
-      "readingMinutes": 6
+      "readingMinutes": 6,
+      "internalLinkCount": 1,
+      "externalLinkCount": 0
     },
     {
       "id": "republik/article-lesen-begreifen-und-nie-vergessen",
@@ -313,7 +369,9 @@
       "authorIds": [
         "02852b61-aa45-4dab-8d23-a0c71d3e05f7"
       ],
-      "readingMinutes": 3
+      "readingMinutes": 3,
+      "internalLinkCount": 1,
+      "externalLinkCount": 2
     },
     {
       "id": "republik/article-wahl-repo",
@@ -330,7 +388,9 @@
         "ce59bb9f-a491-4928-9e0c-3ca97a8f4f8d",
         "e84af7cc-9b7b-48bb-a4d8-f057173de9ac"
       ],
-      "readingMinutes": 15
+      "readingMinutes": 15,
+      "internalLinkCount": 1,
+      "externalLinkCount": 0
     },
     {
       "id": "republik/article-lange-sicht-nach-wahlen",
@@ -341,7 +401,9 @@
       "authorIds": [
         "eca9ee2c-4678-4f63-8564-651293df2b97"
       ],
-      "readingMinutes": 7
+      "readingMinutes": 7,
+      "internalLinkCount": 1,
+      "externalLinkCount": 0
     },
     {
       "id": "republik/article-briefing-spezial-wahlen-2019",
@@ -354,7 +416,9 @@
         "7e37f53d-c093-48bc-971e-0ec61a3bdcf0",
         "65b64225-3843-4e41-a7a6-716ae81a5d57"
       ],
-      "readingMinutes": 5
+      "readingMinutes": 5,
+      "internalLinkCount": 1,
+      "externalLinkCount": 2
     },
     {
       "id": "republik/article-historischer-linksrutsch",
@@ -365,7 +429,9 @@
       "authorIds": [
         "00051db6-0b8d-4808-9830-efbee0e4d2af"
       ],
-      "readingMinutes": 4
+      "readingMinutes": 4,
+      "internalLinkCount": 1,
+      "externalLinkCount": 1
     },
     {
       "id": "republik/article-was-morgen-nicht-entschieden-wird",
@@ -376,7 +442,9 @@
       "authorIds": [
         "00051db6-0b8d-4808-9830-efbee0e4d2af"
       ],
-      "readingMinutes": 5
+      "readingMinutes": 5,
+      "internalLinkCount": 1,
+      "externalLinkCount": 5
     },
     {
       "id": "republik/article-jenseits-der-vorfuehrung",
@@ -385,7 +453,9 @@
       "description": "Das Schicksal der «Spanienkinder» war lange vergessen. Ein neues Buch ändert das. Wir bringen daraus einen Beitrag der Schriftstellerin Melinda Nadj Abonji. ",
       "publishDate": "2019-10-19T02:48:00.000Z",
       "authorIds": [],
-      "readingMinutes": 8
+      "readingMinutes": 8,
+      "internalLinkCount": 1,
+      "externalLinkCount": 3
     },
     {
       "id": "republik/article-yangambi-kongo",
@@ -396,7 +466,9 @@
       "authorIds": [
         "95643b75-6374-4fa4-b031-3ca06e380f12"
       ],
-      "readingMinutes": null
+      "readingMinutes": null,
+      "internalLinkCount": 0,
+      "externalLinkCount": 1
     },
     {
       "id": "republik/article-kandidatinnentypen",
@@ -409,7 +481,9 @@
         "6e5d7522-8e67-4306-b416-79eb2f833b62",
         "b86f9625-96b8-4886-b6b9-baf4fb657939"
       ],
-      "readingMinutes": 12
+      "readingMinutes": 12,
+      "internalLinkCount": 2,
+      "externalLinkCount": 10
     },
     {
       "id": "republik/article-das-gebutterte-ferkel-der-verrat-an-einem-partner-d",
@@ -420,7 +494,9 @@
       "authorIds": [
         "f24bd0bc-2dfd-4f98-880c-d74cd27f84a5"
       ],
-      "readingMinutes": 10
+      "readingMinutes": 10,
+      "internalLinkCount": 1,
+      "externalLinkCount": 11
     },
     {
       "id": "republik/article-edz-intro-global",
@@ -431,7 +507,9 @@
       "authorIds": [
         "5d99ec6e-cb7d-4b27-8bf9-375b61e7ea7e"
       ],
-      "readingMinutes": 11
+      "readingMinutes": 11,
+      "internalLinkCount": 2,
+      "externalLinkCount": 36
     },
     {
       "id": "republik/article-kein-mann-nirgends",
@@ -440,7 +518,9 @@
       "description": "Mit «Portrait de la jeune fille en feu», der seit gestern im Kino läuft, ist Céline Sciamma ein grandioses Werk gelungen – und eine souveräne Antwort auf die Männerdominanz in der Filmgeschichte.",
       "publishDate": "2019-10-18T02:48:00.000Z",
       "authorIds": [],
-      "readingMinutes": 10
+      "readingMinutes": 10,
+      "internalLinkCount": 2,
+      "externalLinkCount": 6
     },
     {
       "id": "republik/article-schweiz-wir-muessen-reden",
@@ -451,7 +531,9 @@
       "authorIds": [
         "5b6da6a6-c9fa-4ebb-a020-8dc85258310e"
       ],
-      "readingMinutes": 3
+      "readingMinutes": 3,
+      "internalLinkCount": 2,
+      "externalLinkCount": 2
     },
     {
       "id": "republik/article-wdwww1810",
@@ -464,7 +546,9 @@
         "7e37f53d-c093-48bc-971e-0ec61a3bdcf0",
         "a563fa2c-9651-4360-bcb9-98c3d5b5d123"
       ],
-      "readingMinutes": 12
+      "readingMinutes": 12,
+      "internalLinkCount": 1,
+      "externalLinkCount": 42
     },
     {
       "id": "republik/article-die-klassenbesten",
@@ -475,7 +559,9 @@
       "authorIds": [
         "3b1cee6c-cc48-431a-ade7-60f739c66298"
       ],
-      "readingMinutes": 11
+      "readingMinutes": 11,
+      "internalLinkCount": 2,
+      "externalLinkCount": 8
     },
     {
       "id": "republik/article-gleichstellung",
@@ -487,7 +573,9 @@
         "e8b718fb-e3fe-4960-85e9-f6a0e594ca33",
         "2f12dfba-2b83-443b-87e1-6bc6d436408e"
       ],
-      "readingMinutes": 4
+      "readingMinutes": 4,
+      "internalLinkCount": 1,
+      "externalLinkCount": 6
     },
     {
       "id": "republik/article-briefing-73",
@@ -500,7 +588,9 @@
         "e8b718fb-e3fe-4960-85e9-f6a0e594ca33",
         "ae2dd456-9077-4f7c-9aa8-af910adf6a02"
       ],
-      "readingMinutes": 8
+      "readingMinutes": 8,
+      "internalLinkCount": 1,
+      "externalLinkCount": 16
     },
     {
       "id": "republik/article-just-a-gigolo",
@@ -511,7 +601,9 @@
       "authorIds": [
         "6e5d7522-8e67-4306-b416-79eb2f833b62"
       ],
-      "readingMinutes": 4
+      "readingMinutes": 4,
+      "internalLinkCount": 1,
+      "externalLinkCount": 1
     },
     {
       "id": "republik/article-good-bye-bruessel",
@@ -520,7 +612,9 @@
       "description": "Der britische Journalist Alex Barker war acht Jahre lang Korrespondent in Brüssel. Die Bilanz einer emotionalen und physischen Grenzerfahrung.",
       "publishDate": "2019-10-16T02:50:00.000Z",
       "authorIds": [],
-      "readingMinutes": 22
+      "readingMinutes": 22,
+      "internalLinkCount": 1,
+      "externalLinkCount": 13
     },
     {
       "id": "republik/article-es-ist-zeit-dass-die-rechten-den-klimawandel-fuer-sich-entdecken",
@@ -531,7 +625,9 @@
       "authorIds": [
         "93d6839d-fe3e-491a-bbca-477585e776e4"
       ],
-      "readingMinutes": 4
+      "readingMinutes": 4,
+      "internalLinkCount": 1,
+      "externalLinkCount": 3
     },
     {
       "id": "republik/article-schmiermittel-der-gnade",
@@ -542,7 +638,9 @@
       "authorIds": [
         "1bdea72a-52d7-4bee-b84e-bdeb80cf1d88"
       ],
-      "readingMinutes": 5
+      "readingMinutes": 5,
+      "internalLinkCount": 1,
+      "externalLinkCount": 1
     },
     {
       "id": "republik/article-kleines-land-grosse-literatur",
@@ -551,7 +649,9 @@
       "description": "Klirrkalte Sprache und lauschende Stille: Norwegen ist diesmal Gastland an der Frankfurter Buchmesse. Aber welche Romane sind wirklich eine Entdeckung? Drei Lesetipps.",
       "publishDate": "2019-10-16T02:44:00.000Z",
       "authorIds": [],
-      "readingMinutes": 11
+      "readingMinutes": 11,
+      "internalLinkCount": 2,
+      "externalLinkCount": 7
     },
     {
       "id": "republik/article-nobelpreis-fuer-duflo",
@@ -562,7 +662,9 @@
       "authorIds": [
         "cdbfa09d-2b1e-402e-8943-30b4b1791139"
       ],
-      "readingMinutes": 4
+      "readingMinutes": 4,
+      "internalLinkCount": 1,
+      "externalLinkCount": 10
     },
     {
       "id": "republik/article-here-we-are-now-entertain-us",
@@ -574,7 +676,9 @@
         "ce59bb9f-a491-4928-9e0c-3ca97a8f4f8d",
         "e84af7cc-9b7b-48bb-a4d8-f057173de9ac"
       ],
-      "readingMinutes": 8
+      "readingMinutes": 8,
+      "internalLinkCount": 1,
+      "externalLinkCount": 1
     },
     {
       "id": "republik/article-liberale-lasst-stacheln-wachsen",
@@ -585,7 +689,9 @@
       "authorIds": [
         "cdbfa09d-2b1e-402e-8943-30b4b1791139"
       ],
-      "readingMinutes": 5
+      "readingMinutes": 5,
+      "internalLinkCount": 1,
+      "externalLinkCount": 5
     },
     {
       "id": "republik/article-tele-zueri-wirbt-fuer-cvp-kantonsrat",
@@ -596,7 +702,9 @@
       "authorIds": [
         "6ae2733e-1562-47b3-881c-88e9d3d28da9"
       ],
-      "readingMinutes": 3
+      "readingMinutes": 3,
+      "internalLinkCount": 2,
+      "externalLinkCount": 3
     },
     {
       "id": "republik/article-wo-die-wenigen-die-vielen-beherrschen",
@@ -607,7 +715,9 @@
       "authorIds": [
         "5b6da6a6-c9fa-4ebb-a020-8dc85258310e"
       ],
-      "readingMinutes": 10
+      "readingMinutes": 10,
+      "internalLinkCount": 0,
+      "externalLinkCount": 4
     },
     {
       "id": "republik/article-suedamerika",
@@ -618,7 +728,9 @@
       "authorIds": [
         "eca9ee2c-4678-4f63-8564-651293df2b97"
       ],
-      "readingMinutes": 8
+      "readingMinutes": 8,
+      "internalLinkCount": 1,
+      "externalLinkCount": 16
     },
     {
       "id": "republik/article-injektion-europa",
@@ -629,7 +741,9 @@
       "authorIds": [
         "eca9ee2c-4678-4f63-8564-651293df2b97"
       ],
-      "readingMinutes": 4
+      "readingMinutes": 4,
+      "internalLinkCount": 2,
+      "externalLinkCount": 3
     },
     {
       "id": "republik/article-das-bundesgericht-schraenkt-die-oeffentlichkeit-ein",
@@ -640,7 +754,9 @@
       "authorIds": [
         "02852b61-aa45-4dab-8d23-a0c71d3e05f7"
       ],
-      "readingMinutes": 4
+      "readingMinutes": 4,
+      "internalLinkCount": 1,
+      "externalLinkCount": 1
     },
     {
       "id": "republik/article-piketty",
@@ -651,7 +767,9 @@
       "authorIds": [
         "00051db6-0b8d-4808-9830-efbee0e4d2af"
       ],
-      "readingMinutes": 31
+      "readingMinutes": 31,
+      "internalLinkCount": 2,
+      "externalLinkCount": 9
     },
     {
       "id": "republik/article-piketty-abstract",
@@ -660,7 +778,9 @@
       "description": "Die wichtigsten Punkte aus dem Monumental­werk von Thomas Piketty in aller Kürze.",
       "publishDate": "2019-10-12T02:49:00.000Z",
       "authorIds": [],
-      "readingMinutes": 4
+      "readingMinutes": 4,
+      "internalLinkCount": 2,
+      "externalLinkCount": 1
     },
     {
       "id": "republik/article-merzouga-marokko",
@@ -671,7 +791,9 @@
       "authorIds": [
         "95643b75-6374-4fa4-b031-3ca06e380f12"
       ],
-      "readingMinutes": null
+      "readingMinutes": null,
+      "internalLinkCount": 0,
+      "externalLinkCount": 1
     },
     {
       "id": "republik/article-influencing-isch-gail",
@@ -682,7 +804,9 @@
       "authorIds": [
         "249b6225-43b4-4903-835c-0e826b8f377d"
       ],
-      "readingMinutes": 14
+      "readingMinutes": 14,
+      "internalLinkCount": 2,
+      "externalLinkCount": 28
     },
     {
       "id": "republik/article-geht-waehlen-sonst-tun-es-andere",
@@ -693,7 +817,9 @@
       "authorIds": [
         "93d6839d-fe3e-491a-bbca-477585e776e4"
       ],
-      "readingMinutes": 8
+      "readingMinutes": 8,
+      "internalLinkCount": 1,
+      "externalLinkCount": 10
     },
     {
       "id": "republik/article-wdwww-11-10",
@@ -705,7 +831,9 @@
         "249b6225-43b4-4903-835c-0e826b8f377d",
         "7e37f53d-c093-48bc-971e-0ec61a3bdcf0"
       ],
-      "readingMinutes": 13
+      "readingMinutes": 13,
+      "internalLinkCount": 1,
+      "externalLinkCount": 49
     },
     {
       "id": "republik/article-generation-porno",
@@ -714,7 +842,9 @@
       "description": "Drogen, Sex, Einsamkeit: Jedes Jahrzehnt hat eine TV-Serie, die das Leben von Jugendlichen exemplarisch ergründet. Wie gut gelingt das der aktuellen HBO-Produktion «Euphoria»?",
       "publishDate": "2019-10-11T02:44:00.000Z",
       "authorIds": [],
-      "readingMinutes": 6
+      "readingMinutes": 6,
+      "internalLinkCount": 2,
+      "externalLinkCount": 6
     },
     {
       "id": "republik/article-was-sollen-wir-als-naechstes-programmieren",
@@ -725,7 +855,9 @@
       "authorIds": [
         "57ff6996-e3ef-4186-a2e6-95376f2b086b"
       ],
-      "readingMinutes": 2
+      "readingMinutes": 2,
+      "internalLinkCount": 1,
+      "externalLinkCount": 1
     },
     {
       "id": "republik/article-im-osten-nichts-neues-homestory-19",
@@ -737,7 +869,9 @@
         "ce59bb9f-a491-4928-9e0c-3ca97a8f4f8d",
         "e84af7cc-9b7b-48bb-a4d8-f057173de9ac"
       ],
-      "readingMinutes": 11
+      "readingMinutes": 11,
+      "internalLinkCount": 1,
+      "externalLinkCount": 0
     },
     {
       "id": "republik/article-neuer-podcast-und-audio-karussell",
@@ -746,7 +880,9 @@
       "description": "Podcasts, Livegespräche, vorgelesene Geschichten: Ab sofort ist das Audioangebot der Republik übersichtlicher gestaltet.",
       "publishDate": "2019-10-10T02:48:00.000Z",
       "authorIds": [],
-      "readingMinutes": 2
+      "readingMinutes": 2,
+      "internalLinkCount": 1,
+      "externalLinkCount": 0
     },
     {
       "id": "republik/article-es-raucht-der-muell-in-gotham-city",
@@ -755,7 +891,9 @@
       "description": "Seit Jahrzehnten treibt der Joker sein Unwesen – nicht nur im Batman-Universum. Mit Todd Phillips’ Verfilmung bekommt der Oberschurke nun seine Vorgeschichte – und neue politische Brisanz.",
       "publishDate": "2019-10-10T02:46:00.000Z",
       "authorIds": [],
-      "readingMinutes": 9
+      "readingMinutes": 9,
+      "internalLinkCount": 1,
+      "externalLinkCount": 15
     },
     {
       "id": "republik/article-briefing-nummer-72",
@@ -767,7 +905,9 @@
         "e8b718fb-e3fe-4960-85e9-f6a0e594ca33",
         "a563fa2c-9651-4360-bcb9-98c3d5b5d123"
       ],
-      "readingMinutes": 7
+      "readingMinutes": 7,
+      "internalLinkCount": 0,
+      "externalLinkCount": 12
     },
     {
       "id": "republik/article-tech-podcast",
@@ -779,7 +919,9 @@
         "6ae2733e-1562-47b3-881c-88e9d3d28da9",
         "7a41210c-a4c7-4039-b17a-27ec71f42303"
       ],
-      "readingMinutes": 1
+      "readingMinutes": 1,
+      "internalLinkCount": 0,
+      "externalLinkCount": 7
     },
     {
       "id": "republik/article-lobbying-listicle",
@@ -792,7 +934,9 @@
         "e8b718fb-e3fe-4960-85e9-f6a0e594ca33",
         "ae2dd456-9077-4f7c-9aa8-af910adf6a02"
       ],
-      "readingMinutes": 15
+      "readingMinutes": 15,
+      "internalLinkCount": 1,
+      "externalLinkCount": 28
     },
     {
       "id": "republik/article-freerun-neu",
@@ -803,7 +947,9 @@
       "authorIds": [
         "644b06b9-8099-43ce-baaf-e870bd0785ae"
       ],
-      "readingMinutes": 10
+      "readingMinutes": 10,
+      "internalLinkCount": 2,
+      "externalLinkCount": 8
     },
     {
       "id": "republik/article-sie-lacht-und-streichelt-hunde",
@@ -814,7 +960,9 @@
       "authorIds": [
         "02852b61-aa45-4dab-8d23-a0c71d3e05f7"
       ],
-      "readingMinutes": 8
+      "readingMinutes": 8,
+      "internalLinkCount": 1,
+      "externalLinkCount": 3
     },
     {
       "id": "republik/article-hess",
@@ -825,7 +973,9 @@
       "authorIds": [
         "e8b718fb-e3fe-4960-85e9-f6a0e594ca33"
       ],
-      "readingMinutes": 11
+      "readingMinutes": 11,
+      "internalLinkCount": 1,
+      "externalLinkCount": 12
     },
     {
       "id": "republik/article-der-kapitalismus-ist-schlecht-aber-gut",
@@ -834,7 +984,9 @@
       "description": "Reiche fühlen sich arm. Nichts Neues. Aber dass Arme sich fast reich fühlen? Verrückt! Die Kolumnistin hat zugehört, sich gewundert und was gelernt.",
       "publishDate": "2019-10-08T02:48:00.000Z",
       "authorIds": [],
-      "readingMinutes": 8
+      "readingMinutes": 8,
+      "internalLinkCount": 2,
+      "externalLinkCount": 3
     },
     {
       "id": "republik/article-autokrise-jetzt-geht-es-los",
@@ -845,7 +997,9 @@
       "authorIds": [
         "cdbfa09d-2b1e-402e-8943-30b4b1791139"
       ],
-      "readingMinutes": 5
+      "readingMinutes": 5,
+      "internalLinkCount": 2,
+      "externalLinkCount": 14
     },
     {
       "id": "republik/article-happening-shz",
@@ -856,7 +1010,9 @@
       "authorIds": [
         "5f45d6a3-ff52-4e67-9925-92447f43d2e1"
       ],
-      "readingMinutes": 5
+      "readingMinutes": 5,
+      "internalLinkCount": 1,
+      "externalLinkCount": 8
     },
     {
       "id": "republik/article-man-kann-sich-grandios-irren",
@@ -869,7 +1025,9 @@
         "ae2dd456-9077-4f7c-9aa8-af910adf6a02",
         "0736a885-a9c7-4c2f-aebb-b8f9d4b0c21e"
       ],
-      "readingMinutes": 16
+      "readingMinutes": 16,
+      "internalLinkCount": 1,
+      "externalLinkCount": 2
     },
     {
       "id": "republik/article-ozean-teil-3",
@@ -880,7 +1038,9 @@
       "authorIds": [
         "5d99ec6e-cb7d-4b27-8bf9-375b61e7ea7e"
       ],
-      "readingMinutes": 9
+      "readingMinutes": 9,
+      "internalLinkCount": 2,
+      "externalLinkCount": 28
     },
     {
       "id": "republik/article-habeck-gespraech",
@@ -889,7 +1049,9 @@
       "description": "Aus dem Zürcher Schauspielhaus: Robert Habeck, Co-Chef der deutschen Grünen, im Gespräch mit Daniel Binswanger.",
       "publishDate": "2019-10-06T16:13:34.589Z",
       "authorIds": [],
-      "readingMinutes": 2
+      "readingMinutes": 2,
+      "internalLinkCount": 1,
+      "externalLinkCount": 2
     },
     {
       "id": "republik/article-die-schlacht-um-england",
@@ -900,7 +1062,9 @@
       "authorIds": [
         "f24bd0bc-2dfd-4f98-880c-d74cd27f84a5"
       ],
-      "readingMinutes": 31
+      "readingMinutes": 31,
+      "internalLinkCount": 1,
+      "externalLinkCount": 10
     },
     {
       "id": "republik/article-die-hybris-des-ruedi-noser",
@@ -911,7 +1075,9 @@
       "authorIds": [
         "00051db6-0b8d-4808-9830-efbee0e4d2af"
       ],
-      "readingMinutes": 5
+      "readingMinutes": 5,
+      "internalLinkCount": 1,
+      "externalLinkCount": 2
     },
     {
       "id": "republik/article-athen-griechenland",
@@ -922,7 +1088,9 @@
       "authorIds": [
         "95643b75-6374-4fa4-b031-3ca06e380f12"
       ],
-      "readingMinutes": null
+      "readingMinutes": null,
+      "internalLinkCount": 0,
+      "externalLinkCount": 1
     },
     {
       "id": "republik/article-wdwwwwwasgeht",
@@ -934,7 +1102,9 @@
         "249b6225-43b4-4903-835c-0e826b8f377d",
         "7e37f53d-c093-48bc-971e-0ec61a3bdcf0"
       ],
-      "readingMinutes": 13
+      "readingMinutes": 13,
+      "internalLinkCount": 2,
+      "externalLinkCount": 49
     },
     {
       "id": "republik/article-warum-wird-man-gotteskrieger",
@@ -943,7 +1113,9 @@
       "description": "Wut, Frustration, Rachelust, Neid: Ein aktuelles Buch beleuchtet die Beweggründe von Jihadisten. Diese haben ebenso viel mit der westlichen Gesellschaft wie mit dem Islam zu tun.",
       "publishDate": "2019-10-04T02:46:00.000Z",
       "authorIds": [],
-      "readingMinutes": 11
+      "readingMinutes": 11,
+      "internalLinkCount": 2,
+      "externalLinkCount": 1
     },
     {
       "id": "republik/article-ausbuergerung-dschihad",
@@ -954,7 +1126,9 @@
       "authorIds": [
         "5b6da6a6-c9fa-4ebb-a020-8dc85258310e"
       ],
-      "readingMinutes": 6
+      "readingMinutes": 6,
+      "internalLinkCount": 2,
+      "externalLinkCount": 16
     },
     {
       "id": "republik/article-das-ist-nicht-die-republik-der-genossenschaftsrat-von-project-r-am-werk",
@@ -965,7 +1139,9 @@
       "authorIds": [
         "043adf78-29ff-4703-a760-9bd1f5956788"
       ],
-      "readingMinutes": 5
+      "readingMinutes": 5,
+      "internalLinkCount": 1,
+      "externalLinkCount": 0
     },
     {
       "id": "republik/article-ameise-lugano",
@@ -976,7 +1152,9 @@
       "authorIds": [
         "5f45d6a3-ff52-4e67-9925-92447f43d2e1"
       ],
-      "readingMinutes": 3
+      "readingMinutes": 3,
+      "internalLinkCount": 2,
+      "externalLinkCount": 4
     },
     {
       "id": "republik/article-verteidiger-der-vernebelung",
@@ -987,7 +1165,9 @@
       "authorIds": [
         "d2ab7a77-d086-45c7-b6ab-71e4c14848d7"
       ],
-      "readingMinutes": 17
+      "readingMinutes": 17,
+      "internalLinkCount": 1,
+      "externalLinkCount": 18
     },
     {
       "id": "republik/article-die-infrastruktur-des-netzes-spielt-den-extremisten-in-die-haende",
@@ -998,7 +1178,9 @@
       "authorIds": [
         "186e0a00-3ab5-4246-87a5-6bc44d6fca95"
       ],
-      "readingMinutes": 14
+      "readingMinutes": 14,
+      "internalLinkCount": 2,
+      "externalLinkCount": 2
     },
     {
       "id": "republik/article-briefing-71",
@@ -1010,7 +1192,9 @@
         "e8b718fb-e3fe-4960-85e9-f6a0e594ca33",
         "93d6839d-fe3e-491a-bbca-477585e776e4"
       ],
-      "readingMinutes": 5
+      "readingMinutes": 5,
+      "internalLinkCount": 0,
+      "externalLinkCount": 6
     },
     {
       "id": "republik/article-stell-dir-vor",
@@ -1022,7 +1206,9 @@
         "d2ab7a77-d086-45c7-b6ab-71e4c14848d7",
         "ae2dd456-9077-4f7c-9aa8-af910adf6a02"
       ],
-      "readingMinutes": 25
+      "readingMinutes": 25,
+      "internalLinkCount": 2,
+      "externalLinkCount": 11
     },
     {
       "id": "republik/article-warum-wir-ihnen-eine-fiktive-geschichte-auftischen",
@@ -1033,7 +1219,9 @@
       "authorIds": [
         "d2ab7a77-d086-45c7-b6ab-71e4c14848d7"
       ],
-      "readingMinutes": 3
+      "readingMinutes": 3,
+      "internalLinkCount": 1,
+      "externalLinkCount": 2
     },
     {
       "id": "republik/article-beschuldigt-verurteilt-vergessen",
@@ -1044,7 +1232,9 @@
       "authorIds": [
         "d6b4ce98-9b11-4bba-9903-ed621c67e32c"
       ],
-      "readingMinutes": 11
+      "readingMinutes": 11,
+      "internalLinkCount": 1,
+      "externalLinkCount": 5
     },
     {
       "id": "republik/article-probeliegen-im-sarg",
@@ -1053,7 +1243,9 @@
       "description": "Wie wunderbar der hinter­fotzige Wiener Schmäh sogar über den Tod triumphiert, zeigt sich jeden ersten Samstag im Oktober – bis ein Uhr nachts im Bestattungs­museum und an Führungen auf dem Zentralfriedhof.",
       "publishDate": "2019-10-02T02:44:00.000Z",
       "authorIds": [],
-      "readingMinutes": 7
+      "readingMinutes": 7,
+      "internalLinkCount": 1,
+      "externalLinkCount": 5
     },
     {
       "id": "republik/article-medienkoalition-one-free-press-coalition",
@@ -1064,7 +1256,9 @@
       "authorIds": [
         "dd782b8d-4eae-4a05-80d8-494760d2d58a"
       ],
-      "readingMinutes": 18
+      "readingMinutes": 18,
+      "internalLinkCount": 1,
+      "externalLinkCount": 111
     },
     {
       "id": "republik/article-duenengaenge",
@@ -1076,7 +1270,9 @@
         "ce59bb9f-a491-4928-9e0c-3ca97a8f4f8d",
         "e84af7cc-9b7b-48bb-a4d8-f057173de9ac"
       ],
-      "readingMinutes": 10
+      "readingMinutes": 10,
+      "internalLinkCount": 1,
+      "externalLinkCount": 0
     },
     {
       "id": "republik/article-bergs-nerds-roig-18",
@@ -1087,7 +1283,9 @@
       "authorIds": [
         "c98ecd1b-8a36-46d1-9083-0cb9ad750ce5"
       ],
-      "readingMinutes": 21
+      "readingMinutes": 21,
+      "internalLinkCount": 0,
+      "externalLinkCount": 7
     },
     {
       "id": "republik/article-veranstaltung-robert-habeck",
@@ -1096,7 +1294,9 @@
       "description": null,
       "publishDate": "2019-10-01T02:40:00.000Z",
       "authorIds": [],
-      "readingMinutes": null
+      "readingMinutes": null,
+      "internalLinkCount": 0,
+      "externalLinkCount": 5
     },
     {
       "id": "republik/article-ozean-teil-2",
@@ -1107,7 +1307,9 @@
       "authorIds": [
         "5d99ec6e-cb7d-4b27-8bf9-375b61e7ea7e"
       ],
-      "readingMinutes": 10
+      "readingMinutes": 10,
+      "internalLinkCount": 1,
+      "externalLinkCount": 29
     },
     {
       "id": "republik/article-machokultur-in-den-medien",
@@ -1118,7 +1320,9 @@
       "authorIds": [
         "cdbfa09d-2b1e-402e-8943-30b4b1791139"
       ],
-      "readingMinutes": 5
+      "readingMinutes": 5,
+      "internalLinkCount": 1,
+      "externalLinkCount": 7
     },
     {
       "id": "republik/article-das-beste-wahltindaer-das-wir-je-gebaut-haben",
@@ -1129,7 +1333,9 @@
       "authorIds": [
         "b86f9625-96b8-4886-b6b9-baf4fb657939"
       ],
-      "readingMinutes": 4
+      "readingMinutes": 4,
+      "internalLinkCount": 1,
+      "externalLinkCount": 8
     },
     {
       "id": "republik/article-eine-reise-nach-polen",
@@ -1140,7 +1346,9 @@
       "authorIds": [
         "02852b61-aa45-4dab-8d23-a0c71d3e05f7"
       ],
-      "readingMinutes": 20
+      "readingMinutes": 20,
+      "internalLinkCount": 2,
+      "externalLinkCount": 3
     },
     {
       "id": "republik/article-koeppel-hat-recht",
@@ -1151,7 +1359,9 @@
       "authorIds": [
         "00051db6-0b8d-4808-9830-efbee0e4d2af"
       ],
-      "readingMinutes": 6
+      "readingMinutes": 6,
+      "internalLinkCount": 0,
+      "externalLinkCount": 4
     },
     {
       "id": "republik/article-garikola-georgien",
@@ -1162,7 +1372,9 @@
       "authorIds": [
         "95643b75-6374-4fa4-b031-3ca06e380f12"
       ],
-      "readingMinutes": null
+      "readingMinutes": null,
+      "internalLinkCount": 0,
+      "externalLinkCount": 1
     },
     {
       "id": "republik/article-klimapolitik",
@@ -1171,7 +1383,9 @@
       "description": "Die Wahlen stehen an, die Legislatur ist zu Ende. Was hat die Bundes­versammlung in den vergangenen vier Jahren erreicht? Bei welchen Themen ist das Parlament gescheitert, und welche Herausforderungen stehen an? Der Rück- und Ausblick.",
       "publishDate": "2019-09-27T02:50:00.000Z",
       "authorIds": [],
-      "readingMinutes": 21
+      "readingMinutes": 21,
+      "internalLinkCount": 1,
+      "externalLinkCount": 32
     },
     {
       "id": "republik/article-parolen-quiz",
@@ -1184,7 +1398,9 @@
         "f0d2dc2a-1308-4c40-b4ff-ca4e32f48019",
         "65b64225-3843-4e41-a7a6-716ae81a5d57"
       ],
-      "readingMinutes": null
+      "readingMinutes": null,
+      "internalLinkCount": 1,
+      "externalLinkCount": 1
     },
     {
       "id": "republik/article-wdwww-2609",
@@ -1197,7 +1413,9 @@
         "7e37f53d-c093-48bc-971e-0ec61a3bdcf0",
         "dd782b8d-4eae-4a05-80d8-494760d2d58a"
       ],
-      "readingMinutes": 11
+      "readingMinutes": 11,
+      "internalLinkCount": 1,
+      "externalLinkCount": 49
     },
     {
       "id": "republik/article-oesterreich-vor-der-wahl",
@@ -1208,7 +1426,9 @@
       "authorIds": [
         "3b1cee6c-cc48-431a-ade7-60f739c66298"
       ],
-      "readingMinutes": 16
+      "readingMinutes": 16,
+      "internalLinkCount": 1,
+      "externalLinkCount": 23
     },
     {
       "id": "republik/article-briefing-70",
@@ -1222,7 +1442,9 @@
         "ae2dd456-9077-4f7c-9aa8-af910adf6a02",
         "a563fa2c-9651-4360-bcb9-98c3d5b5d123"
       ],
-      "readingMinutes": 7
+      "readingMinutes": 7,
+      "internalLinkCount": 1,
+      "externalLinkCount": 11
     },
     {
       "id": "republik/article-terezia-mora",
@@ -1231,7 +1453,9 @@
       "description": "Terézia Mora bewegt sich zwischen Sprachen und Wirklichkeiten und macht daraus grossartige Literatur. Jetzt liegt mit «Auf dem Seil» der letzte Band einer Trilogie vor, in der sie eine scharfsinnige Analyse des Spätkapitalismus zeichnet.",
       "publishDate": "2019-09-26T02:46:00.000Z",
       "authorIds": [],
-      "readingMinutes": 10
+      "readingMinutes": 10,
+      "internalLinkCount": 1,
+      "externalLinkCount": 4
     },
     {
       "id": "republik/article-naechster-buchclub-der-roman-des-sommers-und-ein-vorschlag-zur-klimarettung",
@@ -1242,7 +1466,9 @@
       "authorIds": [
         "186e0a00-3ab5-4246-87a5-6bc44d6fca95"
       ],
-      "readingMinutes": 3
+      "readingMinutes": 3,
+      "internalLinkCount": 1,
+      "externalLinkCount": 7
     },
     {
       "id": "republik/article-oase-der-hoffnung",
@@ -1254,7 +1480,9 @@
         "ce59bb9f-a491-4928-9e0c-3ca97a8f4f8d",
         "e84af7cc-9b7b-48bb-a4d8-f057173de9ac"
       ],
-      "readingMinutes": 9
+      "readingMinutes": 9,
+      "internalLinkCount": 1,
+      "externalLinkCount": 0
     },
     {
       "id": "republik/article-kavanaugh",
@@ -1265,7 +1493,9 @@
       "authorIds": [
         "c641d9bf-9996-4b38-807b-8c1c1148943c"
       ],
-      "readingMinutes": 12
+      "readingMinutes": 12,
+      "internalLinkCount": 0,
+      "externalLinkCount": 16
     },
     {
       "id": "republik/article-zirkumzision-und-kindeswohl",
@@ -1276,7 +1506,9 @@
       "authorIds": [
         "02852b61-aa45-4dab-8d23-a0c71d3e05f7"
       ],
-      "readingMinutes": 4
+      "readingMinutes": 4,
+      "internalLinkCount": 0,
+      "externalLinkCount": 4
     },
     {
       "id": "republik/article-versuch",
@@ -1285,7 +1517,9 @@
       "description": "Greta Thunbergs wütende Rede am Uno-Klimagipfel im Wortlaut.",
       "publishDate": "2019-09-24T09:01:44.623Z",
       "authorIds": [],
-      "readingMinutes": 3
+      "readingMinutes": 3,
+      "internalLinkCount": 1,
+      "externalLinkCount": 1
     },
     {
       "id": "republik/article-elite",
@@ -1296,7 +1530,9 @@
       "authorIds": [
         "3b1cee6c-cc48-431a-ade7-60f739c66298"
       ],
-      "readingMinutes": 8
+      "readingMinutes": 8,
+      "internalLinkCount": 1,
+      "externalLinkCount": 6
     },
     {
       "id": "republik/article-klimareport-update",
@@ -1308,7 +1544,9 @@
         "93d6839d-fe3e-491a-bbca-477585e776e4",
         "eca9ee2c-4678-4f63-8564-651293df2b97"
       ],
-      "readingMinutes": 16
+      "readingMinutes": 16,
+      "internalLinkCount": 2,
+      "externalLinkCount": 49
     },
     {
       "id": "republik/article-die-crux-mit-der-volonte-generale",
@@ -1319,7 +1557,9 @@
       "authorIds": [
         "008d591a-810e-4603-8260-7a9a530b9096"
       ],
-      "readingMinutes": 6
+      "readingMinutes": 6,
+      "internalLinkCount": 1,
+      "externalLinkCount": 1
     },
     {
       "id": "republik/article-ozeanserie-1",
@@ -1330,7 +1570,9 @@
       "authorIds": [
         "5d99ec6e-cb7d-4b27-8bf9-375b61e7ea7e"
       ],
-      "readingMinutes": 9
+      "readingMinutes": 9,
+      "internalLinkCount": 1,
+      "externalLinkCount": 24
     },
     {
       "id": "republik/article-wahlkampf-martullo",
@@ -1343,7 +1585,9 @@
         "ae2dd456-9077-4f7c-9aa8-af910adf6a02",
         "4040f438-db05-483f-b64c-75e385218a58"
       ],
-      "readingMinutes": 31
+      "readingMinutes": 31,
+      "internalLinkCount": 2,
+      "externalLinkCount": 16
     },
     {
       "id": "republik/article-hat-der-liberale-feminismus-ein-zukunft",
@@ -1354,7 +1598,9 @@
       "authorIds": [
         "00051db6-0b8d-4808-9830-efbee0e4d2af"
       ],
-      "readingMinutes": 6
+      "readingMinutes": 6,
+      "internalLinkCount": 0,
+      "externalLinkCount": 5
     },
     {
       "id": "republik/article-gori-georgien",
@@ -1365,7 +1611,9 @@
       "authorIds": [
         "95643b75-6374-4fa4-b031-3ca06e380f12"
       ],
-      "readingMinutes": null
+      "readingMinutes": null,
+      "internalLinkCount": 0,
+      "externalLinkCount": 1
     },
     {
       "id": "republik/article-strassenkampf",
@@ -1376,7 +1624,9 @@
       "authorIds": [
         "cdbfa09d-2b1e-402e-8943-30b4b1791139"
       ],
-      "readingMinutes": 17
+      "readingMinutes": 17,
+      "internalLinkCount": 2,
+      "externalLinkCount": 40
     },
     {
       "id": "republik/article-e-mobilitaets-report",
@@ -1385,7 +1635,9 @@
       "description": "Sind E-Autos sauberer als normale Autos? Sind sie wirklich teurer? Wie gut ist das Tankstellennetz? Was tut die Politik? Antworten auf die wichtigsten Fragen zur Elektromobilität.",
       "publishDate": "2019-09-20T02:48:00.000Z",
       "authorIds": [],
-      "readingMinutes": 13
+      "readingMinutes": 13,
+      "internalLinkCount": 2,
+      "externalLinkCount": 45
     },
     {
       "id": "republik/article-wdwww-2009",
@@ -1398,7 +1650,9 @@
         "cdbfa09d-2b1e-402e-8943-30b4b1791139",
         "7e37f53d-c093-48bc-971e-0ec61a3bdcf0"
       ],
-      "readingMinutes": 9
+      "readingMinutes": 9,
+      "internalLinkCount": 1,
+      "externalLinkCount": 29
     },
     {
       "id": "republik/article-cvpfail",
@@ -1409,7 +1663,9 @@
       "authorIds": [
         "6ae2733e-1562-47b3-881c-88e9d3d28da9"
       ],
-      "readingMinutes": 8
+      "readingMinutes": 8,
+      "internalLinkCount": 2,
+      "externalLinkCount": 10
     },
     {
       "id": "republik/article-briefing-xx",
@@ -1421,7 +1677,9 @@
         "e8b718fb-e3fe-4960-85e9-f6a0e594ca33",
         "ae2dd456-9077-4f7c-9aa8-af910adf6a02"
       ],
-      "readingMinutes": 8
+      "readingMinutes": 8,
+      "internalLinkCount": 1,
+      "externalLinkCount": 12
     },
     {
       "id": "republik/article-inti-gappah",
@@ -1432,7 +1690,9 @@
       "authorIds": [
         "186e0a00-3ab5-4246-87a5-6bc44d6fca95"
       ],
-      "readingMinutes": 27
+      "readingMinutes": 27,
+      "internalLinkCount": 1,
+      "externalLinkCount": 10
     },
     {
       "id": "republik/article-kommentar-epstein",
@@ -1441,7 +1701,9 @@
       "description": "Eine ganze Klasse von Akademikern betreibt intellektuelle Prostitution. Zeit für eine radikale Agenda: Schliessung des MIT Media Lab, Auflösung der TED-Talks und ein kategorisches «Nein!» zum Geld von Tech-Milliardären. ",
       "publishDate": "2019-09-18T02:50:00.000Z",
       "authorIds": [],
-      "readingMinutes": 8
+      "readingMinutes": 8,
+      "internalLinkCount": 1,
+      "externalLinkCount": 8
     },
     {
       "id": "republik/article-gersau",
@@ -1452,7 +1714,9 @@
       "authorIds": [
         "9b75f58e-ea61-451b-be3e-27dccdb1b8de"
       ],
-      "readingMinutes": 8
+      "readingMinutes": 8,
+      "internalLinkCount": 0,
+      "externalLinkCount": 0
     },
     {
       "id": "republik/article-update-vaterschaftsurlaub",
@@ -1464,7 +1728,9 @@
         "e8b718fb-e3fe-4960-85e9-f6a0e594ca33",
         "ae2dd456-9077-4f7c-9aa8-af910adf6a02"
       ],
-      "readingMinutes": 2
+      "readingMinutes": 2,
+      "internalLinkCount": 1,
+      "externalLinkCount": 1
     },
     {
       "id": "republik/article-bookmark-ameise1",
@@ -1475,7 +1741,9 @@
       "authorIds": [
         "5f45d6a3-ff52-4e67-9925-92447f43d2e1"
       ],
-      "readingMinutes": 4
+      "readingMinutes": 4,
+      "internalLinkCount": 1,
+      "externalLinkCount": 8
     },
     {
       "id": "republik/article-wir-sonntagsschueler-des-liberalismus",
@@ -1487,7 +1755,9 @@
         "ce59bb9f-a491-4928-9e0c-3ca97a8f4f8d",
         "e84af7cc-9b7b-48bb-a4d8-f057173de9ac"
       ],
-      "readingMinutes": 9
+      "readingMinutes": 9,
+      "internalLinkCount": 1,
+      "externalLinkCount": 2
     },
     {
       "id": "republik/article-bun-di-bonjour-gruezi-aleikum",
@@ -1496,7 +1766,9 @@
       "description": "Die Schriftstellerin Mely Kiyak berichtet ab sofort monatlich aus dem demokratischen Krisenherd Deutschland. Das Ziel ihrer neuen Kolumne ist rasch beschrieben: Schweizer Konto, Schweizer Arbeits­erlaubnis, Schweizer Niederlassungs­bewilligung, Ausweis C.",
       "publishDate": "2019-09-17T02:48:00.000Z",
       "authorIds": [],
-      "readingMinutes": 6
+      "readingMinutes": 6,
+      "internalLinkCount": 0,
+      "externalLinkCount": 3
     },
     {
       "id": "republik/article-wehret-den-geheimprozessen",
@@ -1507,7 +1779,9 @@
       "authorIds": [
         "02852b61-aa45-4dab-8d23-a0c71d3e05f7"
       ],
-      "readingMinutes": 4
+      "readingMinutes": 4,
+      "internalLinkCount": 0,
+      "externalLinkCount": 3
     },
     {
       "id": "republik/article-willkommen-zur-neuen-republik",
@@ -1516,7 +1790,9 @@
       "description": "Wir haben die Republik auseinander­genommen und wieder neu zusammen­gebaut. Was ändert, bleibt und kommen wird.",
       "publishDate": "2019-09-16T02:50:00.000Z",
       "authorIds": [],
-      "readingMinutes": 3
+      "readingMinutes": 3,
+      "internalLinkCount": 1,
+      "externalLinkCount": 2
     },
     {
       "id": "republik/article-wahlen-mobilisierung",
@@ -1527,7 +1803,9 @@
       "authorIds": [
         "80229083-2b7c-4de8-a5c7-8ad79b1e80fc"
       ],
-      "readingMinutes": 10
+      "readingMinutes": 10,
+      "internalLinkCount": 1,
+      "externalLinkCount": 11
     },
     {
       "id": "republik/article-der-gefuerchtete-riese",
@@ -1538,7 +1816,9 @@
       "authorIds": [
         "d2ab7a77-d086-45c7-b6ab-71e4c14848d7"
       ],
-      "readingMinutes": 23
+      "readingMinutes": 23,
+      "internalLinkCount": 1,
+      "externalLinkCount": 17
     },
     {
       "id": "republik/article-wahltindaer-in-zahlen",
@@ -1549,7 +1829,9 @@
       "authorIds": [
         "b86f9625-96b8-4886-b6b9-baf4fb657939"
       ],
-      "readingMinutes": 2
+      "readingMinutes": 2,
+      "internalLinkCount": 1,
+      "externalLinkCount": 3
     },
     {
       "id": "republik/article-athen-kuenstlerische-intelligenz",
@@ -1560,7 +1842,9 @@
       "authorIds": [
         "c641d9bf-9996-4b38-807b-8c1c1148943c"
       ],
-      "readingMinutes": 17
+      "readingMinutes": 17,
+      "internalLinkCount": 1,
+      "externalLinkCount": 5
     },
     {
       "id": "republik/article-volkswille-und-gewaltenteilung",
@@ -1571,7 +1855,9 @@
       "authorIds": [
         "00051db6-0b8d-4808-9830-efbee0e4d2af"
       ],
-      "readingMinutes": 5
+      "readingMinutes": 5,
+      "internalLinkCount": 0,
+      "externalLinkCount": 3
     },
     {
       "id": "republik/article-umuahia-nigeria",
@@ -1582,7 +1868,9 @@
       "authorIds": [
         "95643b75-6374-4fa4-b031-3ca06e380f12"
       ],
-      "readingMinutes": null
+      "readingMinutes": null,
+      "internalLinkCount": 0,
+      "externalLinkCount": 1
     },
     {
       "id": "republik/article-rendezvous",
@@ -1595,7 +1883,9 @@
         "57ff6996-e3ef-4186-a2e6-95376f2b086b",
         "b86f9625-96b8-4886-b6b9-baf4fb657939"
       ],
-      "readingMinutes": 5
+      "readingMinutes": 5,
+      "internalLinkCount": 0,
+      "externalLinkCount": 8
     },
     {
       "id": "republik/article-wdwww-37",
@@ -1609,7 +1899,9 @@
         "a563fa2c-9651-4360-bcb9-98c3d5b5d123",
         "f0d2dc2a-1308-4c40-b4ff-ca4e32f48019"
       ],
-      "readingMinutes": 10
+      "readingMinutes": 10,
+      "internalLinkCount": 2,
+      "externalLinkCount": 36
     },
     {
       "id": "republik/article-wie-dummies-bei-einem-crashtest",
@@ -1618,7 +1910,9 @@
       "description": "Eine 27-Jährige wird grausam ermordet, der Täter ist schnell identifiziert. Doch damit beginnt die Geschichte erst. Die Graphic Novel «Sabrina» ist eine kluge Abrechnung mit der heutigen Medien­realität. Nun liegt das Werk auf Deutsch vor. ",
       "publishDate": "2019-09-13T02:46:00.000Z",
       "authorIds": [],
-      "readingMinutes": 4
+      "readingMinutes": 4,
+      "internalLinkCount": 1,
+      "externalLinkCount": 6
     },
     {
       "id": "republik/article-was-kommt-athen",
@@ -1627,7 +1921,9 @@
       "description": "Unzählige Menschen auf der Flucht und ein Staat nahe am finanziellen Kollaps: Beide Krisen treffen in der griechischen Hauptstadt aufeinander. Was macht das mit ihrer Kunstszene? Unsere multimediale Reportage – diesen Samstag in der Republik.",
       "publishDate": "2019-09-13T02:44:00.000Z",
       "authorIds": [],
-      "readingMinutes": null
+      "readingMinutes": null,
+      "internalLinkCount": 0,
+      "externalLinkCount": 1
     },
     {
       "id": "republik/article-friede-freude-eierkuchen-homestory-15",
@@ -1639,7 +1935,9 @@
         "ce59bb9f-a491-4928-9e0c-3ca97a8f4f8d",
         "e84af7cc-9b7b-48bb-a4d8-f057173de9ac"
       ],
-      "readingMinutes": 15
+      "readingMinutes": 15,
+      "internalLinkCount": 1,
+      "externalLinkCount": 3
     },
     {
       "id": "republik/article-briefing-68",
@@ -1652,7 +1950,9 @@
         "93d6839d-fe3e-491a-bbca-477585e776e4",
         "6ae2733e-1562-47b3-881c-88e9d3d28da9"
       ],
-      "readingMinutes": 6
+      "readingMinutes": 6,
+      "internalLinkCount": 1,
+      "externalLinkCount": 7
     },
     {
       "id": "republik/article-geisternhaus",
@@ -1661,7 +1961,9 @@
       "description": "Die lateinamerikanische Literatur erlebte auch im deutschsprachigen Raum einen Boom. Ein neues Buch befasst sich mit ihrer Geschichte, ihren Protagonisten. Wir publizieren daraus ein Kapitel, es befasst sich mit Isabel Allende und ihrem Roman «Das Geisterhaus». ",
       "publishDate": "2019-09-12T02:46:00.000Z",
       "authorIds": [],
-      "readingMinutes": 11
+      "readingMinutes": 11,
+      "internalLinkCount": 1,
+      "externalLinkCount": 14
     },
     {
       "id": "republik/article-die-dramen-des-alltags",
@@ -1672,7 +1974,9 @@
       "authorIds": [
         "02852b61-aa45-4dab-8d23-a0c71d3e05f7"
       ],
-      "readingMinutes": 9
+      "readingMinutes": 9,
+      "internalLinkCount": 1,
+      "externalLinkCount": 1
     },
     {
       "id": "republik/article-vaterschaftsurlaub",
@@ -1685,7 +1989,9 @@
         "ae2dd456-9077-4f7c-9aa8-af910adf6a02",
         "b3054752-eefe-4cb4-9da0-b57a9c07d334"
       ],
-      "readingMinutes": 2
+      "readingMinutes": 2,
+      "internalLinkCount": 1,
+      "externalLinkCount": 4
     },
     {
       "id": "republik/article-england",
@@ -1696,7 +2002,9 @@
       "authorIds": [
         "3b1cee6c-cc48-431a-ade7-60f739c66298"
       ],
-      "readingMinutes": 14
+      "readingMinutes": 14,
+      "internalLinkCount": 1,
+      "externalLinkCount": 14
     },
     {
       "id": "republik/article-im-mittelpunkt-der-welt",
@@ -1705,7 +2013,9 @@
       "description": "Lara Almarcegui macht Kunst, die man tiefschürfend nennen darf. Sie hat das Recht erworben, nach Eisenerz zu schürfen.",
       "publishDate": "2019-09-10T02:48:00.000Z",
       "authorIds": [],
-      "readingMinutes": 5
+      "readingMinutes": 5,
+      "internalLinkCount": 2,
+      "externalLinkCount": 2
     },
     {
       "id": "republik/article-global-population",
@@ -1716,7 +2026,9 @@
       "authorIds": [
         "eca9ee2c-4678-4f63-8564-651293df2b97"
       ],
-      "readingMinutes": 8
+      "readingMinutes": 8,
+      "internalLinkCount": 1,
+      "externalLinkCount": 20
     },
     {
       "id": "republik/article-die-physiker",
@@ -1727,7 +2039,9 @@
       "authorIds": [
         "4040f438-db05-483f-b64c-75e385218a58"
       ],
-      "readingMinutes": 42
+      "readingMinutes": 42,
+      "internalLinkCount": 0,
+      "externalLinkCount": 13
     },
     {
       "id": "republik/article-chancenloses-chancenland",
@@ -1738,7 +2052,9 @@
       "authorIds": [
         "00051db6-0b8d-4808-9830-efbee0e4d2af"
       ],
-      "readingMinutes": 6
+      "readingMinutes": 6,
+      "internalLinkCount": 2,
+      "externalLinkCount": 3
     },
     {
       "id": "republik/article-new-york-city-vereinigte-staaten2",
@@ -1749,7 +2065,9 @@
       "authorIds": [
         "95643b75-6374-4fa4-b031-3ca06e380f12"
       ],
-      "readingMinutes": null
+      "readingMinutes": null,
+      "internalLinkCount": 0,
+      "externalLinkCount": 1
     },
     {
       "id": "republik/article-bau-am-demokratischen",
@@ -1758,7 +2076,9 @@
       "description": "Dieses Wochenende kommt eines der prägendsten Kunstprojekte der letzten Jahre an sein Ende. Die Robert-Walser-Skulptur von Thomas Hirschhorn in Biel setzt als Gesamtkunstwerk Massstäbe.",
       "publishDate": "2019-09-07T02:44:00.000Z",
       "authorIds": [],
-      "readingMinutes": 7
+      "readingMinutes": 7,
+      "internalLinkCount": 1,
+      "externalLinkCount": 0
     },
     {
       "id": "republik/article-das-ende-der-deutschen-nachkriegsordnung",
@@ -1767,7 +2087,9 @@
       "description": "Der Erfolg der AfD und der Niedergang von CDU und SPD werden kleingeredet. Es ist nicht weniger als das Ende der deutschen Nachkriegsordnung.",
       "publishDate": "2019-09-06T02:50:00.000Z",
       "authorIds": [],
-      "readingMinutes": 9
+      "readingMinutes": 9,
+      "internalLinkCount": 1,
+      "externalLinkCount": 3
     },
     {
       "id": "republik/article-wdwww-w36",
@@ -1783,7 +2105,9 @@
         "a563fa2c-9651-4360-bcb9-98c3d5b5d123",
         "f0d2dc2a-1308-4c40-b4ff-ca4e32f48019"
       ],
-      "readingMinutes": 12
+      "readingMinutes": 12,
+      "internalLinkCount": 2,
+      "externalLinkCount": 30
     },
     {
       "id": "republik/article-die-vernichtung-unserer-tierwelt",
@@ -1792,7 +2116,9 @@
       "description": "Zuerst verschwanden die Insekten. Doch längst droht der ganzen Tierwelt das Massensterben. Ein Sachbuch liefert alarmierende Fakten.",
       "publishDate": "2019-09-06T02:46:00.000Z",
       "authorIds": [],
-      "readingMinutes": 8
+      "readingMinutes": 8,
+      "internalLinkCount": 1,
+      "externalLinkCount": 12
     },
     {
       "id": "republik/article-doktor-thep",
@@ -1803,7 +2129,9 @@
       "authorIds": [
         "66642b5c-7486-4af1-a8a5-c285e9265da2"
       ],
-      "readingMinutes": 26
+      "readingMinutes": 26,
+      "internalLinkCount": 0,
+      "externalLinkCount": 0
     },
     {
       "id": "republik/article-schluss-mit-der-preisinflation",
@@ -1812,7 +2140,9 @@
       "description": "Seit genau einem Jahr zeichnen wir nun Miserables, Mittelmässiges und manchmal Hervorragendes aus. Doch statt zu feiern, geht die Jury hart mit sich ins Gericht – einschneidende Massnahmen inklusive.",
       "publishDate": "2019-09-05T02:48:00.000Z",
       "authorIds": [],
-      "readingMinutes": 5
+      "readingMinutes": 5,
+      "internalLinkCount": 1,
+      "externalLinkCount": 2
     },
     {
       "id": "republik/article-negative-zinsen-2",
@@ -1823,7 +2153,9 @@
       "authorIds": [
         "eca9ee2c-4678-4f63-8564-651293df2b97"
       ],
-      "readingMinutes": 14
+      "readingMinutes": 14,
+      "internalLinkCount": 2,
+      "externalLinkCount": 27
     },
     {
       "id": "republik/article-briefing-67",
@@ -1836,7 +2168,9 @@
         "dd782b8d-4eae-4a05-80d8-494760d2d58a",
         "6e5d7522-8e67-4306-b416-79eb2f833b62"
       ],
-      "readingMinutes": 6
+      "readingMinutes": 6,
+      "internalLinkCount": 1,
+      "externalLinkCount": 10
     },
     {
       "id": "republik/article-gegendarstellung-eth",
@@ -1845,7 +2179,9 @@
       "description": "",
       "publishDate": "2019-09-04T21:55:00.000Z",
       "authorIds": [],
-      "readingMinutes": null
+      "readingMinutes": null,
+      "internalLinkCount": 1,
+      "externalLinkCount": 1
     },
     {
       "id": "republik/article-negative-zinsen-1",
@@ -1856,7 +2192,9 @@
       "authorIds": [
         "eca9ee2c-4678-4f63-8564-651293df2b97"
       ],
-      "readingMinutes": 12
+      "readingMinutes": 12,
+      "internalLinkCount": 1,
+      "externalLinkCount": 26
     },
     {
       "id": "republik/article-der-zivildienstler-steckt-den-kopf-in-den-sand",
@@ -1867,7 +2205,9 @@
       "authorIds": [
         "461daa4e-c4db-415f-b5e1-ea2315b49b59"
       ],
-      "readingMinutes": 7
+      "readingMinutes": 7,
+      "internalLinkCount": 1,
+      "externalLinkCount": 0
     },
     {
       "id": "republik/article-ok-cool",
@@ -1879,7 +2219,9 @@
         "ce59bb9f-a491-4928-9e0c-3ca97a8f4f8d",
         "e84af7cc-9b7b-48bb-a4d8-f057173de9ac"
       ],
-      "readingMinutes": 12
+      "readingMinutes": 12,
+      "internalLinkCount": 1,
+      "externalLinkCount": 0
     },
     {
       "id": "republik/article-was-sie-ueber-die-britische-krise-wissen-muessen",
@@ -1890,7 +2232,9 @@
       "authorIds": [
         "cdbfa09d-2b1e-402e-8943-30b4b1791139"
       ],
-      "readingMinutes": 3
+      "readingMinutes": 3,
+      "internalLinkCount": 2,
+      "externalLinkCount": 10
     },
     {
       "id": "republik/article-boris",
@@ -1901,7 +2245,9 @@
       "authorIds": [
         "3b1cee6c-cc48-431a-ade7-60f739c66298"
       ],
-      "readingMinutes": 6
+      "readingMinutes": 6,
+      "internalLinkCount": 2,
+      "externalLinkCount": 11
     },
     {
       "id": "republik/article-der-preis-der-eindeutigkeit",
@@ -1912,7 +2258,9 @@
       "authorIds": [
         "008d591a-810e-4603-8260-7a9a530b9096"
       ],
-      "readingMinutes": 4
+      "readingMinutes": 4,
+      "internalLinkCount": 1,
+      "externalLinkCount": 1
     },
     {
       "id": "republik/article-administrative-versorung",
@@ -1923,7 +2271,9 @@
       "authorIds": [
         "6e5d7522-8e67-4306-b416-79eb2f833b62"
       ],
-      "readingMinutes": 8
+      "readingMinutes": 8,
+      "internalLinkCount": 0,
+      "externalLinkCount": 4
     },
     {
       "id": "republik/article-warum-es-immer-mehr-alte-in-der-schweiz-gibt",
@@ -1934,7 +2284,9 @@
       "authorIds": [
         "eca9ee2c-4678-4f63-8564-651293df2b97"
       ],
-      "readingMinutes": 5
+      "readingMinutes": 5,
+      "internalLinkCount": 0,
+      "externalLinkCount": 13
     },
     {
       "id": "republik/article-wie-anders-ist-der-osten",
@@ -1943,7 +2295,9 @@
       "description": "An diesem Wochenende sind Landtagswahlen in Ostdeutschland. Es droht ein gravierender Rechtsruck. 30 Jahre nach dem Mauerfall rätselt Deutschland weiter über die Spaltung zwischen Ost und West. Ein Erklärungsversuch.",
       "publishDate": "2019-08-31T02:50:00.000Z",
       "authorIds": [],
-      "readingMinutes": 17
+      "readingMinutes": 17,
+      "internalLinkCount": 2,
+      "externalLinkCount": 22
     },
     {
       "id": "republik/article-verfassungsrechtliche-schandtat",
@@ -1954,7 +2308,9 @@
       "authorIds": [
         "00051db6-0b8d-4808-9830-efbee0e4d2af"
       ],
-      "readingMinutes": 6
+      "readingMinutes": 6,
+      "internalLinkCount": 1,
+      "externalLinkCount": 6
     },
     {
       "id": "republik/article-bujumbura-burundi-de",
@@ -1965,7 +2321,9 @@
       "authorIds": [
         "95643b75-6374-4fa4-b031-3ca06e380f12"
       ],
-      "readingMinutes": null
+      "readingMinutes": null,
+      "internalLinkCount": 0,
+      "externalLinkCount": 1
     },
     {
       "id": "republik/article-speki10-und-schluss",
@@ -1976,7 +2334,9 @@
       "authorIds": [
         "5f45d6a3-ff52-4e67-9925-92447f43d2e1"
       ],
-      "readingMinutes": 3
+      "readingMinutes": 3,
+      "internalLinkCount": 1,
+      "externalLinkCount": 4
     },
     {
       "id": "republik/article-d-vidas-ocultas",
@@ -1985,7 +2345,9 @@
       "description": "Wie ein schmutziges Kreditgeschäft bei der Schweizer Grossbank zum Desaster für ein afrikanisches Entwicklungsland wurde.",
       "publishDate": "2019-08-30T02:50:00.000Z",
       "authorIds": [],
-      "readingMinutes": 19
+      "readingMinutes": 19,
+      "internalLinkCount": 1,
+      "externalLinkCount": 33
     },
     {
       "id": "republik/article-wdwww3008",
@@ -1999,7 +2361,9 @@
         "249b6225-43b4-4903-835c-0e826b8f377d",
         "7e37f53d-c093-48bc-971e-0ec61a3bdcf0"
       ],
-      "readingMinutes": 11
+      "readingMinutes": 11,
+      "internalLinkCount": 1,
+      "externalLinkCount": 37
     },
     {
       "id": "republik/article-chopins-polnische-wurzeln",
@@ -2010,7 +2374,9 @@
       "authorIds": [
         "abb4b5c7-cbf4-4659-81cc-e49baa821a4b"
       ],
-      "readingMinutes": null
+      "readingMinutes": null,
+      "internalLinkCount": 1,
+      "externalLinkCount": 2
     },
     {
       "id": "republik/article-speki9",
@@ -2021,7 +2387,9 @@
       "authorIds": [
         "5f45d6a3-ff52-4e67-9925-92447f43d2e1"
       ],
-      "readingMinutes": 3
+      "readingMinutes": 3,
+      "internalLinkCount": 0,
+      "externalLinkCount": 2
     },
     {
       "id": "republik/article-homestory-13-when-the-man-comes-around",
@@ -2033,7 +2401,9 @@
         "ce59bb9f-a491-4928-9e0c-3ca97a8f4f8d",
         "e84af7cc-9b7b-48bb-a4d8-f057173de9ac"
       ],
-      "readingMinutes": 6
+      "readingMinutes": 6,
+      "internalLinkCount": 1,
+      "externalLinkCount": 0
     },
     {
       "id": "republik/article-briefingdraft",
@@ -2046,7 +2416,9 @@
         "93d6839d-fe3e-491a-bbca-477585e776e4",
         "ae2dd456-9077-4f7c-9aa8-af910adf6a02"
       ],
-      "readingMinutes": 6
+      "readingMinutes": 6,
+      "internalLinkCount": 1,
+      "externalLinkCount": 12
     },
     {
       "id": "republik/article-preis-marktforschung",
@@ -2055,7 +2427,9 @@
       "description": "Nur knapp die Hälfte der Schweizer Bevölkerung findet dünne Frauen toll. Eine Erkenntnis, die wir der Weisheit der Marktforschung verdanken.",
       "publishDate": "2019-08-29T02:46:00.000Z",
       "authorIds": [],
-      "readingMinutes": 4
+      "readingMinutes": 4,
+      "internalLinkCount": 0,
+      "externalLinkCount": 0
     },
     {
       "id": "republik/article-demonstrationen-in-hongkong",
@@ -2064,7 +2438,9 @@
       "description": "Flashmobs, Menschenketten, ein blockierter Flughafen: Die Stadt erlebt eine der grössten sozialen Bewegungen ihrer Geschichte. Was wollen die Demonstrantinnen, wie organisieren sie sich – und was haben sie aus gescheiterten Protesten gelernt?",
       "publishDate": "2019-08-28T02:51:00.000Z",
       "authorIds": [],
-      "readingMinutes": 9
+      "readingMinutes": 9,
+      "internalLinkCount": 1,
+      "externalLinkCount": 9
     },
     {
       "id": "republik/article-gnade-fuer-einen-gnadenlosen",
@@ -2075,7 +2451,9 @@
       "authorIds": [
         "02852b61-aa45-4dab-8d23-a0c71d3e05f7"
       ],
-      "readingMinutes": 7
+      "readingMinutes": 7,
+      "internalLinkCount": 1,
+      "externalLinkCount": 2
     },
     {
       "id": "republik/article-speki8",
@@ -2086,7 +2464,9 @@
       "authorIds": [
         "5f45d6a3-ff52-4e67-9925-92447f43d2e1"
       ],
-      "readingMinutes": 4
+      "readingMinutes": 4,
+      "internalLinkCount": 0,
+      "externalLinkCount": 2
     },
     {
       "id": "republik/article-raus-aus-der-kolonie",
@@ -2097,7 +2477,9 @@
       "authorIds": [
         "22d026db-0f69-4b56-b043-6230ee03096d"
       ],
-      "readingMinutes": 21
+      "readingMinutes": 21,
+      "internalLinkCount": 1,
+      "externalLinkCount": 7
     },
     {
       "id": "republik/article-es-ist-verdammt-komplex",
@@ -2108,7 +2490,9 @@
       "authorIds": [
         "d2ab7a77-d086-45c7-b6ab-71e4c14848d7"
       ],
-      "readingMinutes": 14
+      "readingMinutes": 14,
+      "internalLinkCount": 1,
+      "externalLinkCount": 6
     },
     {
       "id": "republik/article-mad-women",
@@ -2117,7 +2501,9 @@
       "description": "Worin gründet unsere Nostalgie für Eleganz und Konformismus der Sixties? Eine feministische TV-Serie gibt eine faszinierende Antwort.",
       "publishDate": "2019-08-27T02:46:00.000Z",
       "authorIds": [],
-      "readingMinutes": 7
+      "readingMinutes": 7,
+      "internalLinkCount": 1,
+      "externalLinkCount": 6
     },
     {
       "id": "republik/article-speki7",
@@ -2128,7 +2514,9 @@
       "authorIds": [
         "5f45d6a3-ff52-4e67-9925-92447f43d2e1"
       ],
-      "readingMinutes": 4
+      "readingMinutes": 4,
+      "internalLinkCount": 0,
+      "externalLinkCount": 3
     },
     {
       "id": "republik/article-metropolitanraeume",
@@ -2137,7 +2525,9 @@
       "description": "Im sechsten Teil der Serie über Ungleichheit analysieren wir die Entwicklung in den Kantonen – und diskutieren die Folgen des Steuerwettbewerbs und der Personenfreizügigkeit.",
       "publishDate": "2019-08-26T02:50:00.000Z",
       "authorIds": [],
-      "readingMinutes": 8
+      "readingMinutes": 8,
+      "internalLinkCount": 2,
+      "externalLinkCount": 1
     },
     {
       "id": "republik/article-hallo-biene",
@@ -2146,7 +2536,9 @@
       "description": "Ihr erster Erzählband war ein Sensationserfolg, nun hat Karen Köhler ihr Romandebüt vorgelegt. Damit steht sie nicht nur auf der Longlist zum Deutschen Buchpreis – sondern auch in einem Sturm der Kritik.",
       "publishDate": "2019-08-26T02:48:00.000Z",
       "authorIds": [],
-      "readingMinutes": 7
+      "readingMinutes": 7,
+      "internalLinkCount": 0,
+      "externalLinkCount": 7
     },
     {
       "id": "republik/article-kundenerlebnis-my-ass",
@@ -2157,7 +2549,9 @@
       "authorIds": [
         "6ae2733e-1562-47b3-881c-88e9d3d28da9"
       ],
-      "readingMinutes": 4
+      "readingMinutes": 4,
+      "internalLinkCount": 2,
+      "externalLinkCount": 6
     },
     {
       "id": "republik/article-alles-was-sie-noch-nie-wissen",
@@ -2168,7 +2562,9 @@
       "authorIds": [
         "7b0d6a74-f57b-4498-8eb7-455936672736"
       ],
-      "readingMinutes": 23
+      "readingMinutes": 23,
+      "internalLinkCount": 2,
+      "externalLinkCount": 22
     },
     {
       "id": "republik/article-opa-wird-schwierig",
@@ -2179,7 +2575,9 @@
       "authorIds": [
         "00051db6-0b8d-4808-9830-efbee0e4d2af"
       ],
-      "readingMinutes": 6
+      "readingMinutes": 6,
+      "internalLinkCount": 1,
+      "externalLinkCount": 7
     },
     {
       "id": "republik/article-tokio-japan19",
@@ -2190,7 +2588,9 @@
       "authorIds": [
         "95643b75-6374-4fa4-b031-3ca06e380f12"
       ],
-      "readingMinutes": null
+      "readingMinutes": null,
+      "internalLinkCount": 0,
+      "externalLinkCount": 1
     },
     {
       "id": "republik/article-friedhof-der-geniestreiche",
@@ -2199,7 +2599,9 @@
       "description": "Orson Welles starb, bevor sein letztes Werk fertig war. Nun ist es doch noch erschienen. Andere Streifen wurden bereits vor Drehbeginn eingemottet. Über Auferweckte, Untote und Filme, die zu Recht in Frieden ruhen.",
       "publishDate": "2019-08-24T02:44:00.000Z",
       "authorIds": [],
-      "readingMinutes": 14
+      "readingMinutes": 14,
+      "internalLinkCount": 2,
+      "externalLinkCount": 19
     },
     {
       "id": "republik/article-speki6",
@@ -2210,7 +2612,9 @@
       "authorIds": [
         "5f45d6a3-ff52-4e67-9925-92447f43d2e1"
       ],
-      "readingMinutes": 4
+      "readingMinutes": 4,
+      "internalLinkCount": 0,
+      "externalLinkCount": 6
     },
     {
       "id": "republik/article-das-grosse-meer",
@@ -2221,7 +2625,9 @@
       "authorIds": [
         "cdbfa09d-2b1e-402e-8943-30b4b1791139"
       ],
-      "readingMinutes": 14
+      "readingMinutes": 14,
+      "internalLinkCount": 1,
+      "externalLinkCount": 2
     },
     {
       "id": "republik/article-wdwww-23-08",
@@ -2232,7 +2638,9 @@
       "authorIds": [
         "249b6225-43b4-4903-835c-0e826b8f377d"
       ],
-      "readingMinutes": 10
+      "readingMinutes": 10,
+      "internalLinkCount": 1,
+      "externalLinkCount": 35
     },
     {
       "id": "republik/article-komm-ins-laberinth",
@@ -2243,7 +2651,9 @@
       "authorIds": [
         "186e0a00-3ab5-4246-87a5-6bc44d6fca95"
       ],
-      "readingMinutes": 7
+      "readingMinutes": 7,
+      "internalLinkCount": 1,
+      "externalLinkCount": 12
     },
     {
       "id": "republik/article-der-coop-kniff",
@@ -2254,7 +2664,9 @@
       "authorIds": [
         "d2ab7a77-d086-45c7-b6ab-71e4c14848d7"
       ],
-      "readingMinutes": 4
+      "readingMinutes": 4,
+      "internalLinkCount": 0,
+      "externalLinkCount": 3
     },
     {
       "id": "republik/article-speki5",
@@ -2265,7 +2677,9 @@
       "authorIds": [
         "5f45d6a3-ff52-4e67-9925-92447f43d2e1"
       ],
-      "readingMinutes": 3
+      "readingMinutes": 3,
+      "internalLinkCount": 0,
+      "externalLinkCount": 7
     },
     {
       "id": "republik/article-speki4",
@@ -2276,7 +2690,9 @@
       "authorIds": [
         "5f45d6a3-ff52-4e67-9925-92447f43d2e1"
       ],
-      "readingMinutes": 4
+      "readingMinutes": 4,
+      "internalLinkCount": 0,
+      "externalLinkCount": 4
     },
     {
       "id": "republik/article-lichterbeck",
@@ -2285,7 +2701,9 @@
       "description": "Lange war Brasilien ein Klimachampion. Doch spätestens unter Präsident Bolsonaro ist Schluss damit. Das Land spürt die verheerenden Folgen bereits jetzt. Geschieht nichts, leidet bald die ganze Welt.",
       "publishDate": "2019-08-22T02:50:00.000Z",
       "authorIds": [],
-      "readingMinutes": 22
+      "readingMinutes": 22,
+      "internalLinkCount": 1,
+      "externalLinkCount": 48
     },
     {
       "id": "republik/article-briefing-65",
@@ -2299,7 +2717,9 @@
         "ae2dd456-9077-4f7c-9aa8-af910adf6a02",
         "7b0d6a74-f57b-4498-8eb7-455936672736"
       ],
-      "readingMinutes": 8
+      "readingMinutes": 8,
+      "internalLinkCount": 1,
+      "externalLinkCount": 10
     },
     {
       "id": "republik/article-mule-britannia",
@@ -2308,7 +2728,9 @@
       "description": "«Led by Donkeys» sind im besten Sinne nachtragend. Die Aktivisten erinnern Pro-Brexit-Politiker an ihre Aussagen von früher – mit verstörendem Ergebnis. ",
       "publishDate": "2019-08-22T02:46:00.000Z",
       "authorIds": [],
-      "readingMinutes": 5
+      "readingMinutes": 5,
+      "internalLinkCount": 1,
+      "externalLinkCount": 9
     },
     {
       "id": "republik/article-widerstand-nach-kalabresischer-art",
@@ -2319,7 +2741,9 @@
       "authorIds": [
         "c641d9bf-9996-4b38-807b-8c1c1148943c"
       ],
-      "readingMinutes": 8
+      "readingMinutes": 8,
+      "internalLinkCount": 1,
+      "externalLinkCount": 10
     },
     {
       "id": "republik/article-homestory-12-biggie-versus-tupac",
@@ -2331,7 +2755,9 @@
         "ce59bb9f-a491-4928-9e0c-3ca97a8f4f8d",
         "e84af7cc-9b7b-48bb-a4d8-f057173de9ac"
       ],
-      "readingMinutes": 9
+      "readingMinutes": 9,
+      "internalLinkCount": 1,
+      "externalLinkCount": 0
     },
     {
       "id": "republik/article-feministische-comics-titel-fehlt",
@@ -2340,7 +2766,9 @@
       "description": "Graphic Novels galten lange als Männerdomäne. Mittlerweile sind sie eine ideale Plattform für junge Frauen, um persönliche Geschichten zu erzählen.",
       "publishDate": "2019-08-21T02:46:00.000Z",
       "authorIds": [],
-      "readingMinutes": 6
+      "readingMinutes": 6,
+      "internalLinkCount": 2,
+      "externalLinkCount": 12
     },
     {
       "id": "republik/article-speki3",
@@ -2351,7 +2779,9 @@
       "authorIds": [
         "5f45d6a3-ff52-4e67-9925-92447f43d2e1"
       ],
-      "readingMinutes": 3
+      "readingMinutes": 3,
+      "internalLinkCount": 0,
+      "externalLinkCount": 5
     },
     {
       "id": "republik/article-strand-vlora",
@@ -2362,7 +2792,9 @@
       "authorIds": [
         "b38b7b36-dfab-48f3-8712-ec5268197a44"
       ],
-      "readingMinutes": 13
+      "readingMinutes": 13,
+      "internalLinkCount": 0,
+      "externalLinkCount": 9
     },
     {
       "id": "republik/article-nerds-retten-die-welt-17-montgomery",
@@ -2373,7 +2805,9 @@
       "authorIds": [
         "c98ecd1b-8a36-46d1-9083-0cb9ad750ce5"
       ],
-      "readingMinutes": 20
+      "readingMinutes": 20,
+      "internalLinkCount": 0,
+      "externalLinkCount": 8
     },
     {
       "id": "republik/article-das-bild-sagt-nichts-und-alles",
@@ -2382,7 +2816,9 @@
       "description": "Wie wir Fotografien dechiffrieren. Am Beispiel des orangenen Rucksacks der Street Parade.",
       "publishDate": "2019-08-20T02:46:00.000Z",
       "authorIds": [],
-      "readingMinutes": 6
+      "readingMinutes": 6,
+      "internalLinkCount": 1,
+      "externalLinkCount": 2
     },
     {
       "id": "republik/article-speki2",
@@ -2393,7 +2829,9 @@
       "authorIds": [
         "5f45d6a3-ff52-4e67-9925-92447f43d2e1"
       ],
-      "readingMinutes": 3
+      "readingMinutes": 3,
+      "internalLinkCount": 0,
+      "externalLinkCount": 5
     },
     {
       "id": "republik/article-bullshit-fake-und-thunberg-ein-argumentationsfuehrer",
@@ -2404,7 +2842,9 @@
       "authorIds": [
         "93d6839d-fe3e-491a-bbca-477585e776e4"
       ],
-      "readingMinutes": 6
+      "readingMinutes": 6,
+      "internalLinkCount": 2,
+      "externalLinkCount": 10
     },
     {
       "id": "republik/article-volksrechte-und-demokratie",
@@ -2415,7 +2855,9 @@
       "authorIds": [
         "80229083-2b7c-4de8-a5c7-8ad79b1e80fc"
       ],
-      "readingMinutes": 10
+      "readingMinutes": 10,
+      "internalLinkCount": 1,
+      "externalLinkCount": 7
     },
     {
       "id": "republik/article-jenseits-des-lustprinzips",
@@ -2426,7 +2868,9 @@
       "authorIds": [
         "00051db6-0b8d-4808-9830-efbee0e4d2af"
       ],
-      "readingMinutes": 7
+      "readingMinutes": 7,
+      "internalLinkCount": 1,
+      "externalLinkCount": 9
     },
     {
       "id": "republik/article-mogadischu-somalia",
@@ -2437,7 +2881,9 @@
       "authorIds": [
         "95643b75-6374-4fa4-b031-3ca06e380f12"
       ],
-      "readingMinutes": null
+      "readingMinutes": null,
+      "internalLinkCount": 0,
+      "externalLinkCount": 1
     },
     {
       "id": "republik/article-wer-hat-angst-vorm-zuhoeren",
@@ -2446,7 +2892,9 @@
       "description": "Linke Identitätspolitik ist, wieder einmal, das Feindbild der Stunde. Der Vorwurf: Sie hintertreibe den gesellschaftlichen Zusammenhalt. Doch die Kritik übersieht das Entscheidende.",
       "publishDate": "2019-08-17T02:46:00.000Z",
       "authorIds": [],
-      "readingMinutes": 10
+      "readingMinutes": 10,
+      "internalLinkCount": 2,
+      "externalLinkCount": 9
     },
     {
       "id": "republik/article-titel1",
@@ -2457,7 +2905,9 @@
       "authorIds": [
         "5f45d6a3-ff52-4e67-9925-92447f43d2e1"
       ],
-      "readingMinutes": 3
+      "readingMinutes": 3,
+      "internalLinkCount": 1,
+      "externalLinkCount": 3
     },
     {
       "id": "republik/article-homestory-11",
@@ -2469,7 +2919,9 @@
         "ce59bb9f-a491-4928-9e0c-3ca97a8f4f8d",
         "e84af7cc-9b7b-48bb-a4d8-f057173de9ac"
       ],
-      "readingMinutes": 8
+      "readingMinutes": 8,
+      "internalLinkCount": 0,
+      "externalLinkCount": 0
     },
     {
       "id": "republik/article-wdwww-16-08",
@@ -2480,7 +2932,9 @@
       "authorIds": [
         "249b6225-43b4-4903-835c-0e826b8f377d"
       ],
-      "readingMinutes": 10
+      "readingMinutes": 10,
+      "internalLinkCount": 0,
+      "externalLinkCount": 44
     },
     {
       "id": "republik/article-die-duestere-schoenheit-der-devices",
@@ -2489,7 +2943,9 @@
       "description": "Philipp Schönthaler hat einen Roman über die Schrecken des Internetzeitalters geschrieben. Doch gerade im Tech-Jargon der Digitalisierung findet er ästhetische Qualitäten.",
       "publishDate": "2019-08-16T02:46:00.000Z",
       "authorIds": [],
-      "readingMinutes": 6
+      "readingMinutes": 6,
+      "internalLinkCount": 1,
+      "externalLinkCount": 9
     },
     {
       "id": "republik/article-locaron-ameise",
@@ -2500,7 +2956,9 @@
       "authorIds": [
         "e8b718fb-e3fe-4960-85e9-f6a0e594ca33"
       ],
-      "readingMinutes": 4
+      "readingMinutes": 4,
+      "internalLinkCount": 0,
+      "externalLinkCount": 3
     },
     {
       "id": "republik/article-et-dieu-crea-la-plage",
@@ -2511,7 +2969,9 @@
       "authorIds": [
         "6e5d7522-8e67-4306-b416-79eb2f833b62"
       ],
-      "readingMinutes": 16
+      "readingMinutes": 16,
+      "internalLinkCount": 1,
+      "externalLinkCount": 9
     },
     {
       "id": "republik/article-wels",
@@ -2520,7 +2980,9 @@
       "description": "Ein Sommer ohne tierisch gute Geschichte ist nur halb so schön. Aber um die halbe Schweiz wochenlang im Trüben fischen zu lassen, braucht es einen Könner.",
       "publishDate": "2019-08-15T02:48:00.000Z",
       "authorIds": [],
-      "readingMinutes": 5
+      "readingMinutes": 5,
+      "internalLinkCount": 0,
+      "externalLinkCount": 15
     },
     {
       "id": "republik/article-der-tech-buenzli-broeckelt",
@@ -2531,7 +2993,9 @@
       "authorIds": [
         "d2ab7a77-d086-45c7-b6ab-71e4c14848d7"
       ],
-      "readingMinutes": 16
+      "readingMinutes": 16,
+      "internalLinkCount": 1,
+      "externalLinkCount": 19
     },
     {
       "id": "republik/article-parteienschacher-um-richterposten",
@@ -2542,7 +3006,9 @@
       "authorIds": [
         "02852b61-aa45-4dab-8d23-a0c71d3e05f7"
       ],
-      "readingMinutes": 17
+      "readingMinutes": 17,
+      "internalLinkCount": 0,
+      "externalLinkCount": 4
     },
     {
       "id": "republik/article-stunk-im-bunker",
@@ -2553,7 +3019,9 @@
       "authorIds": [
         "02852b61-aa45-4dab-8d23-a0c71d3e05f7"
       ],
-      "readingMinutes": 6
+      "readingMinutes": 6,
+      "internalLinkCount": 1,
+      "externalLinkCount": 0
     },
     {
       "id": "republik/article-regisseur-auf-nostalgietrip",
@@ -2562,7 +3030,9 @@
       "description": "Quentin Tarantino frönt in «Once Upon a Time … in Hollywood» hemmungslos seiner Liebe für die Filmgeschichte – und vergisst darüber etwas seinen eigenen Film.",
       "publishDate": "2019-08-14T02:46:00.000Z",
       "authorIds": [],
-      "readingMinutes": 5
+      "readingMinutes": 5,
+      "internalLinkCount": 0,
+      "externalLinkCount": 5
     },
     {
       "id": "republik/article-hier-kommt-alex",
@@ -2571,7 +3041,9 @@
       "description": "Forscher, Naturphilosoph, Abenteurer und grosser Erzähler: Alexander von Humboldt fasziniert bis heute. Begleiten Sie ihn auf seiner berühmtesten Reise – einen Monat lang.",
       "publishDate": "2019-08-14T02:44:00.000Z",
       "authorIds": [],
-      "readingMinutes": 2
+      "readingMinutes": 2,
+      "internalLinkCount": 0,
+      "externalLinkCount": 3
     },
     {
       "id": "republik/article-nachzug-philip-morris",
@@ -2582,7 +3054,9 @@
       "authorIds": [
         "ae2dd456-9077-4f7c-9aa8-af910adf6a02"
       ],
-      "readingMinutes": 6
+      "readingMinutes": 6,
+      "internalLinkCount": 2,
+      "externalLinkCount": 3
     },
     {
       "id": "republik/article-strand-tunesien",
@@ -2593,7 +3067,9 @@
       "authorIds": [
         "21538af5-319a-4e3c-b51b-dd57e917f4f3"
       ],
-      "readingMinutes": 14
+      "readingMinutes": 14,
+      "internalLinkCount": 1,
+      "externalLinkCount": 10
     },
     {
       "id": "republik/article-bauliches-selbstportraet",
@@ -2602,7 +3078,9 @@
       "description": "Ist das nun Kunst oder Architektur? Das Werk «Haus» des Künstlerduos Fischli und Weiss lädt zum Nachdenken ein. Jetzt steht es am perfekten Ort dafür.",
       "publishDate": "2019-08-13T02:46:00.000Z",
       "authorIds": [],
-      "readingMinutes": 5
+      "readingMinutes": 5,
+      "internalLinkCount": 0,
+      "externalLinkCount": 0
     },
     {
       "id": "republik/article-zinscrash",
@@ -2613,7 +3091,9 @@
       "authorIds": [
         "eca9ee2c-4678-4f63-8564-651293df2b97"
       ],
-      "readingMinutes": 10
+      "readingMinutes": 10,
+      "internalLinkCount": 2,
+      "externalLinkCount": 22
     },
     {
       "id": "republik/article-weissrussland",
@@ -2622,7 +3102,9 @@
       "description": "Im Wald von Kurapaty, nördlich von Minsk, liess Stalin einst Zehntausende von Menschen erschiessen. Nun steht dort ein Restaurant – es heisst «Lasst uns essen». Seit Monaten protestieren Aktivisten für die Würde der Toten.",
       "publishDate": "2019-08-12T02:48:00.000Z",
       "authorIds": [],
-      "readingMinutes": 10
+      "readingMinutes": 10,
+      "internalLinkCount": 1,
+      "externalLinkCount": 3
     },
     {
       "id": "republik/article-der-demokratieveraechter",
@@ -2633,7 +3115,9 @@
       "authorIds": [
         "00051db6-0b8d-4808-9830-efbee0e4d2af"
       ],
-      "readingMinutes": 6
+      "readingMinutes": 6,
+      "internalLinkCount": 1,
+      "externalLinkCount": 9
     },
     {
       "id": "republik/article-panmunjeom-korea",
@@ -2644,7 +3128,9 @@
       "authorIds": [
         "95643b75-6374-4fa4-b031-3ca06e380f12"
       ],
-      "readingMinutes": null
+      "readingMinutes": null,
+      "internalLinkCount": 0,
+      "externalLinkCount": 1
     },
     {
       "id": "republik/article-was-heisst-literarisches-erzaehlen",
@@ -2655,7 +3141,9 @@
       "authorIds": [
         "186e0a00-3ab5-4246-87a5-6bc44d6fca95"
       ],
-      "readingMinutes": 16
+      "readingMinutes": 16,
+      "internalLinkCount": 2,
+      "externalLinkCount": 11
     },
     {
       "id": "republik/article-ostia",
@@ -2664,7 +3152,9 @@
       "description": "In Italien müssen Strände frei zugänglich sein, per Gesetz. In Ostia bei Rom aber darf nur ans Wasser, wer zahlt. Doch es gibt eine Alternative, weit draussen in den Dünen. «Am Strand», Folge 6.",
       "publishDate": "2019-08-10T02:44:00.000Z",
       "authorIds": [],
-      "readingMinutes": 15
+      "readingMinutes": 15,
+      "internalLinkCount": 1,
+      "externalLinkCount": 9
     },
     {
       "id": "republik/article-klimajugend-2",
@@ -2675,7 +3165,9 @@
       "authorIds": [
         "93d6839d-fe3e-491a-bbca-477585e776e4"
       ],
-      "readingMinutes": 9
+      "readingMinutes": 9,
+      "internalLinkCount": 2,
+      "externalLinkCount": 16
     },
     {
       "id": "republik/article-wdwww-09-08",
@@ -2687,7 +3179,9 @@
         "249b6225-43b4-4903-835c-0e826b8f377d",
         "d2ab7a77-d086-45c7-b6ab-71e4c14848d7"
       ],
-      "readingMinutes": 11
+      "readingMinutes": 11,
+      "internalLinkCount": 0,
+      "externalLinkCount": 46
     },
     {
       "id": "republik/article-hereinspaziert",
@@ -2696,7 +3190,9 @@
       "description": "Die Ausstellung «Entrare nell’opera» im Kunstmuseum Liechtenstein ist ein grosses Vergnügen – nicht nur für Kunstfans.",
       "publishDate": "2019-08-09T02:44:00.000Z",
       "authorIds": [],
-      "readingMinutes": 7
+      "readingMinutes": 7,
+      "internalLinkCount": 1,
+      "externalLinkCount": 1
     },
     {
       "id": "republik/article-homestory-10-kommando-leopard",
@@ -2708,7 +3204,9 @@
         "ce59bb9f-a491-4928-9e0c-3ca97a8f4f8d",
         "e84af7cc-9b7b-48bb-a4d8-f057173de9ac"
       ],
-      "readingMinutes": 6
+      "readingMinutes": 6,
+      "internalLinkCount": 1,
+      "externalLinkCount": 0
     },
     {
       "id": "republik/article-greta-goes-olga",
@@ -2717,7 +3215,9 @@
       "description": "In Russland wächst der Widerstand gegen Wladimir Putin. An vorderster Front: eine 17-Jährige.",
       "publishDate": "2019-08-08T02:48:00.000Z",
       "authorIds": [],
-      "readingMinutes": 4
+      "readingMinutes": 4,
+      "internalLinkCount": 0,
+      "externalLinkCount": 3
     },
     {
       "id": "republik/article-mieter-rauswuerfe-in-basel",
@@ -2728,7 +3228,9 @@
       "authorIds": [
         "249b6225-43b4-4903-835c-0e826b8f377d"
       ],
-      "readingMinutes": 13
+      "readingMinutes": 13,
+      "internalLinkCount": 1,
+      "externalLinkCount": 21
     },
     {
       "id": "republik/article-brandgefaehrliche-spielzeuge",
@@ -2739,7 +3241,9 @@
       "authorIds": [
         "461daa4e-c4db-415f-b5e1-ea2315b49b59"
       ],
-      "readingMinutes": 6
+      "readingMinutes": 6,
+      "internalLinkCount": 1,
+      "externalLinkCount": 7
     },
     {
       "id": "republik/article-schafft-die-wettbewerbe-ab",
@@ -2748,7 +3252,9 @@
       "description": "Heute beginnt das Locarno Film Festival. Zum Start ein Blick hinter die Betriebs­kulissen mit Walter Ruggle, einem der besten Kenner des weltweiten Kinos.",
       "publishDate": "2019-08-07T02:46:00.000Z",
       "authorIds": [],
-      "readingMinutes": 6
+      "readingMinutes": 6,
+      "internalLinkCount": 1,
+      "externalLinkCount": 4
     },
     {
       "id": "republik/article-menschenrechte-nachhaltig-sichern",
@@ -2757,7 +3263,9 @@
       "description": "Der hohe Standard der Schweizer Grundrechte muss institutionell geschützt werden.",
       "publishDate": "2019-08-07T02:44:00.000Z",
       "authorIds": [],
-      "readingMinutes": 3
+      "readingMinutes": 3,
+      "internalLinkCount": 1,
+      "externalLinkCount": 2
     },
     {
       "id": "republik/article-am-geisterstrand",
@@ -2766,7 +3274,9 @@
       "description": "Seit dem Zypern-Krieg im Sommer 1974 ist Varosha Sperrgebiet. Die türkische Armee hält die ehemalige Tourismushochburg besetzt. Ausflug zum längsten menschenleeren Strand des östlichen Mittelmeers. «Am Strand», Folge 5.",
       "publishDate": "2019-08-06T02:50:00.000Z",
       "authorIds": [],
-      "readingMinutes": 12
+      "readingMinutes": 12,
+      "internalLinkCount": 1,
+      "externalLinkCount": 4
     },
     {
       "id": "republik/article-wenn-big-tech-in-bern-nach-regulierung-schreit",
@@ -2777,7 +3287,9 @@
       "authorIds": [
         "6ae2733e-1562-47b3-881c-88e9d3d28da9"
       ],
-      "readingMinutes": 5
+      "readingMinutes": 5,
+      "internalLinkCount": 2,
+      "externalLinkCount": 5
     },
     {
       "id": "republik/article-punchline",
@@ -2788,7 +3300,9 @@
       "authorIds": [
         "008d591a-810e-4603-8260-7a9a530b9096"
       ],
-      "readingMinutes": 4
+      "readingMinutes": 4,
+      "internalLinkCount": 1,
+      "externalLinkCount": 2
     },
     {
       "id": "republik/article-kann-die-ubs-das-klima-retten",
@@ -2797,7 +3311,9 @@
       "description": "Was müsste passieren, damit die Finanzindustrie keine Gelder mehr an Öl- und Kohlefirmen vergibt? Wir machen die Probe aufs Exempel.",
       "publishDate": "2019-08-05T02:50:00.000Z",
       "authorIds": [],
-      "readingMinutes": 15
+      "readingMinutes": 15,
+      "internalLinkCount": 1,
+      "externalLinkCount": 32
     },
     {
       "id": "republik/article-wie-sag-ich-s-meinem-leser",
@@ -2806,7 +3322,9 @@
       "description": "Die Menschheit steckt mitten in der Klimakrise. Um deren schlimmste Folgen zu verhindern, braucht es das richtige Narrativ. Wie soll das aussehen? ",
       "publishDate": "2019-08-05T02:48:00.000Z",
       "authorIds": [],
-      "readingMinutes": 8
+      "readingMinutes": 8,
+      "internalLinkCount": 2,
+      "externalLinkCount": 27
     },
     {
       "id": "republik/article-der-algorithmus-namens-markt",
@@ -2817,7 +3335,9 @@
       "authorIds": [
         "00051db6-0b8d-4808-9830-efbee0e4d2af"
       ],
-      "readingMinutes": 19
+      "readingMinutes": 19,
+      "internalLinkCount": 1,
+      "externalLinkCount": 8
     },
     {
       "id": "republik/article-monrovia-liberia",
@@ -2828,7 +3348,9 @@
       "authorIds": [
         "95643b75-6374-4fa4-b031-3ca06e380f12"
       ],
-      "readingMinutes": null
+      "readingMinutes": null,
+      "internalLinkCount": 0,
+      "externalLinkCount": 1
     },
     {
       "id": "republik/article-strand-tel-aviv",
@@ -2837,7 +3359,9 @@
       "description": "Für die einen eine Insel der prallen Lebens­freude. Für andere ein Ort des hirnlosen Hedonismus. Der Strand von Tel Aviv ist eine Enklave in einer fundamentalistischen Welt. «Am Strand», Folge 4.",
       "publishDate": "2019-08-02T02:50:00.000Z",
       "authorIds": [],
-      "readingMinutes": 19
+      "readingMinutes": 19,
+      "internalLinkCount": 1,
+      "externalLinkCount": 1
     },
     {
       "id": "republik/article-wdwww-02-08",
@@ -2848,7 +3372,9 @@
       "authorIds": [
         "249b6225-43b4-4903-835c-0e826b8f377d"
       ],
-      "readingMinutes": 8
+      "readingMinutes": 8,
+      "internalLinkCount": 0,
+      "externalLinkCount": 39
     },
     {
       "id": "republik/article-wie-wohl-fuehlen-sie-sich-mit-ihren-positionen-in-ihrer-eigenen-partei-glp",
@@ -2860,7 +3386,9 @@
         "e8b718fb-e3fe-4960-85e9-f6a0e594ca33",
         "7b0d6a74-f57b-4498-8eb7-455936672736"
       ],
-      "readingMinutes": 3
+      "readingMinutes": 3,
+      "internalLinkCount": 1,
+      "externalLinkCount": 1
     },
     {
       "id": "republik/article-venezia",
@@ -2871,7 +3399,9 @@
       "authorIds": [
         "5f45d6a3-ff52-4e67-9925-92447f43d2e1"
       ],
-      "readingMinutes": 6
+      "readingMinutes": 6,
+      "internalLinkCount": 1,
+      "externalLinkCount": 14
     },
     {
       "id": "republik/article-augustansprachen",
@@ -2882,7 +3412,9 @@
       "authorIds": [
         "eca9ee2c-4678-4f63-8564-651293df2b97"
       ],
-      "readingMinutes": 11
+      "readingMinutes": 11,
+      "internalLinkCount": 1,
+      "externalLinkCount": 13
     },
     {
       "id": "republik/article-preis-ans-ruetli",
@@ -2891,7 +3423,9 @@
       "description": "Die Rütliwiese hat Grosses geleistet. Während Jahrzehnten mimte sie die Rolle eines nationalen Symbols. Nun ist sie überreif für den Kompost. ",
       "publishDate": "2019-08-01T02:48:00.000Z",
       "authorIds": [],
-      "readingMinutes": 5
+      "readingMinutes": 5,
+      "internalLinkCount": 0,
+      "externalLinkCount": 0
     },
     {
       "id": "republik/article-testartikel-cr",
@@ -2903,7 +3437,9 @@
         "93d6839d-fe3e-491a-bbca-477585e776e4",
         "ae2dd456-9077-4f7c-9aa8-af910adf6a02"
       ],
-      "readingMinutes": 16
+      "readingMinutes": 16,
+      "internalLinkCount": 1,
+      "externalLinkCount": 34
     },
     {
       "id": "republik/article-homestory-8-brokeback-olten-somewhere-over-the-rainbow",
@@ -2915,7 +3451,9 @@
         "ce59bb9f-a491-4928-9e0c-3ca97a8f4f8d",
         "e84af7cc-9b7b-48bb-a4d8-f057173de9ac"
       ],
-      "readingMinutes": 10
+      "readingMinutes": 10,
+      "internalLinkCount": 0,
+      "externalLinkCount": 0
     },
     {
       "id": "republik/article-das-verkannte-gericht-und-die-neue-frau-an-der-macht",
@@ -2926,7 +3464,9 @@
       "authorIds": [
         "02852b61-aa45-4dab-8d23-a0c71d3e05f7"
       ],
-      "readingMinutes": 7
+      "readingMinutes": 7,
+      "internalLinkCount": 1,
+      "externalLinkCount": 1
     },
     {
       "id": "republik/article-33-fragen-antworten-15-22",
@@ -2938,7 +3478,9 @@
         "e8b718fb-e3fe-4960-85e9-f6a0e594ca33",
         "7b0d6a74-f57b-4498-8eb7-455936672736"
       ],
-      "readingMinutes": 4
+      "readingMinutes": 4,
+      "internalLinkCount": 1,
+      "externalLinkCount": 0
     },
     {
       "id": "republik/article-strand-tripoli",
@@ -2949,7 +3491,9 @@
       "authorIds": [
         "1639fc9f-ab49-437c-8ff2-1ccaeaf84624"
       ],
-      "readingMinutes": 12
+      "readingMinutes": 12,
+      "internalLinkCount": 1,
+      "externalLinkCount": 3
     },
     {
       "id": "republik/article-33-fragen-antworten-8-14",
@@ -2961,7 +3505,9 @@
         "e8b718fb-e3fe-4960-85e9-f6a0e594ca33",
         "7b0d6a74-f57b-4498-8eb7-455936672736"
       ],
-      "readingMinutes": 5
+      "readingMinutes": 5,
+      "internalLinkCount": 1,
+      "externalLinkCount": 5
     },
     {
       "id": "republik/article-bronfen-western",
@@ -2970,7 +3516,9 @@
       "description": "Western sind Männersache. Stimmt das? Nicht in der Serie «Godless». Hier verändert eine feministische Verteidigungs­aktion die Vorzeichen des klassischen Hollywood-Genres.",
       "publishDate": "2019-07-30T02:46:00.000Z",
       "authorIds": [],
-      "readingMinutes": 6
+      "readingMinutes": 6,
+      "internalLinkCount": 1,
+      "externalLinkCount": 1
     },
     {
       "id": "republik/article-30-fragen-wie-funktioniert-liberale-migrationspolitik",
@@ -2982,7 +3530,9 @@
         "e8b718fb-e3fe-4960-85e9-f6a0e594ca33",
         "7b0d6a74-f57b-4498-8eb7-455936672736"
       ],
-      "readingMinutes": 4
+      "readingMinutes": 4,
+      "internalLinkCount": 1,
+      "externalLinkCount": 1
     },
     {
       "id": "republik/article-rueckblick-ls",
@@ -2993,7 +3543,9 @@
       "authorIds": [
         "eca9ee2c-4678-4f63-8564-651293df2b97"
       ],
-      "readingMinutes": 5
+      "readingMinutes": 5,
+      "internalLinkCount": 2,
+      "externalLinkCount": 0
     },
     {
       "id": "republik/article-fotobuch-juli",
@@ -3004,7 +3556,9 @@
       "authorIds": [
         "5f45d6a3-ff52-4e67-9925-92447f43d2e1"
       ],
-      "readingMinutes": 2
+      "readingMinutes": 2,
+      "internalLinkCount": 1,
+      "externalLinkCount": 7
     },
     {
       "id": "republik/article-interview-jay",
@@ -3015,7 +3569,9 @@
       "authorIds": [
         "93d6839d-fe3e-491a-bbca-477585e776e4"
       ],
-      "readingMinutes": 11
+      "readingMinutes": 11,
+      "internalLinkCount": 1,
+      "externalLinkCount": 5
     },
     {
       "id": "republik/article-und-dann-wirst-du-zum-problem-gemacht",
@@ -3026,7 +3582,9 @@
       "authorIds": [
         "7e56f78b-b883-40e6-9dc3-e118a3d7ca2e"
       ],
-      "readingMinutes": 10
+      "readingMinutes": 10,
+      "internalLinkCount": 2,
+      "externalLinkCount": 9
     },
     {
       "id": "republik/article-kabul-afghanistan",
@@ -3037,7 +3595,9 @@
       "authorIds": [
         "95643b75-6374-4fa4-b031-3ca06e380f12"
       ],
-      "readingMinutes": null
+      "readingMinutes": null,
+      "internalLinkCount": 0,
+      "externalLinkCount": 1
     },
     {
       "id": "republik/article-mallorca",
@@ -3048,7 +3608,9 @@
       "authorIds": [
         "6e5d7522-8e67-4306-b416-79eb2f833b62"
       ],
-      "readingMinutes": 17
+      "readingMinutes": 17,
+      "internalLinkCount": 1,
+      "externalLinkCount": 9
     },
     {
       "id": "republik/article-wdwww-2607",
@@ -3062,7 +3624,9 @@
         "6ae2733e-1562-47b3-881c-88e9d3d28da9",
         "7e37f53d-c093-48bc-971e-0ec61a3bdcf0"
       ],
-      "readingMinutes": 12
+      "readingMinutes": 12,
+      "internalLinkCount": 2,
+      "externalLinkCount": 53
     },
     {
       "id": "republik/article-italianita-war-damals-noch-ein-fremdwort",
@@ -3073,7 +3637,9 @@
       "authorIds": [
         "5f45d6a3-ff52-4e67-9925-92447f43d2e1"
       ],
-      "readingMinutes": 10
+      "readingMinutes": 10,
+      "internalLinkCount": 1,
+      "externalLinkCount": 11
     },
     {
       "id": "republik/article-ameise-lion-king",
@@ -3084,7 +3650,9 @@
       "authorIds": [
         "249b6225-43b4-4903-835c-0e826b8f377d"
       ],
-      "readingMinutes": 4
+      "readingMinutes": 4,
+      "internalLinkCount": 0,
+      "externalLinkCount": 8
     },
     {
       "id": "republik/article-homestory-9-claudio-zanetti-black-hawk-down",
@@ -3096,7 +3664,9 @@
         "ce59bb9f-a491-4928-9e0c-3ca97a8f4f8d",
         "e84af7cc-9b7b-48bb-a4d8-f057173de9ac"
       ],
-      "readingMinutes": 8
+      "readingMinutes": 8,
+      "internalLinkCount": 1,
+      "externalLinkCount": 0
     },
     {
       "id": "republik/article-nope",
@@ -3107,7 +3677,9 @@
       "authorIds": [
         "cdbfa09d-2b1e-402e-8943-30b4b1791139"
       ],
-      "readingMinutes": 4
+      "readingMinutes": 4,
+      "internalLinkCount": 2,
+      "externalLinkCount": 4
     },
     {
       "id": "republik/article-ic",
@@ -3116,7 +3688,9 @@
       "description": "Aussenminister Ignazio Cassis befreit die Schweiz vom Käse-und Schokolade­image. Und leistet einen Beitrag zur Lösung des Migrations­problems. ",
       "publishDate": "2019-07-25T02:46:00.000Z",
       "authorIds": [],
-      "readingMinutes": 4
+      "readingMinutes": 4,
+      "internalLinkCount": 2,
+      "externalLinkCount": 6
     },
     {
       "id": "republik/article-das-letzte-pfand",
@@ -3128,7 +3702,9 @@
         "93d6839d-fe3e-491a-bbca-477585e776e4",
         "cdbfa09d-2b1e-402e-8943-30b4b1791139"
       ],
-      "readingMinutes": 11
+      "readingMinutes": 11,
+      "internalLinkCount": 2,
+      "externalLinkCount": 6
     },
     {
       "id": "republik/article-lehrstueck-ueber-strukturellen-rassismus",
@@ -3139,7 +3715,9 @@
       "authorIds": [
         "c641d9bf-9996-4b38-807b-8c1c1148943c"
       ],
-      "readingMinutes": 9
+      "readingMinutes": 9,
+      "internalLinkCount": 1,
+      "externalLinkCount": 16
     },
     {
       "id": "republik/article-kraft-deiner-imagination",
@@ -3148,7 +3726,9 @@
       "description": "Der Basler Künstler Christoph Büchel stellt auf der 58. Biennale von Venedig das Wrack eines gesunkenen Flüchtlingsschiffs aus. Ist das geschmacklos? Oder politische Kunst?",
       "publishDate": "2019-07-24T02:46:00.000Z",
       "authorIds": [],
-      "readingMinutes": 11
+      "readingMinutes": 11,
+      "internalLinkCount": 2,
+      "externalLinkCount": 2
     },
     {
       "id": "republik/article-nerds-retten-die-welt-16-pohl",
@@ -3159,7 +3739,9 @@
       "authorIds": [
         "c98ecd1b-8a36-46d1-9083-0cb9ad750ce5"
       ],
-      "readingMinutes": 30
+      "readingMinutes": 30,
+      "internalLinkCount": 0,
+      "externalLinkCount": 8
     },
     {
       "id": "republik/article-bilderklau-oder-appropriation",
@@ -3168,7 +3750,9 @@
       "description": "In den Medien werden Urheberrechts­verletzungen scharf geahndet. In der Kunst nicht. Fragt sich, ob das richtig ist.",
       "publishDate": "2019-07-23T02:48:00.000Z",
       "authorIds": [],
-      "readingMinutes": 6
+      "readingMinutes": 6,
+      "internalLinkCount": 1,
+      "externalLinkCount": 10
     },
     {
       "id": "republik/article-l-espion-dans-la-salle-de-classe",
@@ -3179,7 +3763,9 @@
       "authorIds": [
         "6ae2733e-1562-47b3-881c-88e9d3d28da9"
       ],
-      "readingMinutes": 13
+      "readingMinutes": 13,
+      "internalLinkCount": 1,
+      "externalLinkCount": 16
     },
     {
       "id": "republik/article-wo-die-reichen-kerle-wohnen",
@@ -3188,7 +3774,9 @@
       "description": "Wenigverdiener auf dem Land, Wohlhabende in der Stadt? Ganz so einfach ist es nicht: drei Karten zur sozialen Schichtung der Schweiz.",
       "publishDate": "2019-07-22T02:50:00.000Z",
       "authorIds": [],
-      "readingMinutes": 7
+      "readingMinutes": 7,
+      "internalLinkCount": 1,
+      "externalLinkCount": 2
     },
     {
       "id": "republik/article-die-liberalen-eliten-machen-den-fehler-aengste-als-dumm-oder-primitiv-abzuqualifizieren",
@@ -3199,7 +3787,9 @@
       "authorIds": [
         "186e0a00-3ab5-4246-87a5-6bc44d6fca95"
       ],
-      "readingMinutes": 16
+      "readingMinutes": 16,
+      "internalLinkCount": 0,
+      "externalLinkCount": 5
     },
     {
       "id": "republik/article-bodrum",
@@ -3210,7 +3800,9 @@
       "authorIds": [
         "3b1cee6c-cc48-431a-ade7-60f739c66298"
       ],
-      "readingMinutes": 14
+      "readingMinutes": 14,
+      "internalLinkCount": 1,
+      "externalLinkCount": 2
     },
     {
       "id": "republik/article-russlands-europaeische-freunde",
@@ -3221,7 +3813,9 @@
       "authorIds": [
         "00051db6-0b8d-4808-9830-efbee0e4d2af"
       ],
-      "readingMinutes": 7
+      "readingMinutes": 7,
+      "internalLinkCount": 2,
+      "externalLinkCount": 15
     },
     {
       "id": "republik/article-wie-man-zum-mond-schaut-so-schaut-er-zurueck",
@@ -3232,7 +3826,9 @@
       "authorIds": [
         "22d026db-0f69-4b56-b043-6230ee03096d"
       ],
-      "readingMinutes": 9
+      "readingMinutes": 9,
+      "internalLinkCount": 0,
+      "externalLinkCount": 4
     },
     {
       "id": "republik/article-irun-spanien",
@@ -3243,7 +3839,9 @@
       "authorIds": [
         "95643b75-6374-4fa4-b031-3ca06e380f12"
       ],
-      "readingMinutes": null
+      "readingMinutes": null,
+      "internalLinkCount": 0,
+      "externalLinkCount": 1
     },
     {
       "id": "republik/article-tb",
@@ -3254,7 +3852,9 @@
       "authorIds": [
         "0736a885-a9c7-4c2f-aebb-b8f9d4b0c21e"
       ],
-      "readingMinutes": 16
+      "readingMinutes": 16,
+      "internalLinkCount": 1,
+      "externalLinkCount": 9
     },
     {
       "id": "republik/article-wdwww-19-07",
@@ -3266,7 +3866,9 @@
         "249b6225-43b4-4903-835c-0e826b8f377d",
         "dd782b8d-4eae-4a05-80d8-494760d2d58a"
       ],
-      "readingMinutes": 9
+      "readingMinutes": 9,
+      "internalLinkCount": 1,
+      "externalLinkCount": 27
     },
     {
       "id": "republik/article-der-grosse-alte-geht",
@@ -3275,7 +3877,9 @@
       "description": "Theaterregisseur, Fernseh­funktionär, Roman­autor: Andrea Camilleri hatte in seinem langen Leben viele Rollen. In Italien war er eine moralische Instanz – und zuletzt eine wichtige Stimme der Opposition.",
       "publishDate": "2019-07-19T02:46:00.000Z",
       "authorIds": [],
-      "readingMinutes": 6
+      "readingMinutes": 6,
+      "internalLinkCount": 1,
+      "externalLinkCount": 4
     },
     {
       "id": "republik/article-der-nackteste-wahlkampf-der-schweiz",
@@ -3286,7 +3890,9 @@
       "authorIds": [
         "6ae2733e-1562-47b3-881c-88e9d3d28da9"
       ],
-      "readingMinutes": 7
+      "readingMinutes": 7,
+      "internalLinkCount": 2,
+      "externalLinkCount": 13
     },
     {
       "id": "republik/article-preis-darroch",
@@ -3295,7 +3901,9 @@
       "description": "Der britische Botschafter in Washington, Sir Kim Darroch, berichtete seiner Regierung das, was niemand anzweifelt. Jetzt muss er dafür seinen Posten räumen. ",
       "publishDate": "2019-07-18T02:48:00.000Z",
       "authorIds": [],
-      "readingMinutes": 4
+      "readingMinutes": 4,
+      "internalLinkCount": 0,
+      "externalLinkCount": 0
     },
     {
       "id": "republik/article-vier-am-grill",
@@ -3306,7 +3914,9 @@
       "authorIds": [
         "6e5d7522-8e67-4306-b416-79eb2f833b62"
       ],
-      "readingMinutes": 3
+      "readingMinutes": 3,
+      "internalLinkCount": 0,
+      "externalLinkCount": 0
     },
     {
       "id": "republik/article-homestory-7-bern-nik-gugger-et-al-a-prayer-before-dawn",
@@ -3318,7 +3928,9 @@
         "ce59bb9f-a491-4928-9e0c-3ca97a8f4f8d",
         "e84af7cc-9b7b-48bb-a4d8-f057173de9ac"
       ],
-      "readingMinutes": 6
+      "readingMinutes": 6,
+      "internalLinkCount": 1,
+      "externalLinkCount": 0
     },
     {
       "id": "republik/article-die-dolmetscherin",
@@ -3329,7 +3941,9 @@
       "authorIds": [
         "02852b61-aa45-4dab-8d23-a0c71d3e05f7"
       ],
-      "readingMinutes": 8
+      "readingMinutes": 8,
+      "internalLinkCount": 0,
+      "externalLinkCount": 0
     },
     {
       "id": "republik/article-am-klavier-fuer-alina",
@@ -3340,7 +3954,9 @@
       "authorIds": [
         "abb4b5c7-cbf4-4659-81cc-e49baa821a4b"
       ],
-      "readingMinutes": null
+      "readingMinutes": null,
+      "internalLinkCount": 1,
+      "externalLinkCount": 2
     },
     {
       "id": "republik/article-europa-ist-der-sonderfall",
@@ -3349,7 +3965,9 @@
       "description": "Kulturelle Gräben, soziale Spannungen, wirtschaftliche Ungleichheit: Was die Europäische Union aus der Entstehungs­geschichte der Schweiz lernen kann.",
       "publishDate": "2019-07-16T02:50:00.000Z",
       "authorIds": [],
-      "readingMinutes": 10
+      "readingMinutes": 10,
+      "internalLinkCount": 1,
+      "externalLinkCount": 1
     },
     {
       "id": "republik/article-nzz-das-grosse-pluendern",
@@ -3360,7 +3978,9 @@
       "authorIds": [
         "a563fa2c-9651-4360-bcb9-98c3d5b5d123"
       ],
-      "readingMinutes": 8
+      "readingMinutes": 8,
+      "internalLinkCount": 2,
+      "externalLinkCount": 2
     },
     {
       "id": "republik/article-ich-bin-der-ich-nicht-bin",
@@ -3371,7 +3991,9 @@
       "authorIds": [
         "008d591a-810e-4603-8260-7a9a530b9096"
       ],
-      "readingMinutes": 6
+      "readingMinutes": 6,
+      "internalLinkCount": 2,
+      "externalLinkCount": 0
     },
     {
       "id": "republik/article-parlamentarierkarrieren",
@@ -3382,7 +4004,9 @@
       "authorIds": [
         "80229083-2b7c-4de8-a5c7-8ad79b1e80fc"
       ],
-      "readingMinutes": 11
+      "readingMinutes": 11,
+      "internalLinkCount": 1,
+      "externalLinkCount": 5
     },
     {
       "id": "republik/article-fauser",
@@ -3391,7 +4015,9 @@
       "description": "Erfolgsautor Jörg Fauser, exzentrisch und heroinsüchtig, war der erste deutsche Meister der literarischen Reportage. Morgen wäre er 75 geworden. Bei Diogenes erscheint eine Neuausgabe seines Werks.",
       "publishDate": "2019-07-15T02:48:00.000Z",
       "authorIds": [],
-      "readingMinutes": 11
+      "readingMinutes": 11,
+      "internalLinkCount": 1,
+      "externalLinkCount": 2
     },
     {
       "id": "republik/article-vordergruendiger-migrationshintergrund",
@@ -3402,7 +4028,9 @@
       "authorIds": [
         "6e5d7522-8e67-4306-b416-79eb2f833b62"
       ],
-      "readingMinutes": 3
+      "readingMinutes": 3,
+      "internalLinkCount": 0,
+      "externalLinkCount": 1
     },
     {
       "id": "republik/article-westfernsehen",
@@ -3413,7 +4041,9 @@
       "authorIds": [
         "00051db6-0b8d-4808-9830-efbee0e4d2af"
       ],
-      "readingMinutes": 6
+      "readingMinutes": 6,
+      "internalLinkCount": 0,
+      "externalLinkCount": 18
     },
     {
       "id": "republik/article-schluss-mit-dreckigem-geld",
@@ -3422,7 +4052,9 @@
       "description": "Fragwürdige Sponsoren, schmutziges Geld – die Kunstwelt wird vom Big Business vereinnahmt. Jetzt entdecken Künstlerinnen den Widerstand neu. Und beissen die Hand, die sie füttert.",
       "publishDate": "2019-07-13T02:48:00.000Z",
       "authorIds": [],
-      "readingMinutes": 17
+      "readingMinutes": 17,
+      "internalLinkCount": 1,
+      "externalLinkCount": 5
     },
     {
       "id": "republik/article-chanzara-colombia",
@@ -3433,7 +4065,9 @@
       "authorIds": [
         "95643b75-6374-4fa4-b031-3ca06e380f12"
       ],
-      "readingMinutes": null
+      "readingMinutes": null,
+      "internalLinkCount": 0,
+      "externalLinkCount": 1
     },
     {
       "id": "republik/article-sexualstrafrecht",
@@ -3444,7 +4078,9 @@
       "authorIds": [
         "02852b61-aa45-4dab-8d23-a0c71d3e05f7"
       ],
-      "readingMinutes": 13
+      "readingMinutes": 13,
+      "internalLinkCount": 2,
+      "externalLinkCount": 4
     },
     {
       "id": "republik/article-wdwww-1207",
@@ -3456,7 +4092,9 @@
         "249b6225-43b4-4903-835c-0e826b8f377d",
         "dd782b8d-4eae-4a05-80d8-494760d2d58a"
       ],
-      "readingMinutes": 8
+      "readingMinutes": 8,
+      "internalLinkCount": 1,
+      "externalLinkCount": 24
     },
     {
       "id": "republik/article-barnes",
@@ -3467,7 +4105,9 @@
       "authorIds": [
         "7e56f78b-b883-40e6-9dc3-e118a3d7ca2e"
       ],
-      "readingMinutes": 7
+      "readingMinutes": 7,
+      "internalLinkCount": 1,
+      "externalLinkCount": 5
     },
     {
       "id": "republik/article-eth-bericht-fiko",
@@ -3478,7 +4118,9 @@
       "authorIds": [
         "a563fa2c-9651-4360-bcb9-98c3d5b5d123"
       ],
-      "readingMinutes": 4
+      "readingMinutes": 4,
+      "internalLinkCount": 1,
+      "externalLinkCount": 2
     },
     {
       "id": "republik/article-cilmate-cities",
@@ -3490,7 +4132,9 @@
         "eca9ee2c-4678-4f63-8564-651293df2b97",
         "65b64225-3843-4e41-a7a6-716ae81a5d57"
       ],
-      "readingMinutes": 7
+      "readingMinutes": 7,
+      "internalLinkCount": 1,
+      "externalLinkCount": 11
     },
     {
       "id": "republik/article-schwab-fuer-die-schule",
@@ -3499,7 +4143,9 @@
       "description": "Der Gründer des World Economic Forums kämpft gegen kapitalistische Ausbeutung – durch die Gastgeber­gemeinde Davos.",
       "publishDate": "2019-07-11T02:48:00.000Z",
       "authorIds": [],
-      "readingMinutes": 4
+      "readingMinutes": 4,
+      "internalLinkCount": 0,
+      "externalLinkCount": 5
     },
     {
       "id": "republik/article-richtungsentscheide-im-pool",
@@ -3510,7 +4156,9 @@
       "authorIds": [
         "6e5d7522-8e67-4306-b416-79eb2f833b62"
       ],
-      "readingMinutes": 2
+      "readingMinutes": 2,
+      "internalLinkCount": 0,
+      "externalLinkCount": 0
     },
     {
       "id": "republik/article-der-freundliche-menschenhaendler",
@@ -3521,7 +4169,9 @@
       "authorIds": [
         "02852b61-aa45-4dab-8d23-a0c71d3e05f7"
       ],
-      "readingMinutes": 6
+      "readingMinutes": 6,
+      "internalLinkCount": 1,
+      "externalLinkCount": 6
     },
     {
       "id": "republik/article-parmelin",
@@ -3532,7 +4182,9 @@
       "authorIds": [
         "892d9d52-404a-4a0a-97e4-b8ca6efbc90a"
       ],
-      "readingMinutes": 9
+      "readingMinutes": 9,
+      "internalLinkCount": 2,
+      "externalLinkCount": 10
     },
     {
       "id": "republik/article-avignon",
@@ -3541,7 +4193,9 @@
       "description": "Das weltberühmte Theaterfestival in Südfrankreich ist unter der Direktion von Olivier Py, dem grossen Mystiker, Erotiker und Regisseur, ein wenig verstaubt. Findet es neuen Atem?",
       "publishDate": "2019-07-10T02:46:00.000Z",
       "authorIds": [],
-      "readingMinutes": 7
+      "readingMinutes": 7,
+      "internalLinkCount": 2,
+      "externalLinkCount": 4
     },
     {
       "id": "republik/article-zeugen-jehovas",
@@ -3552,7 +4206,9 @@
       "authorIds": [
         "1bdea72a-52d7-4bee-b84e-bdeb80cf1d88"
       ],
-      "readingMinutes": 3
+      "readingMinutes": 3,
+      "internalLinkCount": 0,
+      "externalLinkCount": 2
     },
     {
       "id": "republik/article-homestory-6-wallis-freysinger-und-taeglich-gruesst-das-murmeltier",
@@ -3564,7 +4220,9 @@
         "ce59bb9f-a491-4928-9e0c-3ca97a8f4f8d",
         "e84af7cc-9b7b-48bb-a4d8-f057173de9ac"
       ],
-      "readingMinutes": 6
+      "readingMinutes": 6,
+      "internalLinkCount": 1,
+      "externalLinkCount": 0
     },
     {
       "id": "republik/article-das-gefuehl-der-identitaet",
@@ -3575,7 +4233,9 @@
       "authorIds": [
         "008d591a-810e-4603-8260-7a9a530b9096"
       ],
-      "readingMinutes": 5
+      "readingMinutes": 5,
+      "internalLinkCount": 2,
+      "externalLinkCount": 4
     },
     {
       "id": "republik/article-theorie-des-nonsens",
@@ -3586,7 +4246,9 @@
       "authorIds": [
         "eca9ee2c-4678-4f63-8564-651293df2b97"
       ],
-      "readingMinutes": 11
+      "readingMinutes": 11,
+      "internalLinkCount": 0,
+      "externalLinkCount": 24
     },
     {
       "id": "republik/article-us-wipo-teil-3",
@@ -3597,7 +4259,9 @@
       "authorIds": [
         "2462e9aa-2bb6-419c-8b06-20a428a4480d"
       ],
-      "readingMinutes": 10
+      "readingMinutes": 10,
+      "internalLinkCount": 0,
+      "externalLinkCount": 10
     },
     {
       "id": "republik/article-der-zauberer",
@@ -3606,7 +4270,9 @@
       "description": "Das Kunstmuseum Basel zeigt eine Werkschau des südafrikanischen Zeichners, Filmemachers, Regisseurs und Schauspielers William Kentridge – ein faszinierender Kosmos sinnlich-politischer Kunst.",
       "publishDate": "2019-07-08T02:46:00.000Z",
       "authorIds": [],
-      "readingMinutes": 7
+      "readingMinutes": 7,
+      "internalLinkCount": 1,
+      "externalLinkCount": 2
     },
     {
       "id": "republik/article-krieg-im-kopf",
@@ -3615,7 +4281,9 @@
       "description": "Seit dem Mord am CDU-Politiker Walter Lübcke wird über eine neue Qualität des rechtsextremistischen Terrors gesprochen. Doch dieser hat in Deutschland eine lange, allzu oft verdrängte Geschichte.",
       "publishDate": "2019-07-06T02:50:00.000Z",
       "authorIds": [],
-      "readingMinutes": 14
+      "readingMinutes": 14,
+      "internalLinkCount": 1,
+      "externalLinkCount": 8
     },
     {
       "id": "republik/article-fuer-uns-das-recht-fuer-fluechtlinge-das-lager",
@@ -3626,7 +4294,9 @@
       "authorIds": [
         "00051db6-0b8d-4808-9830-efbee0e4d2af"
       ],
-      "readingMinutes": 6
+      "readingMinutes": 6,
+      "internalLinkCount": 2,
+      "externalLinkCount": 6
     },
     {
       "id": "republik/article-dschibuti-dschibuti",
@@ -3637,7 +4307,9 @@
       "authorIds": [
         "95643b75-6374-4fa4-b031-3ca06e380f12"
       ],
-      "readingMinutes": null
+      "readingMinutes": null,
+      "internalLinkCount": 0,
+      "externalLinkCount": 1
     },
     {
       "id": "republik/article-parteispenden",
@@ -3648,7 +4320,9 @@
       "authorIds": [
         "5b6da6a6-c9fa-4ebb-a020-8dc85258310e"
       ],
-      "readingMinutes": 23
+      "readingMinutes": 23,
+      "internalLinkCount": 1,
+      "externalLinkCount": 34
     },
     {
       "id": "republik/article-wdwwww-0507",
@@ -3662,7 +4336,9 @@
         "7e37f53d-c093-48bc-971e-0ec61a3bdcf0",
         "eca9ee2c-4678-4f63-8564-651293df2b97"
       ],
-      "readingMinutes": 8
+      "readingMinutes": 8,
+      "internalLinkCount": 0,
+      "externalLinkCount": 28
     },
     {
       "id": "republik/article-das-raetsel-dag-solstad",
@@ -3671,7 +4347,9 @@
       "description": "Der Norweger gehört zu den schrulligsten Autoren der Gegenwart. Und gilt in seiner Heimat mit als der wichtigste. Warum ist Dag Solstad hierzulande noch immer ein Geheimtipp?",
       "publishDate": "2019-07-05T02:46:00.000Z",
       "authorIds": [],
-      "readingMinutes": 8
+      "readingMinutes": 8,
+      "internalLinkCount": 1,
+      "externalLinkCount": 8
     },
     {
       "id": "republik/article-nordmazedonien-pride",
@@ -3680,7 +4358,9 @@
       "description": "Vor drei Jahren schmissen sie Farbbeutel, um die autoritäre Regierung in Nordmazedonien zu stürzen. Heute schwenken Aktivistinnen an der Pride in Skopje die Regenbogen­flagge und fordern Respekt und Gleichstellung.",
       "publishDate": "2019-07-04T02:50:00.000Z",
       "authorIds": [],
-      "readingMinutes": 15
+      "readingMinutes": 15,
+      "internalLinkCount": 1,
+      "externalLinkCount": 4
     },
     {
       "id": "republik/article-briefing-64",
@@ -3692,7 +4372,9 @@
         "e8b718fb-e3fe-4960-85e9-f6a0e594ca33",
         "7b0d6a74-f57b-4498-8eb7-455936672736"
       ],
-      "readingMinutes": 10
+      "readingMinutes": 10,
+      "internalLinkCount": 1,
+      "externalLinkCount": 15
     },
     {
       "id": "republik/article-holy-hipster",
@@ -3701,7 +4383,9 @@
       "description": "Menschen, die fröhlich ihrer Leidenschaft nachgehen und sich dabei nicht um Peinlichkeit scheren, verdienen einen Preis. ",
       "publishDate": "2019-07-04T02:46:00.000Z",
       "authorIds": [],
-      "readingMinutes": 1
+      "readingMinutes": 1,
+      "internalLinkCount": 0,
+      "externalLinkCount": 4
     },
     {
       "id": "republik/article-homestory-5-bern-tanja-blume-et-highway-to-the-danger-zone",
@@ -3713,7 +4397,9 @@
         "ce59bb9f-a491-4928-9e0c-3ca97a8f4f8d",
         "e84af7cc-9b7b-48bb-a4d8-f057173de9ac"
       ],
-      "readingMinutes": 7
+      "readingMinutes": 7,
+      "internalLinkCount": 1,
+      "externalLinkCount": 0
     },
     {
       "id": "republik/article-tagi",
@@ -3725,7 +4411,9 @@
         "00051db6-0b8d-4808-9830-efbee0e4d2af",
         "a563fa2c-9651-4360-bcb9-98c3d5b5d123"
       ],
-      "readingMinutes": 6
+      "readingMinutes": 6,
+      "internalLinkCount": 1,
+      "externalLinkCount": 3
     },
     {
       "id": "republik/article-kuhstreit",
@@ -3736,7 +4424,9 @@
       "authorIds": [
         "461daa4e-c4db-415f-b5e1-ea2315b49b59"
       ],
-      "readingMinutes": 6
+      "readingMinutes": 6,
+      "internalLinkCount": 0,
+      "externalLinkCount": 2
     },
     {
       "id": "republik/article-kommentar-avanzini-urteil",
@@ -3747,7 +4437,9 @@
       "authorIds": [
         "1bdea72a-52d7-4bee-b84e-bdeb80cf1d88"
       ],
-      "readingMinutes": 4
+      "readingMinutes": 4,
+      "internalLinkCount": 2,
+      "externalLinkCount": 3
     },
     {
       "id": "republik/article-google-greift",
@@ -3758,7 +4450,9 @@
       "authorIds": [
         "6ae2733e-1562-47b3-881c-88e9d3d28da9"
       ],
-      "readingMinutes": 10
+      "readingMinutes": 10,
+      "internalLinkCount": 2,
+      "externalLinkCount": 18
     },
     {
       "id": "republik/article-us-wipo-teil-2",
@@ -3769,7 +4463,9 @@
       "authorIds": [
         "2462e9aa-2bb6-419c-8b06-20a428a4480d"
       ],
-      "readingMinutes": 11
+      "readingMinutes": 11,
+      "internalLinkCount": 1,
+      "externalLinkCount": 23
     },
     {
       "id": "republik/article-historische-knetmasse",
@@ -3778,7 +4474,9 @@
       "description": "In «They Shall Not Grow Old» zeigt Peter Jackson den Ersten Weltkrieg mit bearbeitetem Archiv­material als farben­frohes Breit­leinwand-Spektakel.",
       "publishDate": "2019-07-02T02:46:00.000Z",
       "authorIds": [],
-      "readingMinutes": 5
+      "readingMinutes": 5,
+      "internalLinkCount": 0,
+      "externalLinkCount": 1
     },
     {
       "id": "republik/article-alles-so-schoen-bunt-hier",
@@ -3789,7 +4487,9 @@
       "authorIds": [
         "7b0d6a74-f57b-4498-8eb7-455936672736"
       ],
-      "readingMinutes": 2
+      "readingMinutes": 2,
+      "internalLinkCount": 1,
+      "externalLinkCount": 2
     },
     {
       "id": "republik/article-eine-kleine-energiegeschichte",
@@ -3800,7 +4500,9 @@
       "authorIds": [
         "eca9ee2c-4678-4f63-8564-651293df2b97"
       ],
-      "readingMinutes": 7
+      "readingMinutes": 7,
+      "internalLinkCount": 0,
+      "externalLinkCount": 20
     },
     {
       "id": "republik/article-finde-den-schluessel-zur-vergangenheit",
@@ -3809,7 +4511,9 @@
       "description": "«Heaven’s Vault» ist ein aussergewöhnliches Adventure-Game. Und es weckt Begehrlichkeiten der Lern-App-Industrie. Denn es vermittelt, wie man eine Sprache lernt – obwohl es diese gar nicht gibt. ",
       "publishDate": "2019-07-01T02:48:00.000Z",
       "authorIds": [],
-      "readingMinutes": 6
+      "readingMinutes": 6,
+      "internalLinkCount": 1,
+      "externalLinkCount": 2
     },
     {
       "id": "republik/article-gebrauchsanweisung",
@@ -3818,7 +4522,9 @@
       "description": "Das Wichtigste in zehn Punkten.",
       "publishDate": "2021-04-19T02:48:00.000Z",
       "authorIds": [],
-      "readingMinutes": 7
+      "readingMinutes": 7,
+      "internalLinkCount": 0,
+      "externalLinkCount": 14
     },
     {
       "id": "republik/article-knonau-master",
@@ -3827,7 +4533,9 @@
       "description": "Menschen, die sich querstellen. Sich selber oder anderen schaden könnten, vielleicht sogar drohen. Wie umgehen damit? Als Gesellschaft? Behörde? Familie? Die fünfteilige Podcast-Serie «Zündstoff» begibt sich in einem brandaktuellen Fall auf die Suche nach Antworten.",
       "publishDate": "2020-04-20T02:48:00.000Z",
       "authorIds": [],
-      "readingMinutes": null
+      "readingMinutes": null,
+      "internalLinkCount": 0,
+      "externalLinkCount": 2
     },
     {
       "id": "republik/article-auftakt-strandgeschichten",
@@ -3839,7 +4547,9 @@
         "22627cd7-63ee-40c4-abb7-1a0b538adb75",
         "6e5d7522-8e67-4306-b416-79eb2f833b62"
       ],
-      "readingMinutes": 4
+      "readingMinutes": 4,
+      "internalLinkCount": 0,
+      "externalLinkCount": 1
     },
     {
       "id": "republik/article-testartikel-cr",
@@ -3851,7 +4561,9 @@
         "93d6839d-fe3e-491a-bbca-477585e776e4",
         "ae2dd456-9077-4f7c-9aa8-af910adf6a02"
       ],
-      "readingMinutes": 16
+      "readingMinutes": 16,
+      "internalLinkCount": 1,
+      "externalLinkCount": 34
     },
     {
       "id": "republik/article-homestory-8-brokeback-olten-somewhere-over-the-rainbow",
@@ -3863,7 +4575,9 @@
         "ce59bb9f-a491-4928-9e0c-3ca97a8f4f8d",
         "e84af7cc-9b7b-48bb-a4d8-f057173de9ac"
       ],
-      "readingMinutes": 10
+      "readingMinutes": 10,
+      "internalLinkCount": 0,
+      "externalLinkCount": 0
     },
     {
       "id": "republik/article-33-fragen-antworten-8-14",
@@ -3875,7 +4589,9 @@
         "e8b718fb-e3fe-4960-85e9-f6a0e594ca33",
         "7b0d6a74-f57b-4498-8eb7-455936672736"
       ],
-      "readingMinutes": 5
+      "readingMinutes": 5,
+      "internalLinkCount": 1,
+      "externalLinkCount": 5
     },
     {
       "id": "republik/article-bronfen-western",
@@ -3884,7 +4600,9 @@
       "description": "Western sind Männersache. Stimmt das? Nicht in der Serie «Godless». Hier verändert eine feministische Verteidigungs­aktion die Vorzeichen des klassischen Hollywood-Genres.",
       "publishDate": "2019-07-30T02:46:00.000Z",
       "authorIds": [],
-      "readingMinutes": 6
+      "readingMinutes": 6,
+      "internalLinkCount": 1,
+      "externalLinkCount": 1
     },
     {
       "id": "republik/article-30-fragen-wie-funktioniert-liberale-migrationspolitik",
@@ -3896,7 +4614,9 @@
         "e8b718fb-e3fe-4960-85e9-f6a0e594ca33",
         "7b0d6a74-f57b-4498-8eb7-455936672736"
       ],
-      "readingMinutes": 4
+      "readingMinutes": 4,
+      "internalLinkCount": 1,
+      "externalLinkCount": 1
     },
     {
       "id": "republik/article-italianita-war-damals-noch-ein-fremdwort",
@@ -3907,7 +4627,9 @@
       "authorIds": [
         "5f45d6a3-ff52-4e67-9925-92447f43d2e1"
       ],
-      "readingMinutes": 10
+      "readingMinutes": 10,
+      "internalLinkCount": 1,
+      "externalLinkCount": 11
     },
     {
       "id": "republik/article-ic",
@@ -3916,7 +4638,9 @@
       "description": "Aussenminister Ignazio Cassis befreit die Schweiz vom Käse-und Schokolade­image. Und leistet einen Beitrag zur Lösung des Migrations­problems. ",
       "publishDate": "2019-07-25T02:46:00.000Z",
       "authorIds": [],
-      "readingMinutes": 4
+      "readingMinutes": 4,
+      "internalLinkCount": 2,
+      "externalLinkCount": 6
     },
     {
       "id": "republik/article-das-letzte-pfand",
@@ -3928,7 +4652,9 @@
         "93d6839d-fe3e-491a-bbca-477585e776e4",
         "cdbfa09d-2b1e-402e-8943-30b4b1791139"
       ],
-      "readingMinutes": 11
+      "readingMinutes": 11,
+      "internalLinkCount": 2,
+      "externalLinkCount": 6
     },
     {
       "id": "republik/article-lehrstueck-ueber-strukturellen-rassismus",
@@ -3939,7 +4665,9 @@
       "authorIds": [
         "c641d9bf-9996-4b38-807b-8c1c1148943c"
       ],
-      "readingMinutes": 9
+      "readingMinutes": 9,
+      "internalLinkCount": 1,
+      "externalLinkCount": 16
     },
     {
       "id": "republik/article-kraft-deiner-imagination",
@@ -3948,7 +4676,9 @@
       "description": "Der Basler Künstler Christoph Büchel stellt auf der 58. Biennale von Venedig das Wrack eines gesunkenen Flüchtlingsschiffs aus. Ist das geschmacklos? Oder politische Kunst?",
       "publishDate": "2019-07-24T02:46:00.000Z",
       "authorIds": [],
-      "readingMinutes": 11
+      "readingMinutes": 11,
+      "internalLinkCount": 2,
+      "externalLinkCount": 2
     },
     {
       "id": "republik/article-bilderklau-oder-appropriation",
@@ -3957,7 +4687,9 @@
       "description": "In den Medien werden Urheberrechts­verletzungen scharf geahndet. In der Kunst nicht. Fragt sich, ob das richtig ist.",
       "publishDate": "2019-07-23T02:48:00.000Z",
       "authorIds": [],
-      "readingMinutes": 6
+      "readingMinutes": 6,
+      "internalLinkCount": 1,
+      "externalLinkCount": 10
     },
     {
       "id": "republik/article-l-espion-dans-la-salle-de-classe",
@@ -3968,7 +4700,9 @@
       "authorIds": [
         "6ae2733e-1562-47b3-881c-88e9d3d28da9"
       ],
-      "readingMinutes": 13
+      "readingMinutes": 13,
+      "internalLinkCount": 1,
+      "externalLinkCount": 16
     },
     {
       "id": "republik/article-wo-die-reichen-kerle-wohnen",
@@ -3977,7 +4711,9 @@
       "description": "Wenigverdiener auf dem Land, Wohlhabende in der Stadt? Ganz so einfach ist es nicht: drei Karten zur sozialen Schichtung der Schweiz.",
       "publishDate": "2019-07-22T02:50:00.000Z",
       "authorIds": [],
-      "readingMinutes": 7
+      "readingMinutes": 7,
+      "internalLinkCount": 1,
+      "externalLinkCount": 2
     },
     {
       "id": "republik/article-wdwww-19-07",
@@ -3989,7 +4725,9 @@
         "249b6225-43b4-4903-835c-0e826b8f377d",
         "dd782b8d-4eae-4a05-80d8-494760d2d58a"
       ],
-      "readingMinutes": 9
+      "readingMinutes": 9,
+      "internalLinkCount": 1,
+      "externalLinkCount": 27
     },
     {
       "id": "republik/article-homestory-7-bern-nik-gugger-et-al-a-prayer-before-dawn",
@@ -4001,7 +4739,9 @@
         "ce59bb9f-a491-4928-9e0c-3ca97a8f4f8d",
         "e84af7cc-9b7b-48bb-a4d8-f057173de9ac"
       ],
-      "readingMinutes": 6
+      "readingMinutes": 6,
+      "internalLinkCount": 1,
+      "externalLinkCount": 0
     },
     {
       "id": "republik/article-am-klavier-fuer-alina",
@@ -4012,7 +4752,9 @@
       "authorIds": [
         "abb4b5c7-cbf4-4659-81cc-e49baa821a4b"
       ],
-      "readingMinutes": null
+      "readingMinutes": null,
+      "internalLinkCount": 1,
+      "externalLinkCount": 2
     },
     {
       "id": "republik/article-europa-ist-der-sonderfall",
@@ -4021,7 +4763,9 @@
       "description": "Kulturelle Gräben, soziale Spannungen, wirtschaftliche Ungleichheit: Was die Europäische Union aus der Entstehungs­geschichte der Schweiz lernen kann.",
       "publishDate": "2019-07-16T02:50:00.000Z",
       "authorIds": [],
-      "readingMinutes": 10
+      "readingMinutes": 10,
+      "internalLinkCount": 1,
+      "externalLinkCount": 1
     },
     {
       "id": "republik/article-ich-bin-der-ich-nicht-bin",
@@ -4032,7 +4776,9 @@
       "authorIds": [
         "008d591a-810e-4603-8260-7a9a530b9096"
       ],
-      "readingMinutes": 6
+      "readingMinutes": 6,
+      "internalLinkCount": 2,
+      "externalLinkCount": 0
     },
     {
       "id": "republik/article-parlamentarierkarrieren",
@@ -4043,7 +4789,9 @@
       "authorIds": [
         "80229083-2b7c-4de8-a5c7-8ad79b1e80fc"
       ],
-      "readingMinutes": 11
+      "readingMinutes": 11,
+      "internalLinkCount": 1,
+      "externalLinkCount": 5
     },
     {
       "id": "republik/article-westfernsehen",
@@ -4054,7 +4802,9 @@
       "authorIds": [
         "00051db6-0b8d-4808-9830-efbee0e4d2af"
       ],
-      "readingMinutes": 6
+      "readingMinutes": 6,
+      "internalLinkCount": 0,
+      "externalLinkCount": 18
     },
     {
       "id": "republik/article-schluss-mit-dreckigem-geld",
@@ -4063,7 +4813,9 @@
       "description": "Fragwürdige Sponsoren, schmutziges Geld – die Kunstwelt wird vom Big Business vereinnahmt. Jetzt entdecken Künstlerinnen den Widerstand neu. Und beissen die Hand, die sie füttert.",
       "publishDate": "2019-07-13T02:48:00.000Z",
       "authorIds": [],
-      "readingMinutes": 17
+      "readingMinutes": 17,
+      "internalLinkCount": 1,
+      "externalLinkCount": 5
     },
     {
       "id": "republik/article-sexualstrafrecht",
@@ -4074,7 +4826,9 @@
       "authorIds": [
         "02852b61-aa45-4dab-8d23-a0c71d3e05f7"
       ],
-      "readingMinutes": 13
+      "readingMinutes": 13,
+      "internalLinkCount": 2,
+      "externalLinkCount": 4
     },
     {
       "id": "republik/article-barnes",
@@ -4085,7 +4839,9 @@
       "authorIds": [
         "7e56f78b-b883-40e6-9dc3-e118a3d7ca2e"
       ],
-      "readingMinutes": 7
+      "readingMinutes": 7,
+      "internalLinkCount": 1,
+      "externalLinkCount": 5
     },
     {
       "id": "republik/article-cilmate-cities",
@@ -4097,7 +4853,9 @@
         "eca9ee2c-4678-4f63-8564-651293df2b97",
         "65b64225-3843-4e41-a7a6-716ae81a5d57"
       ],
-      "readingMinutes": 7
+      "readingMinutes": 7,
+      "internalLinkCount": 1,
+      "externalLinkCount": 11
     },
     {
       "id": "republik/article-das-gefuehl-der-identitaet",
@@ -4108,7 +4866,9 @@
       "authorIds": [
         "008d591a-810e-4603-8260-7a9a530b9096"
       ],
-      "readingMinutes": 5
+      "readingMinutes": 5,
+      "internalLinkCount": 2,
+      "externalLinkCount": 4
     },
     {
       "id": "republik/article-theorie-des-nonsens",
@@ -4119,7 +4879,9 @@
       "authorIds": [
         "eca9ee2c-4678-4f63-8564-651293df2b97"
       ],
-      "readingMinutes": 11
+      "readingMinutes": 11,
+      "internalLinkCount": 0,
+      "externalLinkCount": 24
     },
     {
       "id": "republik/article-der-zauberer",
@@ -4128,7 +4890,9 @@
       "description": "Das Kunstmuseum Basel zeigt eine Werkschau des südafrikanischen Zeichners, Filmemachers, Regisseurs und Schauspielers William Kentridge – ein faszinierender Kosmos sinnlich-politischer Kunst.",
       "publishDate": "2019-07-08T02:46:00.000Z",
       "authorIds": [],
-      "readingMinutes": 7
+      "readingMinutes": 7,
+      "internalLinkCount": 1,
+      "externalLinkCount": 2
     },
     {
       "id": "republik/article-parteispenden",
@@ -4139,7 +4903,9 @@
       "authorIds": [
         "5b6da6a6-c9fa-4ebb-a020-8dc85258310e"
       ],
-      "readingMinutes": 23
+      "readingMinutes": 23,
+      "internalLinkCount": 1,
+      "externalLinkCount": 34
     },
     {
       "id": "republik/article-das-raetsel-dag-solstad",
@@ -4148,7 +4914,9 @@
       "description": "Der Norweger gehört zu den schrulligsten Autoren der Gegenwart. Und gilt in seiner Heimat mit als der wichtigste. Warum ist Dag Solstad hierzulande noch immer ein Geheimtipp?",
       "publishDate": "2019-07-05T02:46:00.000Z",
       "authorIds": [],
-      "readingMinutes": 8
+      "readingMinutes": 8,
+      "internalLinkCount": 1,
+      "externalLinkCount": 8
     },
     {
       "id": "republik/article-google-greift",
@@ -4159,7 +4927,9 @@
       "authorIds": [
         "6ae2733e-1562-47b3-881c-88e9d3d28da9"
       ],
-      "readingMinutes": 10
+      "readingMinutes": 10,
+      "internalLinkCount": 2,
+      "externalLinkCount": 18
     },
     {
       "id": "republik/article-alles-so-schoen-bunt-hier",
@@ -4170,7 +4940,9 @@
       "authorIds": [
         "7b0d6a74-f57b-4498-8eb7-455936672736"
       ],
-      "readingMinutes": 2
+      "readingMinutes": 2,
+      "internalLinkCount": 1,
+      "externalLinkCount": 2
     },
     {
       "id": "republik/article-eine-kleine-energiegeschichte",
@@ -4181,7 +4953,9 @@
       "authorIds": [
         "eca9ee2c-4678-4f63-8564-651293df2b97"
       ],
-      "readingMinutes": 7
+      "readingMinutes": 7,
+      "internalLinkCount": 0,
+      "externalLinkCount": 20
     },
     {
       "id": "republik/article-kosmos",
@@ -4193,7 +4967,9 @@
         "00051db6-0b8d-4808-9830-efbee0e4d2af",
         "a563fa2c-9651-4360-bcb9-98c3d5b5d123"
       ],
-      "readingMinutes": 23
+      "readingMinutes": 23,
+      "internalLinkCount": 0,
+      "externalLinkCount": 4
     },
     {
       "id": "republik/article-der-hitzesommer-waehlt-mit",
@@ -4204,7 +4980,9 @@
       "authorIds": [
         "00051db6-0b8d-4808-9830-efbee0e4d2af"
       ],
-      "readingMinutes": 4
+      "readingMinutes": 4,
+      "internalLinkCount": 1,
+      "externalLinkCount": 4
     },
     {
       "id": "republik/article-die-vier-gangarten-von-lechts-nach-rinck",
@@ -4215,7 +4993,9 @@
       "authorIds": [
         "186e0a00-3ab5-4246-87a5-6bc44d6fca95"
       ],
-      "readingMinutes": 8
+      "readingMinutes": 8,
+      "internalLinkCount": 2,
+      "externalLinkCount": 13
     },
     {
       "id": "republik/article-avanzini",
@@ -4226,7 +5006,9 @@
       "authorIds": [
         "1bdea72a-52d7-4bee-b84e-bdeb80cf1d88"
       ],
-      "readingMinutes": 2
+      "readingMinutes": 2,
+      "internalLinkCount": 1,
+      "externalLinkCount": 2
     },
     {
       "id": "republik/article-man-wird-immer-schuldig-wenn-man-sich-erinnert",
@@ -4237,7 +5019,9 @@
       "authorIds": [
         "7e56f78b-b883-40e6-9dc3-e118a3d7ca2e"
       ],
-      "readingMinutes": 13
+      "readingMinutes": 13,
+      "internalLinkCount": 2,
+      "externalLinkCount": 4
     },
     {
       "id": "republik/article-die-einsamste-volkskrankheit",
@@ -4246,7 +5030,9 @@
       "description": "Psychische Krankheiten sind so verbreitet wie die Grippe: Sie reissen grosse Löcher in Biografien. Und in die Volkswirtschaft. Was tun? Teil 1 von 2.",
       "publishDate": "2019-06-24T02:50:00.000Z",
       "authorIds": [],
-      "readingMinutes": 15
+      "readingMinutes": 15,
+      "internalLinkCount": 1,
+      "externalLinkCount": 28
     },
     {
       "id": "republik/article-am-klavier-erinnerung",
@@ -4257,7 +5043,9 @@
       "authorIds": [
         "abb4b5c7-cbf4-4659-81cc-e49baa821a4b"
       ],
-      "readingMinutes": null
+      "readingMinutes": null,
+      "internalLinkCount": 1,
+      "externalLinkCount": 3
     },
     {
       "id": "republik/article-maginot-linie-der-mauschelei",
@@ -4268,7 +5056,9 @@
       "authorIds": [
         "00051db6-0b8d-4808-9830-efbee0e4d2af"
       ],
-      "readingMinutes": 5
+      "readingMinutes": 5,
+      "internalLinkCount": 1,
+      "externalLinkCount": 5
     },
     {
       "id": "republik/article-margarete-die-grosse",
@@ -4279,7 +5069,9 @@
       "authorIds": [
         "6ae2733e-1562-47b3-881c-88e9d3d28da9"
       ],
-      "readingMinutes": 13
+      "readingMinutes": 13,
+      "internalLinkCount": 2,
+      "externalLinkCount": 50
     },
     {
       "id": "republik/article-die-sache-mit-photo-51",
@@ -4288,7 +5080,9 @@
       "description": "Wie die Fotografie die wissenschaftliche Wahrnehmung der Welt veränderte. Und welche Rolle Fotografinnen und Wissenschaftlerinnen dabei spielten.",
       "publishDate": "2019-06-18T02:46:00.000Z",
       "authorIds": [],
-      "readingMinutes": 6
+      "readingMinutes": 6,
+      "internalLinkCount": 1,
+      "externalLinkCount": 9
     },
     {
       "id": "republik/article-kantone-stimmverhalten",
@@ -4299,7 +5093,9 @@
       "authorIds": [
         "80229083-2b7c-4de8-a5c7-8ad79b1e80fc"
       ],
-      "readingMinutes": 11
+      "readingMinutes": 11,
+      "internalLinkCount": 0,
+      "externalLinkCount": 22
     },
     {
       "id": "republik/article-medienfrauen",
@@ -4311,7 +5107,9 @@
         "93d6839d-fe3e-491a-bbca-477585e776e4",
         "b86f9625-96b8-4886-b6b9-baf4fb657939"
       ],
-      "readingMinutes": 11
+      "readingMinutes": 11,
+      "internalLinkCount": 0,
+      "externalLinkCount": 12
     },
     {
       "id": "republik/article-wdwww-1406",
@@ -4324,7 +5122,9 @@
         "93d6839d-fe3e-491a-bbca-477585e776e4",
         "7e37f53d-c093-48bc-971e-0ec61a3bdcf0"
       ],
-      "readingMinutes": 10
+      "readingMinutes": 10,
+      "internalLinkCount": 0,
+      "externalLinkCount": 30
     },
     {
       "id": "republik/article-homestory-2-liestal-road-to-success",
@@ -4336,7 +5136,9 @@
         "ce59bb9f-a491-4928-9e0c-3ca97a8f4f8d",
         "e84af7cc-9b7b-48bb-a4d8-f057173de9ac"
       ],
-      "readingMinutes": 7
+      "readingMinutes": 7,
+      "internalLinkCount": 1,
+      "externalLinkCount": 0
     },
     {
       "id": "republik/article-schweikert-berg",
@@ -4347,7 +5149,9 @@
       "authorIds": [
         "5f45d6a3-ff52-4e67-9925-92447f43d2e1"
       ],
-      "readingMinutes": 2
+      "readingMinutes": 2,
+      "internalLinkCount": 0,
+      "externalLinkCount": 5
     },
     {
       "id": "republik/article-interview-mit-judith-stamm",
@@ -4359,7 +5163,9 @@
         "e8b718fb-e3fe-4960-85e9-f6a0e594ca33",
         "ae2dd456-9077-4f7c-9aa8-af910adf6a02"
       ],
-      "readingMinutes": 16
+      "readingMinutes": 16,
+      "internalLinkCount": 0,
+      "externalLinkCount": 0
     },
     {
       "id": "republik/article-tagebuch-wf",
@@ -4370,7 +5176,9 @@
       "authorIds": [
         "5f45d6a3-ff52-4e67-9925-92447f43d2e1"
       ],
-      "readingMinutes": 15
+      "readingMinutes": 15,
+      "internalLinkCount": 2,
+      "externalLinkCount": 6
     },
     {
       "id": "republik/article-greta-interview",
@@ -4379,7 +5187,9 @@
       "description": "Klimaaktivistin Greta Thunberg über die drohende Heisszeit, den Kippmoment ihrer Protestbewegung, unfähige Medien und ihre Enttäuschung über die Politik – auch die der Grünen.",
       "publishDate": "2019-06-07T02:50:00.000Z",
       "authorIds": [],
-      "readingMinutes": 9
+      "readingMinutes": 9,
+      "internalLinkCount": 2,
+      "externalLinkCount": 12
     },
     {
       "id": "republik/article-wahnsinn-wahlkampf",
@@ -4390,7 +5200,9 @@
       "authorIds": [
         "ce59bb9f-a491-4928-9e0c-3ca97a8f4f8d"
       ],
-      "readingMinutes": 2
+      "readingMinutes": 2,
+      "internalLinkCount": 0,
+      "externalLinkCount": 0
     },
     {
       "id": "republik/article-homestory-1-naefels",
@@ -4402,7 +5214,9 @@
         "ce59bb9f-a491-4928-9e0c-3ca97a8f4f8d",
         "e84af7cc-9b7b-48bb-a4d8-f057173de9ac"
       ],
-      "readingMinutes": 8
+      "readingMinutes": 8,
+      "internalLinkCount": 1,
+      "externalLinkCount": 0
     },
     {
       "id": "republik/article-schauspielhaus",
@@ -4411,7 +5225,9 @@
       "description": "Benjamin von Blomberg und Nicolas Stemann übernehmen die Intendanz des Zürcher Schauspielhauses. Gelingt ihnen, was deutsche Häuser bisher nicht richtig schafften: eine radikale Reform der Idee des Stadttheaters?",
       "publishDate": "2019-06-05T11:27:03.586Z",
       "authorIds": [],
-      "readingMinutes": 24
+      "readingMinutes": 24,
+      "internalLinkCount": 2,
+      "externalLinkCount": 13
     },
     {
       "id": "republik/article-knast-direktoren-interview",
@@ -4423,7 +5239,9 @@
         "93d6839d-fe3e-491a-bbca-477585e776e4",
         "02852b61-aa45-4dab-8d23-a0c71d3e05f7"
       ],
-      "readingMinutes": 19
+      "readingMinutes": 19,
+      "internalLinkCount": 1,
+      "externalLinkCount": 3
     },
     {
       "id": "republik/article-nabucco-1",
@@ -4434,7 +5252,9 @@
       "authorIds": [
         "6e5d7522-8e67-4306-b416-79eb2f833b62"
       ],
-      "readingMinutes": 5
+      "readingMinutes": 5,
+      "internalLinkCount": 0,
+      "externalLinkCount": 0
     },
     {
       "id": "republik/article-ein-120-000-jahre-rekord",
@@ -4445,7 +5265,9 @@
       "authorIds": [
         "5d99ec6e-cb7d-4b27-8bf9-375b61e7ea7e"
       ],
-      "readingMinutes": 10
+      "readingMinutes": 10,
+      "internalLinkCount": 1,
+      "externalLinkCount": 33
     },
     {
       "id": "republik/article-fotobuch-volksmusik",
@@ -4456,7 +5278,9 @@
       "authorIds": [
         "2f12dfba-2b83-443b-87e1-6bc6d436408e"
       ],
-      "readingMinutes": 3
+      "readingMinutes": 3,
+      "internalLinkCount": 1,
+      "externalLinkCount": 2
     },
     {
       "id": "republik/article-klima-schlaegt-europa",
@@ -4467,7 +5291,9 @@
       "authorIds": [
         "00051db6-0b8d-4808-9830-efbee0e4d2af"
       ],
-      "readingMinutes": 6
+      "readingMinutes": 6,
+      "internalLinkCount": 0,
+      "externalLinkCount": 1
     },
     {
       "id": "republik/article-viermal-mexiko",
@@ -4476,7 +5302,9 @@
       "description": "Armut, Zerfall, Gewalt: Vier mexikanische Autorinnen halten Ihrem Land schonungslos den Spiegel vor. Das rüttelt auf – aber überzeugt es auch literarisch?",
       "publishDate": "2019-06-01T02:46:00.000Z",
       "authorIds": [],
-      "readingMinutes": 9
+      "readingMinutes": 9,
+      "internalLinkCount": 2,
+      "externalLinkCount": 8
     },
     {
       "id": "republik/article-gruene-in-europa",
@@ -4490,7 +5318,9 @@
         "00051db6-0b8d-4808-9830-efbee0e4d2af",
         "249b6225-43b4-4903-835c-0e826b8f377d"
       ],
-      "readingMinutes": 10
+      "readingMinutes": 10,
+      "internalLinkCount": 0,
+      "externalLinkCount": 19
     },
     {
       "id": "republik/article-govinda-an-ihrer-seite",
@@ -4501,7 +5331,9 @@
       "authorIds": [
         "644b06b9-8099-43ce-baaf-e870bd0785ae"
       ],
-      "readingMinutes": 8
+      "readingMinutes": 8,
+      "internalLinkCount": 1,
+      "externalLinkCount": 4
     },
     {
       "id": "republik/article-oe",
@@ -4512,7 +5344,9 @@
       "authorIds": [
         "3b1cee6c-cc48-431a-ade7-60f739c66298"
       ],
-      "readingMinutes": 12
+      "readingMinutes": 12,
+      "internalLinkCount": 2,
+      "externalLinkCount": 11
     },
     {
       "id": "republik/article-geht-ein-schweizer-nach-ibiza-wip",
@@ -4525,7 +5359,9 @@
         "a563fa2c-9651-4360-bcb9-98c3d5b5d123",
         "6e5d7522-8e67-4306-b416-79eb2f833b62"
       ],
-      "readingMinutes": 7
+      "readingMinutes": 7,
+      "internalLinkCount": 1,
+      "externalLinkCount": 3
     },
     {
       "id": "republik/article-staenderatswahlen",
@@ -4536,7 +5372,9 @@
       "authorIds": [
         "80229083-2b7c-4de8-a5c7-8ad79b1e80fc"
       ],
-      "readingMinutes": 11
+      "readingMinutes": 11,
+      "internalLinkCount": 0,
+      "externalLinkCount": 3
     },
     {
       "id": "republik/article-der-herzschlag-der-peripherie",
@@ -4545,7 +5383,9 @@
       "description": "Die Kunstwelt ist eine abgeschirmte Blase. Um sie zu öffnen, starteten die Wiener Festwochen heuer im 22. Gemeinde­bezirk Donaustadt mit seiner jungen und schnell wachsenden Bevölkerung. Ein Experiment mit gemischtem Erfolg.",
       "publishDate": "2019-05-15T02:44:00.000Z",
       "authorIds": [],
-      "readingMinutes": 8
+      "readingMinutes": 8,
+      "internalLinkCount": 1,
+      "externalLinkCount": 6
     },
     {
       "id": "republik/article-irgendein-titel",
@@ -4556,7 +5396,9 @@
       "authorIds": [
         "d2ab7a77-d086-45c7-b6ab-71e4c14848d7"
       ],
-      "readingMinutes": 8
+      "readingMinutes": 8,
+      "internalLinkCount": 1,
+      "externalLinkCount": 11
     },
     {
       "id": "republik/article-afrika-erfindet-sich-seine-zukunft",
@@ -4567,7 +5409,9 @@
       "authorIds": [
         "7e56f78b-b883-40e6-9dc3-e118a3d7ca2e"
       ],
-      "readingMinutes": 7
+      "readingMinutes": 7,
+      "internalLinkCount": 1,
+      "externalLinkCount": 11
     },
     {
       "id": "republik/article-wird-bolivien-das-naechste-venezuela",
@@ -4576,7 +5420,9 @@
       "description": "Präsident Evo Morales hat einen guten Ruf – im Ausland. Längst ist er dabei, Bolivien zur Autokratie umzubauen.",
       "publishDate": "2019-05-11T02:48:00.000Z",
       "authorIds": [],
-      "readingMinutes": 15
+      "readingMinutes": 15,
+      "internalLinkCount": 2,
+      "externalLinkCount": 2
     },
     {
       "id": "republik/article-kleiner",
@@ -4587,7 +5433,9 @@
       "authorIds": [
         "7b0d6a74-f57b-4498-8eb7-455936672736"
       ],
-      "readingMinutes": 14
+      "readingMinutes": 14,
+      "internalLinkCount": 1,
+      "externalLinkCount": 2
     },
     {
       "id": "republik/article-qualkampf",
@@ -4596,7 +5444,9 @@
       "description": "Wie treten Politikerinnen bei der Europawahl auf, einer Wahl, die gar nicht stattfinden sollte? Grossbritannien verwandelt die Demokratie in Realsatire.",
       "publishDate": "2019-05-09T02:50:00.000Z",
       "authorIds": [],
-      "readingMinutes": 13
+      "readingMinutes": 13,
+      "internalLinkCount": 1,
+      "externalLinkCount": 23
     },
     {
       "id": "republik/article-wir-sprechen-ueber-neue-buecher",
@@ -4607,7 +5457,9 @@
       "authorIds": [
         "5f45d6a3-ff52-4e67-9925-92447f43d2e1"
       ],
-      "readingMinutes": 2
+      "readingMinutes": 2,
+      "internalLinkCount": 0,
+      "externalLinkCount": 3
     },
     {
       "id": "republik/article-gender-heroes",
@@ -4616,7 +5468,9 @@
       "description": "Am kommenden Wochenende wird die 58. Kunstbiennale in Venedig eröffnet. Pauline Boudry und Renate Lorenz vertreten die Schweiz. Das Künstlerinnenduo war soeben in Berlin eindrucksvoll zu erleben. Ein Blick zurück voraus. ",
       "publishDate": "2019-05-06T02:48:00.000Z",
       "authorIds": [],
-      "readingMinutes": 9
+      "readingMinutes": 9,
+      "internalLinkCount": 1,
+      "externalLinkCount": 15
     },
     {
       "id": "republik/article-rettet-den-kapitalismus",
@@ -4627,7 +5481,9 @@
       "authorIds": [
         "00051db6-0b8d-4808-9830-efbee0e4d2af"
       ],
-      "readingMinutes": 6
+      "readingMinutes": 6,
+      "internalLinkCount": 1,
+      "externalLinkCount": 1
     },
     {
       "id": "republik/article-warum-die-tech-branche-nach-mehr-europa-schreit",
@@ -4638,7 +5494,9 @@
       "authorIds": [
         "6ae2733e-1562-47b3-881c-88e9d3d28da9"
       ],
-      "readingMinutes": 13
+      "readingMinutes": 13,
+      "internalLinkCount": 2,
+      "externalLinkCount": 47
     },
     {
       "id": "republik/article-fern-von-datong-waer-kein-ausweg",
@@ -4647,7 +5505,9 @@
       "description": "«Ash Is Purest White»: Niemand fasst den Wandel des Lebens in China in so fiebrig-erratische Bilder wie Regisseur Jia Zhangke. Sein neuster Film beeindruckt auch durch seine Hauptdarstellerin.",
       "publishDate": "2019-05-03T02:48:00.000Z",
       "authorIds": [],
-      "readingMinutes": 6
+      "readingMinutes": 6,
+      "internalLinkCount": 2,
+      "externalLinkCount": 5
     },
     {
       "id": "republik/article-staf-ahv",
@@ -4658,7 +5518,9 @@
       "authorIds": [
         "7b0d6a74-f57b-4498-8eb7-455936672736"
       ],
-      "readingMinutes": 8
+      "readingMinutes": 8,
+      "internalLinkCount": 2,
+      "externalLinkCount": 7
     },
     {
       "id": "republik/article-hater-an-der-macht",
@@ -4667,7 +5529,9 @@
       "description": "Italiens Populisten nutzen die sozialen Netzwerke wie niemand sonst in Europa. Bei den EU-Wahlen am 26. Mai droht ein drastischer Rechtsruck.",
       "publishDate": "2019-04-27T02:48:00.000Z",
       "authorIds": [],
-      "readingMinutes": 16
+      "readingMinutes": 16,
+      "internalLinkCount": 2,
+      "externalLinkCount": 4
     },
     {
       "id": "republik/article-europa-ein-ganz-neues-spiel",
@@ -4678,7 +5542,9 @@
       "authorIds": [
         "892d9d52-404a-4a0a-97e4-b8ca6efbc90a"
       ],
-      "readingMinutes": 11
+      "readingMinutes": 11,
+      "internalLinkCount": 2,
+      "externalLinkCount": 12
     },
     {
       "id": "republik/article-ungleichheit-2",
@@ -4689,7 +5555,9 @@
       "authorIds": [
         "f54a386e-c154-44e6-8d9d-9fbe4b711ae3"
       ],
-      "readingMinutes": 11
+      "readingMinutes": 11,
+      "internalLinkCount": 1,
+      "externalLinkCount": 0
     },
     {
       "id": "republik/article-art-brut",
@@ -4698,7 +5566,9 @@
       "description": "Endlich: Eine Ausstellung zeigt erstmals umfassend die weibliche Seite der Art brut – jener Kunst, die zum Grossteil in psychiatrischen Anstalten entstanden ist. Sogar in dieser Aussenseiterdisziplin hatten Frauen eine Aussenseiterrolle. ",
       "publishDate": "2019-04-12T02:48:00.000Z",
       "authorIds": [],
-      "readingMinutes": 7
+      "readingMinutes": 7,
+      "internalLinkCount": 2,
+      "externalLinkCount": 2
     },
     {
       "id": "republik/article-martullo",
@@ -4709,7 +5579,9 @@
       "authorIds": [
         "7b0d6a74-f57b-4498-8eb7-455936672736"
       ],
-      "readingMinutes": 11
+      "readingMinutes": 11,
+      "internalLinkCount": 2,
+      "externalLinkCount": 11
     },
     {
       "id": "republik/article-wut-ist-durchaus-ein-motor",
@@ -4720,7 +5592,9 @@
       "authorIds": [
         "b1703272-8473-47ea-bff6-645efc888200"
       ],
-      "readingMinutes": 10
+      "readingMinutes": 10,
+      "internalLinkCount": 2,
+      "externalLinkCount": 13
     },
     {
       "id": "republik/article-das-letzte-reduit",
@@ -4729,7 +5603,9 @@
       "description": "Der Zivildienst ist zu attraktiv, finden seine Gegner. Vielleicht ist aber auch die Armee verstaubt? Ein Plädoyer für eine zeitgemässe Dienstpflicht.",
       "publishDate": "2019-04-02T02:50:00.000Z",
       "authorIds": [],
-      "readingMinutes": 11
+      "readingMinutes": 11,
+      "internalLinkCount": 1,
+      "externalLinkCount": 14
     },
     {
       "id": "republik/article-ungleichheit-episode-1",
@@ -4740,7 +5616,9 @@
       "authorIds": [
         "f54a386e-c154-44e6-8d9d-9fbe4b711ae3"
       ],
-      "readingMinutes": 13
+      "readingMinutes": 13,
+      "internalLinkCount": 1,
+      "externalLinkCount": 15
     },
     {
       "id": "republik/article-interview-eth-keller",
@@ -4751,7 +5629,9 @@
       "authorIds": [
         "ae2dd456-9077-4f7c-9aa8-af910adf6a02"
       ],
-      "readingMinutes": 11
+      "readingMinutes": 11,
+      "internalLinkCount": 1,
+      "externalLinkCount": 1
     },
     {
       "id": "republik/article-tg",
@@ -4760,7 +5640,9 @@
       "description": "Sie wollte als Model in die Männermode, einfach, weil sie glaubte, sich da wohlzufühlen. Sie rasierte sich eine Glatze, als sie fand, das passe zu ihr. Jetzt will Tamy Glauser für die Grünen in die Politik. Vielleicht.",
       "publishDate": "2019-03-22T03:48:00.000Z",
       "authorIds": [],
-      "readingMinutes": 17
+      "readingMinutes": 17,
+      "internalLinkCount": 0,
+      "externalLinkCount": 10
     },
     {
       "id": "republik/article-ein-billiger-entscheid",
@@ -4771,7 +5653,9 @@
       "authorIds": [
         "c641d9bf-9996-4b38-807b-8c1c1148943c"
       ],
-      "readingMinutes": 5
+      "readingMinutes": 5,
+      "internalLinkCount": 0,
+      "externalLinkCount": 0
     },
     {
       "id": "republik/article-eth-auftakt",
@@ -4783,7 +5667,9 @@
         "ae2dd456-9077-4f7c-9aa8-af910adf6a02",
         "95643b75-6374-4fa4-b031-3ca06e380f12"
       ],
-      "readingMinutes": 34
+      "readingMinutes": 34,
+      "internalLinkCount": 1,
+      "externalLinkCount": 24
     },
     {
       "id": "republik/article-medien-teil-eines-teuflischen-plans",
@@ -4795,7 +5681,9 @@
         "93d6839d-fe3e-491a-bbca-477585e776e4",
         "7e37f53d-c093-48bc-971e-0ec61a3bdcf0"
       ],
-      "readingMinutes": 6
+      "readingMinutes": 6,
+      "internalLinkCount": 0,
+      "externalLinkCount": 7
     },
     {
       "id": "republik/article-der-denker-und-die-murmeltierwurst",
@@ -4804,7 +5692,9 @@
       "description": "Als Hegel im Sommer 1796 einen Ausflug in die Schweizer Berge machte, war er wenig angetan von dem, was er da vorfand. ",
       "publishDate": "2019-03-18T03:46:00.000Z",
       "authorIds": [],
-      "readingMinutes": 3
+      "readingMinutes": 3,
+      "internalLinkCount": 0,
+      "externalLinkCount": 5
     },
     {
       "id": "republik/article-aufstand-der-streber",
@@ -4815,7 +5705,9 @@
       "authorIds": [
         "93d6839d-fe3e-491a-bbca-477585e776e4"
       ],
-      "readingMinutes": 17
+      "readingMinutes": 17,
+      "internalLinkCount": 1,
+      "externalLinkCount": 16
     },
     {
       "id": "republik/article-unbedingt-absolut-frei",
@@ -4824,7 +5716,9 @@
       "description": "Vor fast 40 Jahren wurde Miriam Cahn wegen einer künstlerischen Protestaktion verurteilt. Heute wird die kompromisslose Schweizer Künstlerin mit einer umfassenden Retrospektive geehrt.",
       "publishDate": "2019-03-15T03:48:00.000Z",
       "authorIds": [],
-      "readingMinutes": 9
+      "readingMinutes": 9,
+      "internalLinkCount": 0,
+      "externalLinkCount": 1
     },
     {
       "id": "republik/article-die-klassenfrage-ist-das-vorherrschende-problem",
@@ -4836,7 +5730,9 @@
         "00051db6-0b8d-4808-9830-efbee0e4d2af",
         "186e0a00-3ab5-4246-87a5-6bc44d6fca95"
       ],
-      "readingMinutes": 23
+      "readingMinutes": 23,
+      "internalLinkCount": 2,
+      "externalLinkCount": 1
     },
     {
       "id": "republik/article-geld-auf-der-bank-hat-sich-noch-nie-gelohnt",
@@ -4847,7 +5743,9 @@
       "authorIds": [
         "eca9ee2c-4678-4f63-8564-651293df2b97"
       ],
-      "readingMinutes": 8
+      "readingMinutes": 8,
+      "internalLinkCount": 1,
+      "externalLinkCount": 7
     },
     {
       "id": "republik/article-portrait-des-kuenstlers-als-maschine",
@@ -4856,7 +5754,9 @@
       "description": "Während die Kunstwelt darüber streitet, ob eine künstliche Intelligenz Maler spielen darf, sieht man im Computerspiel die Sache ganz gelassen: Entwickler und Algorithmen existieren hier friedlich nebeneinander. Ein Konzept für die Zukunft?",
       "publishDate": "2019-02-25T03:48:00.000Z",
       "authorIds": [],
-      "readingMinutes": 7
+      "readingMinutes": 7,
+      "internalLinkCount": 0,
+      "externalLinkCount": 18
     },
     {
       "id": "republik/article-doppeldenk-auf-russisch",
@@ -4865,7 +5765,9 @@
       "description": "Die amerikanisch-russische Autorin zeigt eindrücklich, wo die Kampagnen in Putins Russland ihre Vorläufer haben. Ein Buch über die Abgründe gegenwärtiger russischer «Leitkultur» – und ein Lehrstück über heutige Ideologie allgemein.",
       "publishDate": "2019-02-20T03:46:00.000Z",
       "authorIds": [],
-      "readingMinutes": 9
+      "readingMinutes": 9,
+      "internalLinkCount": 0,
+      "externalLinkCount": 7
     },
     {
       "id": "republik/article-frauenstimmrecht",
@@ -4876,7 +5778,9 @@
       "authorIds": [
         "80229083-2b7c-4de8-a5c7-8ad79b1e80fc"
       ],
-      "readingMinutes": 6
+      "readingMinutes": 6,
+      "internalLinkCount": 1,
+      "externalLinkCount": 4
     },
     {
       "id": "republik/article-ueberall-identitaeten",
@@ -4887,7 +5791,9 @@
       "authorIds": [
         "186e0a00-3ab5-4246-87a5-6bc44d6fca95"
       ],
-      "readingMinutes": 18
+      "readingMinutes": 18,
+      "internalLinkCount": 1,
+      "externalLinkCount": 12
     },
     {
       "id": "republik/article-hoechstrichterlicher-support-fuer-opfer-von-menschenhandel",
@@ -4898,7 +5804,9 @@
       "authorIds": [
         "02852b61-aa45-4dab-8d23-a0c71d3e05f7"
       ],
-      "readingMinutes": 3
+      "readingMinutes": 3,
+      "internalLinkCount": 0,
+      "externalLinkCount": 1
     },
     {
       "id": "republik/article-sans-papier",
@@ -4909,7 +5817,9 @@
       "authorIds": [
         "5b6da6a6-c9fa-4ebb-a020-8dc85258310e"
       ],
-      "readingMinutes": 14
+      "readingMinutes": 14,
+      "internalLinkCount": 1,
+      "externalLinkCount": 4
     },
     {
       "id": "republik/article-seilziehen-um-die-medienfreiheit",
@@ -4920,7 +5830,9 @@
       "authorIds": [
         "1bdea72a-52d7-4bee-b84e-bdeb80cf1d88"
       ],
-      "readingMinutes": 4
+      "readingMinutes": 4,
+      "internalLinkCount": 2,
+      "externalLinkCount": 1
     },
     {
       "id": "republik/article-solothurn",
@@ -4929,7 +5841,9 @@
       "description": "Wann macht Kino Spass? Ein ganz subjektiver Streifzug durch Themen und Formen bei den 54. Solothurner Filmtagen.",
       "publishDate": "2019-02-01T03:46:00.000Z",
       "authorIds": [],
-      "readingMinutes": 8
+      "readingMinutes": 8,
+      "internalLinkCount": 0,
+      "externalLinkCount": 13
     },
     {
       "id": "republik/article-die-gefraessige-genossenschaft",
@@ -4941,7 +5855,9 @@
         "eca9ee2c-4678-4f63-8564-651293df2b97",
         "0736a885-a9c7-4c2f-aebb-b8f9d4b0c21e"
       ],
-      "readingMinutes": 20
+      "readingMinutes": 20,
+      "internalLinkCount": 0,
+      "externalLinkCount": 27
     },
     {
       "id": "republik/article-das-ist-klassenrassismus",
@@ -4952,7 +5868,9 @@
       "authorIds": [
         "00051db6-0b8d-4808-9830-efbee0e4d2af"
       ],
-      "readingMinutes": 24
+      "readingMinutes": 24,
+      "internalLinkCount": 1,
+      "externalLinkCount": 0
     },
     {
       "id": "republik/article-nach-dem-massaker",
@@ -4961,7 +5879,9 @@
       "description": "Vor genau vier Jahren fand das Attentat auf «Charlie Hebdo» statt. Wie geht ein Land mit diesem Trauma um? Eine Übersicht über Versuche der Verarbeitungen.",
       "publishDate": "2019-01-07T03:46:00.000Z",
       "authorIds": [],
-      "readingMinutes": 15
+      "readingMinutes": 15,
+      "internalLinkCount": 1,
+      "externalLinkCount": 19
     },
     {
       "id": "republik/article-dritte-aufklaerung",
@@ -4972,7 +5892,9 @@
       "authorIds": [
         "186e0a00-3ab5-4246-87a5-6bc44d6fca95"
       ],
-      "readingMinutes": 12
+      "readingMinutes": 12,
+      "internalLinkCount": 1,
+      "externalLinkCount": 5
     },
     {
       "id": "republik/article-die-maer-von-der-medienhatz",
@@ -4981,7 +5903,9 @@
       "description": "Maudet und Savary – zwei aktuelle Westschweizer Affären, in denen die Politik den Journalisten Hetze vorwirft. Doch es sind nicht die Medien, die Rücktritte fordern. Es sind die eigenen Parteien. Unser Kollege aus der Romandie ordnet ein.",
       "publishDate": "2018-12-21T03:50:00.000Z",
       "authorIds": [],
-      "readingMinutes": 10
+      "readingMinutes": 10,
+      "internalLinkCount": 1,
+      "externalLinkCount": 0
     },
     {
       "id": "republik/article-diese-kleine-stimme",
@@ -4990,7 +5914,9 @@
       "description": "Ronan Farrow hat den Weinstein-Skandal aufgedeckt. Der Preis dafür war hoch. Davon erzählt er in seiner Dankesrede zum Deutschen Reporterpreis",
       "publishDate": "2018-12-18T03:45:00.000Z",
       "authorIds": [],
-      "readingMinutes": 10
+      "readingMinutes": 10,
+      "internalLinkCount": 0,
+      "externalLinkCount": 8
     },
     {
       "id": "republik/article-portraet-soros",
@@ -4999,7 +5925,9 @@
       "description": "Feinde unterstellen Milliardär George Soros Allmacht, der Philanthrop selbst bangt um sein politisches Erbe. Wie viel Verantwortung trägt er selbst dafür? Begegnung mit einer Hassfigur.",
       "publishDate": "2018-12-15T03:40:00.000Z",
       "authorIds": [],
-      "readingMinutes": 50
+      "readingMinutes": 50,
+      "internalLinkCount": 2,
+      "externalLinkCount": 1
     },
     {
       "id": "republik/article-bericht-ueber-die-erste-sitzung-des-genossenschaftsrats",
@@ -5008,7 +5936,9 @@
       "description": "Was wir vom ersten Treffen berichten können. Brief einer Genossenschaftsrätin.",
       "publishDate": "2018-12-13T16:30:00.000Z",
       "authorIds": [],
-      "readingMinutes": 2
+      "readingMinutes": 2,
+      "internalLinkCount": 0,
+      "externalLinkCount": 0
     },
     {
       "id": "republik/article-fortnite",
@@ -5017,7 +5947,9 @@
       "description": "Warum ein kostenloses Videospiel derzeit alle Rekorde bricht. Auch die wirtschaftlichen.",
       "publishDate": "2018-12-12T03:38:00.000Z",
       "authorIds": [],
-      "readingMinutes": 8
+      "readingMinutes": 8,
+      "internalLinkCount": 0,
+      "externalLinkCount": 14
     },
     {
       "id": "republik/article-von-banken-frauen-lohndiskriminierung-und-anderen-mysterien",
@@ -5028,7 +5960,9 @@
       "authorIds": [
         "02852b61-aa45-4dab-8d23-a0c71d3e05f7"
       ],
-      "readingMinutes": 5
+      "readingMinutes": 5,
+      "internalLinkCount": 0,
+      "externalLinkCount": 0
     },
     {
       "id": "republik/article-co2-pro-kopf",
@@ -5039,7 +5973,9 @@
       "authorIds": [
         "eca9ee2c-4678-4f63-8564-651293df2b97"
       ],
-      "readingMinutes": 7
+      "readingMinutes": 7,
+      "internalLinkCount": 0,
+      "externalLinkCount": 6
     },
     {
       "id": "republik/article-worte-nach-luft-schnappend",
@@ -5048,7 +5984,9 @@
       "description": "Dunkelkammer, Teil III: Was ist eine Metapher? Woher kommt ihre revolutionäre Kraft? In der dritten, abschliessenden Poetikvorlesung liest Melinda Nadj Abonji Kafka, Merz und Ugričić. ",
       "publishDate": "2018-11-23T03:47:00.000Z",
       "authorIds": [],
-      "readingMinutes": 16
+      "readingMinutes": 16,
+      "internalLinkCount": 1,
+      "externalLinkCount": 6
     },
     {
       "id": "republik/article-spionage-fuer-spione",
@@ -5059,7 +5997,9 @@
       "authorIds": [
         "6ae2733e-1562-47b3-881c-88e9d3d28da9"
       ],
-      "readingMinutes": 3
+      "readingMinutes": 3,
+      "internalLinkCount": 2,
+      "externalLinkCount": 8
     },
     {
       "id": "republik/article-das-ende-der-sozialdemokratie",
@@ -5068,7 +6008,9 @@
       "description": "Die sozialdemokratischen Parteien sind fast überall im Niedergang. Dafür gibt es zwei konkurrierende Erklärungen. Das Problem ist nur: Sie greifen beide viel zu kurz.",
       "publishDate": "2018-11-20T03:55:00.000Z",
       "authorIds": [],
-      "readingMinutes": 13
+      "readingMinutes": 13,
+      "internalLinkCount": 1,
+      "externalLinkCount": 6
     },
     {
       "id": "republik/article-klimareport",
@@ -5080,7 +6022,9 @@
         "93d6839d-fe3e-491a-bbca-477585e776e4",
         "eca9ee2c-4678-4f63-8564-651293df2b97"
       ],
-      "readingMinutes": 16
+      "readingMinutes": 16,
+      "internalLinkCount": 2,
+      "externalLinkCount": 35
     },
     {
       "id": "republik/article-tschiatura",
@@ -5089,7 +6033,9 @@
       "description": "Industrieruinen werden heute für Kreativwirtschaft umgenutzt. Aber kann man echte Städte «kuratieren»?",
       "publishDate": "2018-11-13T03:40:00.000Z",
       "authorIds": [],
-      "readingMinutes": 5
+      "readingMinutes": 5,
+      "internalLinkCount": 1,
+      "externalLinkCount": 2
     },
     {
       "id": "republik/article-bosniens-toter-junge",
@@ -5098,7 +6044,9 @@
       "description": "In Banja Luka wird die Leiche eines 21-Jährigen gefunden. Und damit wird die grösste Protestwelle ausgelöst, die das Land seit dem Ende des Jugoslawienkriegs erlebt hat.",
       "publishDate": "2018-11-12T03:45:00.000Z",
       "authorIds": [],
-      "readingMinutes": 13
+      "readingMinutes": 13,
+      "internalLinkCount": 0,
+      "externalLinkCount": 4
     },
     {
       "id": "republik/article-dunkelkammer",
@@ -5107,7 +6055,9 @@
       "description": "Dunkelkammer, Teil I: Melinda Nadj Abonji hält ihre erste Zürcher Poetikvorlesung. Auch die beiden weiteren Teile werden in der Republik veröffentlicht.",
       "publishDate": "2018-11-10T03:40:00.000Z",
       "authorIds": [],
-      "readingMinutes": 21
+      "readingMinutes": 21,
+      "internalLinkCount": 0,
+      "externalLinkCount": 11
     },
     {
       "id": "republik/article-an-der-bar-mit-ignazio-cassis",
@@ -5118,7 +6068,9 @@
       "authorIds": [
         "56e799dd-0fe9-4f16-8687-89bbc46728c4"
       ],
-      "readingMinutes": null
+      "readingMinutes": null,
+      "internalLinkCount": 0,
+      "externalLinkCount": 3
     },
     {
       "id": "republik/article-bab-neu",
@@ -5130,7 +6082,9 @@
         "ae2dd456-9077-4f7c-9aa8-af910adf6a02",
         "93d6839d-fe3e-491a-bbca-477585e776e4"
       ],
-      "readingMinutes": 5
+      "readingMinutes": 5,
+      "internalLinkCount": 1,
+      "externalLinkCount": 5
     },
     {
       "id": "republik/article-die-zerstueckelung-amerikas",
@@ -5139,7 +6093,9 @@
       "description": "Westernfilme erzählen von der Vereinigung Amerikas. Eine Westernserie tut etwas anderes: Sie erzählt von einer Gesellschaft, die keinen Zusammenhalt mehr hat.  ",
       "publishDate": "2018-11-06T03:40:00.000Z",
       "authorIds": [],
-      "readingMinutes": 6
+      "readingMinutes": 6,
+      "internalLinkCount": 0,
+      "externalLinkCount": 3
     },
     {
       "id": "republik/article-antisemitismus-fake-news",
@@ -5150,7 +6106,9 @@
       "authorIds": [
         "a563fa2c-9651-4360-bcb9-98c3d5b5d123"
       ],
-      "readingMinutes": 11
+      "readingMinutes": 11,
+      "internalLinkCount": 1,
+      "externalLinkCount": 19
     },
     {
       "id": "republik/article-mnouchkine",
@@ -5159,7 +6117,9 @@
       "description": "Ariane Mnouchkine gastiert mit dem Théâtre du Soleil aus Paris für einen Monat in Lausanne. Das Stück zeigt die subversive Kraft des Volkstheaters.",
       "publishDate": "2018-10-24T02:35:00.000Z",
       "authorIds": [],
-      "readingMinutes": 7
+      "readingMinutes": 7,
+      "internalLinkCount": 0,
+      "externalLinkCount": 5
     },
     {
       "id": "republik/article-eine-warnung-aus-europa-das-dicke-ende-kommt-erst-noch",
@@ -5168,7 +6128,9 @@
       "description": "Verschwörungstheorien, korrumpierte Wirtschaft, Angriffe auf die Justiz: Polen ist Europas Warnung an die USA. Die Analyse einer amerikanisch-polnischen Doppelbürgerin.",
       "publishDate": "2018-10-20T02:45:00.000Z",
       "authorIds": [],
-      "readingMinutes": 55
+      "readingMinutes": 55,
+      "internalLinkCount": 0,
+      "externalLinkCount": 4
     },
     {
       "id": "republik/article-cumex-eine-kleine-lesehilfe",
@@ -5181,7 +6143,9 @@
         "dd782b8d-4eae-4a05-80d8-494760d2d58a",
         "57ff6996-e3ef-4186-a2e6-95376f2b086b"
       ],
-      "readingMinutes": 4
+      "readingMinutes": 4,
+      "internalLinkCount": 1,
+      "externalLinkCount": 7
     },
     {
       "id": "republik/article-verteidigerrechte-vorwaerts-marsch",
@@ -5192,7 +6156,9 @@
       "authorIds": [
         "02852b61-aa45-4dab-8d23-a0c71d3e05f7"
       ],
-      "readingMinutes": 7
+      "readingMinutes": 7,
+      "internalLinkCount": 0,
+      "externalLinkCount": 0
     },
     {
       "id": "republik/article-ich-gott-du-mensch",
@@ -5203,7 +6169,9 @@
       "authorIds": [
         "10e35063-c71d-45b7-b189-33ffce351922"
       ],
-      "readingMinutes": 9
+      "readingMinutes": 9,
+      "internalLinkCount": 0,
+      "externalLinkCount": 3
     },
     {
       "id": "republik/article-orwell-meets-konfuzius",
@@ -5212,7 +6180,9 @@
       "description": "Die Republik hat wiederholt den weltweiten Datenkapitalismus und die zunehmende Überwachung durch Big Data kritisiert. China plant ab 2020 ein solches Kontrollsystem. Orwell? Nein, Konfuzius, sagt unser Gastautor.",
       "publishDate": "2018-10-04T02:50:00.000Z",
       "authorIds": [],
-      "readingMinutes": 18
+      "readingMinutes": 18,
+      "internalLinkCount": 1,
+      "externalLinkCount": 3
     },
     {
       "id": "republik/article-das-irdischste-mysterienspiel",
@@ -5223,7 +6193,9 @@
       "authorIds": [
         "5f45d6a3-ff52-4e67-9925-92447f43d2e1"
       ],
-      "readingMinutes": 7
+      "readingMinutes": 7,
+      "internalLinkCount": 0,
+      "externalLinkCount": 4
     },
     {
       "id": "republik/article-unter-diesem-himmel",
@@ -5234,7 +6206,9 @@
       "authorIds": [
         "d6b4ce98-9b11-4bba-9903-ed621c67e32c"
       ],
-      "readingMinutes": 19
+      "readingMinutes": 19,
+      "internalLinkCount": 1,
+      "externalLinkCount": 1
     },
     {
       "id": "republik/article-paris-ist-uebersaet-mit-neuralgischen-punkten",
@@ -5243,7 +6217,9 @@
       "description": "Ist das neue Buch des französischen Literaturnobelpreisträgers Patrick Modiano ein Roman? Kunstvoll verwebt es die Rätsel (s)eines Lebens.",
       "publishDate": "2018-09-28T02:40:00.000Z",
       "authorIds": [],
-      "readingMinutes": 6
+      "readingMinutes": 6,
+      "internalLinkCount": 0,
+      "externalLinkCount": 6
     },
     {
       "id": "republik/article-nudging",
@@ -5252,7 +6228,9 @@
       "description": "Hinter Nudging – zu Deutsch: Anstupsen – stand einmal die Idee, uns zu besseren Entscheidungen zu verführen. Heute setzen es Facebook und Co. ein, um uns zu manipulieren. ",
       "publishDate": "2018-09-27T02:47:00.000Z",
       "authorIds": [],
-      "readingMinutes": 13
+      "readingMinutes": 13,
+      "internalLinkCount": 2,
+      "externalLinkCount": 8
     },
     {
       "id": "republik/article-warum-sind-die-zinsen-so-tief",
@@ -5263,7 +6241,9 @@
       "authorIds": [
         "eca9ee2c-4678-4f63-8564-651293df2b97"
       ],
-      "readingMinutes": 12
+      "readingMinutes": 12,
+      "internalLinkCount": 1,
+      "externalLinkCount": 17
     },
     {
       "id": "republik/article-das-land-wo-die-zitronen-bluehn",
@@ -5274,7 +6254,9 @@
       "authorIds": [
         "7b0d6a74-f57b-4498-8eb7-455936672736"
       ],
-      "readingMinutes": 17
+      "readingMinutes": 17,
+      "internalLinkCount": 1,
+      "externalLinkCount": 9
     },
     {
       "id": "republik/article-auslaendische-maechte-koennen-im-schweizer-wahlkampf-mitmischen",
@@ -5286,7 +6268,9 @@
         "93d6839d-fe3e-491a-bbca-477585e776e4",
         "6ae2733e-1562-47b3-881c-88e9d3d28da9"
       ],
-      "readingMinutes": 4
+      "readingMinutes": 4,
+      "internalLinkCount": 1,
+      "externalLinkCount": 10
     },
     {
       "id": "republik/article-grandioses-scheitern",
@@ -5295,7 +6279,9 @@
       "description": "Terry Gilliam bringt nach zwanzig Jahren heroischem Kampf das Heldenepos um Don Quijote in die Kinos. Bilanz eines Mirakels.",
       "publishDate": "2018-09-02T18:00:00.000Z",
       "authorIds": [],
-      "readingMinutes": 7
+      "readingMinutes": 7,
+      "internalLinkCount": 0,
+      "externalLinkCount": 1
     },
     {
       "id": "republik/article-nein-nein-nein",
@@ -5306,7 +6292,9 @@
       "authorIds": [
         "5b6da6a6-c9fa-4ebb-a020-8dc85258310e"
       ],
-      "readingMinutes": 11
+      "readingMinutes": 11,
+      "internalLinkCount": 1,
+      "externalLinkCount": 9
     },
     {
       "id": "republik/article-waffenexporte",
@@ -5317,7 +6305,9 @@
       "authorIds": [
         "7b0d6a74-f57b-4498-8eb7-455936672736"
       ],
-      "readingMinutes": 4
+      "readingMinutes": 4,
+      "internalLinkCount": 1,
+      "externalLinkCount": 2
     },
     {
       "id": "republik/article-meta-auf-lange-sicht",
@@ -5328,7 +6318,9 @@
       "authorIds": [
         "eca9ee2c-4678-4f63-8564-651293df2b97"
       ],
-      "readingMinutes": 7
+      "readingMinutes": 7,
+      "internalLinkCount": 1,
+      "externalLinkCount": 2
     },
     {
       "id": "republik/article-in-der-youtube-hoelle",
@@ -5339,7 +6331,9 @@
       "authorIds": [
         "6ae2733e-1562-47b3-881c-88e9d3d28da9"
       ],
-      "readingMinutes": 9
+      "readingMinutes": 9,
+      "internalLinkCount": 1,
+      "externalLinkCount": 28
     },
     {
       "id": "republik/article-handel-usa",
@@ -5350,7 +6344,9 @@
       "authorIds": [
         "a782b37f-56b7-4451-b5b9-e1fbf41109aa"
       ],
-      "readingMinutes": 6
+      "readingMinutes": 6,
+      "internalLinkCount": 1,
+      "externalLinkCount": 3
     },
     {
       "id": "republik/article-soll-man-sex-kaufen-duerfen",
@@ -5361,7 +6357,9 @@
       "authorIds": [
         "5b6da6a6-c9fa-4ebb-a020-8dc85258310e"
       ],
-      "readingMinutes": 9
+      "readingMinutes": 9,
+      "internalLinkCount": 0,
+      "externalLinkCount": 6
     },
     {
       "id": "republik/article-passwort-dein-gesicht",
@@ -5372,7 +6370,9 @@
       "authorIds": [
         "6ae2733e-1562-47b3-881c-88e9d3d28da9"
       ],
-      "readingMinutes": 11
+      "readingMinutes": 11,
+      "internalLinkCount": 1,
+      "externalLinkCount": 37
     },
     {
       "id": "republik/article-die-avantgarde-der-voelker",
@@ -5383,7 +6383,9 @@
       "authorIds": [
         "00051db6-0b8d-4808-9830-efbee0e4d2af"
       ],
-      "readingMinutes": 5
+      "readingMinutes": 5,
+      "internalLinkCount": 1,
+      "externalLinkCount": 4
     },
     {
       "id": "republik/article-eine-kleine-geschichte-der-zuwanderung",
@@ -5394,7 +6396,9 @@
       "authorIds": [
         "eca9ee2c-4678-4f63-8564-651293df2b97"
       ],
-      "readingMinutes": 9
+      "readingMinutes": 9,
+      "internalLinkCount": 0,
+      "externalLinkCount": 13
     },
     {
       "id": "republik/article-ueber-luege-und-beischlaf",
@@ -5405,7 +6409,9 @@
       "authorIds": [
         "45fa4127-59d1-4f46-94ff-305cf1beeed1"
       ],
-      "readingMinutes": 7
+      "readingMinutes": 7,
+      "internalLinkCount": 1,
+      "externalLinkCount": 3
     },
     {
       "id": "republik/article-dsgvo",
@@ -5418,7 +6424,9 @@
         "b38b7b36-dfab-48f3-8712-ec5268197a44",
         "0c536be1-69a5-4dd3-adb4-9533cb3f7a9d"
       ],
-      "readingMinutes": 10
+      "readingMinutes": 10,
+      "internalLinkCount": 0,
+      "externalLinkCount": 1
     },
     {
       "id": "republik/article-der-traum-vom-tech-staat",
@@ -5427,7 +6435,9 @@
       "description": "Eine sozialistische Utopie in Chile wollte lange vor dem Silicon Valley das Regieren endlich schwerelos und Freiheit programmierbar machen: das Projekt Cybersyn.",
       "publishDate": "2018-05-15T02:45:00.000Z",
       "authorIds": [],
-      "readingMinutes": 16
+      "readingMinutes": 16,
+      "internalLinkCount": 1,
+      "externalLinkCount": 22
     },
     {
       "id": "republik/article-zweiklassengesellschaft-im-netz",
@@ -5436,7 +6446,9 @@
       "description": "Weitgehend unbemerkt von der Öffentlichkeit kämpfen Swisscom, Salt und Co. um ein umstrittenes Recht zur Sonderbehandlung: Wer zahlt, soll im Internet Vorrang haben.",
       "publishDate": "2018-05-01T02:40:00.000Z",
       "authorIds": [],
-      "readingMinutes": 11
+      "readingMinutes": 11,
+      "internalLinkCount": 0,
+      "externalLinkCount": 6
     },
     {
       "id": "republik/article-vaeter",
@@ -5447,7 +6459,9 @@
       "authorIds": [
         "3b1cee6c-cc48-431a-ade7-60f739c66298"
       ],
-      "readingMinutes": 20
+      "readingMinutes": 20,
+      "internalLinkCount": 1,
+      "externalLinkCount": 5
     },
     {
       "id": "republik/article-das-kartell",
@@ -5461,7 +6475,9 @@
         "29c289e8-ad86-44a3-9836-4d9ffb3a924f",
         "0736a885-a9c7-4c2f-aebb-b8f9d4b0c21e"
       ],
-      "readingMinutes": 36
+      "readingMinutes": 36,
+      "internalLinkCount": 0,
+      "externalLinkCount": 1
     },
     {
       "id": "republik/article-portraet-baeriswyl",
@@ -5472,7 +6488,9 @@
       "authorIds": [
         "a1b9d9ad-41b4-4434-a630-1e77a9c0c0ec"
       ],
-      "readingMinutes": 14
+      "readingMinutes": 14,
+      "internalLinkCount": 0,
+      "externalLinkCount": 0
     },
     {
       "id": "republik/article-mordsache-malta",
@@ -5485,7 +6503,9 @@
         "dd782b8d-4eae-4a05-80d8-494760d2d58a",
         "29c289e8-ad86-44a3-9836-4d9ffb3a924f"
       ],
-      "readingMinutes": 30
+      "readingMinutes": 30,
+      "internalLinkCount": 0,
+      "externalLinkCount": 38
     },
     {
       "id": "republik/article-interview-flassbeck",
@@ -5497,7 +6517,9 @@
         "00051db6-0b8d-4808-9830-efbee0e4d2af",
         "a782b37f-56b7-4451-b5b9-e1fbf41109aa"
       ],
-      "readingMinutes": 31
+      "readingMinutes": 31,
+      "internalLinkCount": 0,
+      "externalLinkCount": 2
     },
     {
       "id": "republik/article-spuren-des-geldes",
@@ -5508,7 +6530,9 @@
       "authorIds": [
         "e87b3289-0ce2-4841-99e9-7cba619f6e9a"
       ],
-      "readingMinutes": 11
+      "readingMinutes": 11,
+      "internalLinkCount": 0,
+      "externalLinkCount": 0
     },
     {
       "id": "republik/article-sozialinspektion",
@@ -5520,7 +6544,9 @@
         "93d6839d-fe3e-491a-bbca-477585e776e4",
         "5b6da6a6-c9fa-4ebb-a020-8dc85258310e"
       ],
-      "readingMinutes": 13
+      "readingMinutes": 13,
+      "internalLinkCount": 0,
+      "externalLinkCount": 4
     },
     {
       "id": "republik/article-ahv-fur-dummies",
@@ -5531,7 +6557,9 @@
       "authorIds": [
         "cdbfa09d-2b1e-402e-8943-30b4b1791139"
       ],
-      "readingMinutes": 23
+      "readingMinutes": 23,
+      "internalLinkCount": 0,
+      "externalLinkCount": 55
     },
     {
       "id": "republik/article-dollar-unter-druck",
@@ -5542,7 +6570,9 @@
       "authorIds": [
         "eca9ee2c-4678-4f63-8564-651293df2b97"
       ],
-      "readingMinutes": 16
+      "readingMinutes": 16,
+      "internalLinkCount": 1,
+      "externalLinkCount": 16
     },
     {
       "id": "republik/article-sda-streik",
@@ -5556,7 +6586,9 @@
         "a563fa2c-9651-4360-bcb9-98c3d5b5d123",
         "f24bd0bc-2dfd-4f98-880c-d74cd27f84a5"
       ],
-      "readingMinutes": 27
+      "readingMinutes": 27,
+      "internalLinkCount": 0,
+      "externalLinkCount": 10
     },
     {
       "id": "republik/article-usa-1-ground-zero",
@@ -5569,7 +6601,9 @@
         "c641d9bf-9996-4b38-807b-8c1c1148943c",
         "e7d400c2-4b92-4fc9-ba36-c96dc65775e6"
       ],
-      "readingMinutes": 32
+      "readingMinutes": 32,
+      "internalLinkCount": 0,
+      "externalLinkCount": 2
     },
     {
       "id": "republik/article-zuckerbergs-monster",
@@ -5580,7 +6614,9 @@
       "authorIds": [
         "6ae2733e-1562-47b3-881c-88e9d3d28da9"
       ],
-      "readingMinutes": 34
+      "readingMinutes": 34,
+      "internalLinkCount": 0,
+      "externalLinkCount": 4
     }
   ],
   "internalLinks": [

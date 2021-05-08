@@ -109,7 +109,10 @@
 
 .linkedArticleContainer {
   display: flex;
-  width: 50%;
+  margin: 1rem;
+  padding: 1.5rem;
+  width: calc(50% - 3rem);
+  min-width: 140px;
 }
 .icon {
   width: 50px;
