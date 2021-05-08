@@ -1,7 +1,6 @@
 import Link from 'next/link'
 import styles from '../styles/Main.module.css'
 import Frame from '../components/Frame'
-import {ArticleIcon} from './ArticleIcon/ArticleIcon'
 export default function Home() {
   return (
     <Frame pageTitle={'Rehoja21 Content Exploration'}>
@@ -18,7 +17,6 @@ export default function Home() {
               <p>Wie klima­freundlich steht die Schweiz da? Der Klimapolitik-Report.</p>
             </a>
           </Link>
-          <ArticleIcon textlength={40} linksin={15} linksout={2} linktype={"triangles"} />
           <Link href="/2019/10/30/schmerz-sucht-und-profit">
             <a className={styles.card}>
               <h2>Drogen &rarr;</h2>

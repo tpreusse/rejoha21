@@ -7,6 +7,9 @@ import styles from '../styles/Main.module.css'
 
 import getDoc from '../data/doc'
 
+import {ArticleIcon} from './ArticleIcon/ArticleIcon'
+
+
 export default function Detail({ doc }) {
   const router = useRouter()
 
@@ -23,6 +26,9 @@ export default function Detail({ doc }) {
           <h2>&larr; Übersicht</h2>
         </a>
       </Link>
+
+      <ArticleIcon textlength={40} linksin={15} linksout={2} linktype={"triangles"} />
+
       <h1 className={styles.title}>
         {doc.title}
       </h1>
