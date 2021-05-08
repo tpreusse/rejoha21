@@ -7,13 +7,24 @@
   padding: 5rem 0;
   flex: 1;
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
+  flex-wrap: wrap;
   justify-content: center;
-  align-items: center;
+  align-items: flex-start;
+  padding: 1em;
+  padding-top: 3em;
+  padding-bottom: 3em;
+  text-align: left;
   max-width: 800px;
   margin: 0 auto;
 }
-
+.title{
+  font-size: 22px;
+}
+.mainArticleData{
+  flex: 1 1 calc(100% - 50px);
+  padding-left: 10px;
+}
 .dark {
   margin: 0 -1rem;
   padding: 0;
@@ -44,31 +55,31 @@
 .title {
   margin: 0;
   line-height: 1.15;
-  font-size: 2.2rem;
+  font-size: 1.6rem;
+  line-height:1.4em ;
 }
 @media screen and (min-width: 600px) {
   .title {
-    font-size: 4rem;
+    font-size: rem;
   }
 }
 
 .title,
 .description {
-  text-align: center;
 }
 
 .description {
   line-height: 1.5;
-  font-size: 1.5rem;
+  font-size: 1.1rem;
 }
 
 .grid {
   display: flex;
-  align-items: center;
-  justify-content: center;
+  align-items: flex-start;
+  justify-content: flex-start;
   flex-wrap: wrap;
+  flex-direction: row;
   max-width: 800px;
-  margin-top: 3rem;
 }
 
 .card {
@@ -110,20 +121,30 @@
 @media (max-width: 600px) {
   .grid {
     width: 100%;
-    flex-direction: column;
+    flex-direction: row;
+    align-items: flex-start;
   }
 }
 
 .linkedArticleContainer {
+  flex: 1 1 50%;
   display: flex;
-  margin: 1rem;
-  padding: 1.5rem;
-  width: calc(50% - 3rem);
-  min-width: 140px;
+  padding: 1em;
+  max-width: 50%;
+  border-top: 1px solid #aaa;
+  border-right: 1px solid #aaa;
+  padding-top: 1rem;
+  padding-left: 0;
+}
+.linkedArticleContainer:nth-child(2n) {
+  border-right: 0;
+  padding-left: 1em;
+  padding-right: 0;
+
 }
 .icon {
-  width: 50px;
-  min-width: 50px;
+  width: 40px;
+  min-width: 40px;
 }
 .articleData {
 }
@@ -132,6 +153,6 @@
   font-size: 12px;
   margin-bottom: 5px;
 }
-.headline{
+.headline {
   text-align: left;
 }

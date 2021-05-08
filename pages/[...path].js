@@ -87,12 +87,14 @@ export default function Detail({ doc, internalLinks, documents }) {
               inverted
             />
           </div>
+          <div className={styles.mainArticleData}>
           {publishDateFormat(new Date(doc.publishDate))}
           <h1 className={styles.title}>{doc.title}</h1>
           <p className={styles.description}>{doc.description}</p>
           <a href={doc.url} target="_blank">
             Beitrag lesen &#x2197;
           </a>
+          </div>
         </main>
       </div>
       <main className={styles.main} style={{ paddingTop: 0 }}>
