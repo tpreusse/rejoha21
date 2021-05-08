@@ -2,7 +2,10 @@
   min-height: 100vh;
   padding: 0 1rem;
 }
-
+.sitetitle{
+flex:0 0 100%;
+  width: 100%;
+}
 .main {
   padding: 5rem 0;
   flex: 1;
@@ -110,6 +113,7 @@
   flex-wrap: wrap;
   flex-direction: row;
   max-width: 800px;
+  width: 100%;
 }
 
 .card {
@@ -160,6 +164,7 @@
   flex: 1 1 50%;
   display: flex;
   padding: 1em;
+  min-width: 50%;
   max-width: 50%;
   border-top: 1px solid #ddd;
   border-right: 1px solid #ddd;

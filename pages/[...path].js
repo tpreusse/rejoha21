@@ -59,8 +59,8 @@ export default function Detail({ doc, internalLinks, documents }) {
     <Frame pageTitle={`${doc.title} – Rehoja21 Content Exploration`}>
       <main className={styles.main} style={{ paddingBottom: 0 }}>
         <Link href="/">
-          <a>
-            <h2>&larr; Themen­stränge</h2>
+          <a className={styles.sitetitle}>
+            <h2 >&larr; Themen­stränge</h2>
           </a>
         </Link>
         <div className={styles.grid}>
