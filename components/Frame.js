@@ -8,9 +8,7 @@ export default function Frame({ pageTitle, children }) {
       <title>{pageTitle}</title>
     </Head>
 
-    <main className={styles.main}>
-      {children}
-    </main>
+    {children}
 
     <footer className={styles.footer}>
       Ein Projekt von {' '}

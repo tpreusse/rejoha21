@@ -59,48 +59,54 @@ export default function Detail({ doc, internalLinks, documents }) {
 
   return (
     <Frame pageTitle={`${doc.title} – Rehoja21 Content Exploration`}>
-      <Link href="/">
-        <a>
-          <h2>&larr; Themen­stränge</h2>
-        </a>
-      </Link>
-      <div className={styles.grid}>
-        {inLinks.map((link) => {
-          const linkedDoc = documents.find((d) => d.id === link.source);
-          if (!linkedDoc) {
-            return null
-          }
+      <main className={styles.main} style={{ paddingBottom: 0 }}>
+        <Link href="/">
+          <a>
+            <h2>&larr; Themen­stränge</h2>
+          </a>
+        </Link>
+        <div className={styles.grid}>
+          {inLinks.map((link) => {
+            const linkedDoc = documents.find((d) => d.id === link.source);
+            if (!linkedDoc) {
+              return null
+            }
 
-          return <Card key={linkedDoc.id} doc={linkedDoc} />;
-        })}
+            return <Card key={linkedDoc.id} doc={linkedDoc} />;
+          })}
+        </div>
+      </main>
+      <div className={styles.dark} style={{ paddingTop: 0, paddingBottom: 0 }}>
+        <main className={styles.main}>
+          <div className={styles.icon}>
+            <ArticleIcon
+              textlength={doc.readingMinutes}
+              linksin={inLinks.length}
+              linksout={outLinks.length}
+              linktype="triangles"
+              inverted
+            />
+          </div>
+          {publishDateFormat(new Date(doc.publishDate))}
+          <h1 className={styles.title}>{doc.title}</h1>
+          <p className={styles.description}>{doc.description}</p>
+          <a href={doc.url} target="_blank">
+            Beitrag lesen &#x2197;
+          </a>
+        </main>
       </div>
+      <main className={styles.main} style={{ paddingTop: 0 }}>
+        <div className={styles.grid}>
+          {outLinks.map((link) => {
+            const linkedDoc = documents.find((d) => d.id === link.target);
+            if (!linkedDoc) {
+              return null
+            }
 
-      <div className={styles.icon}>
-        <ArticleIcon
-          textlength={doc.readingMinutes}
-          linksin={inLinks.length}
-          linksout={outLinks.length}
-          linktype="triangles"
-          inverted
-        />
-      </div>
-      {publishDateFormat(new Date(doc.publishDate))}
-      <h1 className={styles.title}>{doc.title}</h1>
-      <p className={styles.description}>{doc.description}</p>
-      <a href={doc.url} target="_blank">
-        Beitrag lesen &#x2197;
-      </a>
-
-      <div className={styles.grid}>
-        {outLinks.map((link) => {
-          const linkedDoc = documents.find((d) => d.id === link.target);
-          if (!linkedDoc) {
-            return null
-          }
-
-          return <Card key={linkedDoc.id} doc={linkedDoc} />;
-        })}
-      </div>
+            return <Card key={linkedDoc.id} doc={linkedDoc} />;
+          })}
+        </div>
+      </main>
     </Frame>
   );
 }

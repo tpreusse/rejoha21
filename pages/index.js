@@ -5,7 +5,8 @@ import Frame from '../components/Frame'
 export default function Home() {
   return (
     <Frame pageTitle={'Rehoja21 Content Exploration'}>
-      <h1 className={styles.title}>
+      <main className={styles.main}>
+        <h1 className={styles.title}>
           Themen&shy;stränge
         </h1>
 
@@ -39,6 +40,7 @@ export default function Home() {
             </a>
           </Link>
         </div>
+      </main>
     </Frame>
   )
 }
