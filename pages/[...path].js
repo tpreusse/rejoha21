@@ -22,9 +22,7 @@ function Card({ doc }) {
           />
         </div>
         <div className={styles.articleData}>
-          <div className={styles.date}>
-            {publishDateFormat(new Date(doc.publishDate))}
-          </div>
+          <div className={styles.date}>{publishDateFormat(new Date(doc.publishDate))}</div>
           <div className={styles.headline}>{doc.title}</div>
         </div>
       </a>
@@ -51,10 +49,10 @@ export default function Detail({ doc, internalLinks, documents }) {
   }
 
   const inLinks = internalLinks
-    .filter((link) => link.target === doc.id)
+    .filter(link => link.target === doc.id)
     .filter((link, index, all) => index === all.findIndex(d => d.source === link.source));
   const outLinks = internalLinks
-    .filter((link) => link.source === doc.id)
+    .filter(link => link.source === doc.id)
     .filter((link, index, all) => index === all.findIndex(d => d.target === link.target));
 
   return (
@@ -66,10 +64,10 @@ export default function Detail({ doc, internalLinks, documents }) {
           </a>
         </Link>
         <div className={styles.grid}>
-          {inLinks.map((link) => {
-            const linkedDoc = documents.find((d) => d.id === link.source);
+          {inLinks.map(link => {
+            const linkedDoc = documents.find(d => d.id === link.source);
             if (!linkedDoc) {
-              return null
+              return null;
             }
 
             return <Card key={linkedDoc.id} doc={linkedDoc} />;
@@ -77,6 +75,9 @@ export default function Detail({ doc, internalLinks, documents }) {
         </div>
       </main>
       <div className={styles.dark} style={{ paddingTop: 0, paddingBottom: 0 }}>
+        <div className={styles.arrowcontainer}>
+          <div className={styles.arrowdown} />
+        </div>
         <main className={styles.main}>
           <div className={styles.icon}>
             <ArticleIcon
@@ -88,21 +89,25 @@ export default function Detail({ doc, internalLinks, documents }) {
             />
           </div>
           <div className={styles.mainArticleData}>
-          {publishDateFormat(new Date(doc.publishDate))}
-          <h1 className={styles.title}>{doc.title}</h1>
-          <p className={styles.description}>{doc.description}</p>
-          <a href={doc.url} target="_blank">
-            Beitrag lesen &#x2197;
-          </a>
+            {publishDateFormat(new Date(doc.publishDate))}
+            <h1 className={styles.title}>{doc.title}</h1>
+            <p className={styles.description}>{doc.description}</p>
+            <a href={doc.url} target="_blank">
+              Beitrag lesen &#x2197;
+            </a>
           </div>
         </main>
+  
       </div>
+      <div className={styles.arrowcontainerBottom}>
+          <div className={styles.arrowdown2} />
+        </div>
       <main className={styles.main} style={{ paddingTop: 0 }}>
         <div className={styles.grid}>
-          {outLinks.map((link) => {
-            const linkedDoc = documents.find((d) => d.id === link.target);
+          {outLinks.map(link => {
+            const linkedDoc = documents.find(d => d.id === link.target);
             if (!linkedDoc) {
-              return null
+              return null;
             }
 
             return <Card key={linkedDoc.id} doc={linkedDoc} />;
