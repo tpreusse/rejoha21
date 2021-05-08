@@ -9,7 +9,7 @@ import getDoc from "../data/doc";
 
 import { ArticleIcon } from "../components/ArticleIcon/ArticleIcon";
 
-export default function Detail({ doc }) {
+export default function Detail({ doc, internalLinks }) {
   const router = useRouter();
 
   if (router.isFallback) {
@@ -20,22 +20,39 @@ export default function Detail({ doc }) {
     );
   }
 
+  const inLinks = internalLinks.filter((link) => link.target === doc.id);
+  const outLinks = internalLinks.filter((link) => link.source === doc.id);
+
   return (
     <Frame pageTitle={`${doc.title} – Rehoja21 Content Exploration`}>
       <Link href="/">
         <a>
-          <h2>&larr; Übersicht</h2>
+          <h2>&larr; Themen­stränge</h2>
         </a>
       </Link>
       <div className={styles.linkedArticleContainer}>
         <div className={styles.icon}>
-          <ArticleIcon textlength={40} linksin={15} linksout={2} linktype={"triangles"} />
+          <ArticleIcon
+            textlength={40}
+            linksin={15}
+            linksout={2}
+            linktype={"triangles"}
+          />
         </div>
         <div className={styles.articleData}>
-        <div className={styles.date}>23.07.2019</div>
-        <div className={styles.headline}>Wenn man auf dem Weg dreimal hinfällt und dann liegen bleibt.</div>
+          <div className={styles.date}>23.07.2019</div>
+          <div className={styles.headline}>
+            Wenn man auf dem Weg dreimal hinfällt und dann liegen bleibt.
+          </div>
         </div>
-
+      </div>
+      <div className={styles.icon}>
+        <ArticleIcon
+          textlength={doc.readingMinutes}
+          linksin={inLinks.length}
+          linksout={outLinks.length}
+          linktype={"triangles"}
+        />
       </div>
       <h1 className={styles.title}>{doc.title}</h1>
       <p className={styles.description}>{doc.description}</p>
