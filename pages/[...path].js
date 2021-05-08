@@ -4,14 +4,14 @@ import { timeFormat } from "d3-time-format";
 
 import Frame from "../components/Frame";
 import styles from "../styles/Main.module.css";
-import getDoc from "../data/doc";
+import getDoc from "../data/getDoc";
 import { ArticleIcon } from "../components/ArticleIcon/ArticleIcon";
 
 const publishDateFormat = timeFormat("%d.%m.%Y");
 
 function Card({ doc }) {
   return (
-    <Link href={doc.url.replace('https://www.republik.ch', '')}>
+    <Link href={doc.url.replace("https://www.republik.ch", "")}>
       <a className={styles.linkedArticleContainer}>
         <div className={styles.icon}>
           <ArticleIcon
@@ -42,9 +42,20 @@ export default function Detail({ doc, internalLinks, documents }) {
       </Frame>
     );
   }
+  if (!doc) {
+    return (
+      <Frame pageTitle="Nicht verfügbar">
+        <p className={styles.description}>Das Dokument ist nicht verfügbar.</p>
+      </Frame>
+    );
+  }
 
-  const inLinks = internalLinks.filter((link) => link.target === doc.id);
-  const outLinks = internalLinks.filter((link) => link.source === doc.id);
+  const inLinks = internalLinks
+    .filter((link) => link.target === doc.id)
+    .filter((link, index, all) => index === all.findIndex(d => d.source === link.source));
+  const outLinks = internalLinks
+    .filter((link) => link.source === doc.id)
+    .filter((link, index, all) => index === all.findIndex(d => d.target === link.target));
 
   return (
     <Frame pageTitle={`${doc.title} – Rehoja21 Content Exploration`}>
@@ -56,6 +67,9 @@ export default function Detail({ doc, internalLinks, documents }) {
       <div className={styles.grid}>
         {inLinks.map((link) => {
           const linkedDoc = documents.find((d) => d.id === link.source);
+          if (!linkedDoc) {
+            return null
+          }
 
           return <Card key={linkedDoc.id} doc={linkedDoc} />;
         })}
@@ -80,6 +94,9 @@ export default function Detail({ doc, internalLinks, documents }) {
       <div className={styles.grid}>
         {outLinks.map((link) => {
           const linkedDoc = documents.find((d) => d.id === link.target);
+          if (!linkedDoc) {
+            return null
+          }
 
           return <Card key={linkedDoc.id} doc={linkedDoc} />;
         })}
