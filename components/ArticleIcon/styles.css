@@ -1,9 +1,0 @@
-.ArticelIcon {
-}
-:root {
-  --grey: #aaa;
-}
-.ai_textlength {
-  stroke: var(--grey);
-  stroke-width: 3;
-}

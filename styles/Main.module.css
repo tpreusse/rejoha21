@@ -106,3 +106,22 @@
     flex-direction: column;
   }
 }
+
+.linkedArticleContainer {
+  display: flex;
+  width: 50%;
+}
+.icon {
+  width: 50px;
+  min-width: 50px;
+}
+.articleData {
+}
+.date {
+  color: #999;
+  font-size: 12px;
+  margin-bottom: 5px;
+}
+.headline{
+  text-align: left;
+}

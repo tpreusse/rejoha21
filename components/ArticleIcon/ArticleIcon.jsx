@@ -1,8 +1,8 @@
 import React from "react";
-import styles from '../../styles/ArticleIcon.module.css'
+import styles from "../../styles/ArticleIcon.module.css";
 import { scaleLinear } from "d3-scale";
-const linescale = scaleLinear().domain([0, 40]).range([3, 30]);
 
+const linescale = scaleLinear().domain([0, 40]).range([3, 20]);
 const linelengths = [80, 75, 70];
 const linespace = 8;
 const linkRowLength = 5;
@@ -21,9 +21,9 @@ const chunkArray = (arr, chunkArraySize) => {
 export const ArticleIcon = ({ textlength, linksin, linksout, linktype }) => {
   const linecount = linescale(textlength);
   return (
-    <svg viewbox="0 0 100 800" className="ArticleIcon">
+    <svg viewBox="0 0 100 400" className="ArticleIcon">
       {linksin && (
-        <g transform={`translate(0,${linkSize})`}>
+        <g transform={`translate(0,${5})`}>
           <Links type={linktype} count={linksin} />
         </g>
       )}
@@ -34,12 +34,13 @@ export const ArticleIcon = ({ textlength, linksin, linksout, linktype }) => {
             x2={linelengths[i % 2 === 0 ? 0 : i % 3 === 0 ? 1 : 2]}
             y1={i * linespace}
             y2={i * linespace}
-            className={styles.textlength}          />
+            className={styles.textlength}
+          />
         ))}
       </g>
       {linksin && (
-        <g transform={`translate(0,${linesY + linecount * linespace + linkYSpace})`}>
-          <Links type={linktype} count={linksin} />
+        <g transform={`translate(0,${linesY + linecount * linespace + linkYSpace * 0.25})`} className={styles.linksout}>
+          <Links type={linktype} count={linksout} />
         </g>
       )}
     </svg>
@@ -60,7 +61,7 @@ const Links = ({ type, count }) => {
   return (
     <g>
       {rows.map((row, i) => (
-        <g transform={`translate(0,${i * linkYSpace})`} >{row}</g>
+        <g transform={`translate(0,${i * linkYSpace})`}>{row}</g>
       ))}
     </g>
   );
