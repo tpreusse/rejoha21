@@ -1,4 +1,4 @@
-import data from './2019.json'
+import data from './2019-07to10.json'
 
 export default path => {
   const doc = data.documents.find(d => d.url.endsWith(path))
